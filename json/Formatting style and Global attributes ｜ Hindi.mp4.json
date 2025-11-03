@@ -1,0 +1,2645 @@
+{
+    "chunks": [
+        {
+            "start": 0.0,
+            "end": 3.68,
+            "text": " Welcome to another episode of HTML.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 3.68,
+            "end": 6.0,
+            "text": " I hope you all like this series.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 6.0,
+            "end": 9.44,
+            "text": " You have already clicked on the subscribe button and let's start.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 9.44,
+            "end": 14.96,
+            "text": " So, we have seen how we can refer to small documentation and read some tags.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 14.96,
+            "end": 16.8,
+            "text": " Let's continue this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 16.8,
+            "end": 19.68,
+            "text": " First, we will start by commenting.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 19.68,
+            "end": 25.12,
+            "text": " To comment, we will make a new file because in this episode and in this video,",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 25.12,
+            "end": 26.96,
+            "text": " we will do everything in a new file.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 26.96,
+            "end": 32.08,
+            "text": " We will name this as Formatting because we will focus more on formatting in this video.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 32.08,
+            "end": 37.92,
+            "text": " So, you will now know basic HTML structure and document by default.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 37.92,
+            "end": 43.120000000000005,
+            "text": " And we will simply give it an H1 tag and write Formatting.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 43.120000000000005,
+            "end": 44.16,
+            "text": " Let's save it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 44.16,
+            "end": 45.28,
+            "text": " Command Shift P.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 45.28,
+            "end": 50.08,
+            "text": " You know it and you have to go to Live Server so that we can see Live Preview here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 50.08,
+            "end": 53.84,
+            "text": " Let's close the other Live Previews because they don't have any meaning.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 53.84,
+            "end": 57.040000000000006,
+            "text": " The easiest thing is simply formatting.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 57.040000000000006,
+            "end": 62.800000000000004,
+            "text": " The lines you have, suppose there are two lines, we will add three lines.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 62.800000000000004,
+            "end": 64.16,
+            "text": " You have to comment all of them.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 64.16,
+            "end": 66.64,
+            "text": " First, comment one line. It's a simple hack.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 66.64,
+            "end": 70.64,
+            "text": " Click on cursor and Ctrl slash or Command slash.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 70.64,
+            "end": 71.2,
+            "text": " That's it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 71.2,
+            "end": 71.84,
+            "text": " Comment.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 71.84,
+            "end": 72.64,
+            "text": " Ctrl slash.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 72.64,
+            "end": 73.44,
+            "text": " Click on it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 73.44,
+            "end": 74.64,
+            "text": " It's uncommented.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 74.64,
+            "end": 78.24000000000001,
+            "text": " Whenever we make websites in a professional way, we comment in the same way.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 78.24000000000001,
+            "end": 79.84,
+            "text": " There is no click on each one.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 79.84,
+            "end": 81.68,
+            "text": " Everything is done through emits.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 81.84,
+            "end": 83.04,
+            "text": " You have to do multiple lines.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 83.04,
+            "end": 85.2,
+            "text": " Select all of them and Ctrl slash.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 85.2,
+            "end": 86.0,
+            "text": " Comment.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 86.0,
+            "end": 86.80000000000001,
+            "text": " Ctrl slash.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 86.80000000000001,
+            "end": 88.0,
+            "text": " Uncommented.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 88.0,
+            "end": 91.28,
+            "text": " One small thing to keep in mind is the syntax.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 91.28,
+            "end": 92.24000000000001,
+            "text": " Arrow key.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 92.24000000000001,
+            "end": 94.16000000000001,
+            "text": " Then exclamation sign.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 94.16000000000001,
+            "end": 95.2,
+            "text": " Then two dashes.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 95.2,
+            "end": 99.92000000000002,
+            "text": " And the end of the comment is simply two dashes and this is arrow key.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 99.92000000000002,
+            "end": 101.12,
+            "text": " So, keep this in mind.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 101.12,
+            "end": 104.72,
+            "text": " It's often asked in interviews and this exclamation is done from here and there.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 104.72,
+            "end": 106.72,
+            "text": " And people are asked to confuse it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 106.72,
+            "end": 108.64000000000001,
+            "text": " But you have understood it now.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 108.64000000000001,
+            "end": 110.64000000000001,
+            "text": " There is nothing more in the comments.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 110.64,
+            "end": 112.4,
+            "text": " One small thing to keep in mind.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 112.4,
+            "end": 116.72,
+            "text": " Suppose this Formatting 2 is available here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 116.72,
+            "end": 121.52,
+            "text": " When I comment it, save it, Formatting 2 is here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 121.52,
+            "end": 124.48,
+            "text": " But when I open it in Live Server.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 124.48,
+            "end": 126.64,
+            "text": " So, just a second.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 126.64,
+            "end": 128.64,
+            "text": " I open it in Live Server.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 130.16,
+            "end": 130.88,
+            "text": " Here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 132.56,
+            "end": 135.6,
+            "text": " So, right click and go to view page source.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 135.68,
+            "end": 141.68,
+            "text": " So, you will notice that this formatting is available in the source code.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 141.68,
+            "end": 145.6,
+            "text": " It's a small thing but it sometimes leads to information leaks.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 145.6,
+            "end": 146.88,
+            "text": " So, please keep this in mind.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 146.88,
+            "end": 149.84,
+            "text": " There is more in the comments than this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 149.84,
+            "end": 150.95999999999998,
+            "text": " Okay, let's move ahead.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 150.95999999999998,
+            "end": 152.95999999999998,
+            "text": " After this, let's see text formatting.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 152.95999999999998,
+            "end": 154.32,
+            "text": " This is a little important.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 154.32,
+            "end": 156.95999999999998,
+            "text": " I will tell you more in the short cut of the emits.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 156.95999999999998,
+            "end": 160.79999999999998,
+            "text": " First of all, let's take a simple h3 tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 160.79999999999998,
+            "end": 161.92,
+            "text": " Anyone can take a tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 161.92,
+            "end": 163.68,
+            "text": " It doesn't matter.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 163.76000000000002,
+            "end": 166.24,
+            "text": " Now, let's write in h3.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 167.20000000000002,
+            "end": 168.56,
+            "text": " This is important.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 169.28,
+            "end": 170.0,
+            "text": " I have written this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 170.0,
+            "end": 173.36,
+            "text": " Now, I want this important to be bold here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 173.36,
+            "end": 175.12,
+            "text": " Now, please be careful with the words.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 175.12,
+            "end": 176.96,
+            "text": " The words are so much fun.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 176.96,
+            "end": 178.48000000000002,
+            "text": " So, this is important.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 178.48000000000002,
+            "end": 179.68,
+            "text": " I have cut it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 179.68,
+            "end": 181.68,
+            "text": " And I have written here, B tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 181.68,
+            "end": 182.96,
+            "text": " Hit enter.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 182.96,
+            "end": 184.96,
+            "text": " And for important, I have written in it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 184.96,
+            "end": 187.52,
+            "text": " Now, you are seeing that nothing has affected here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 187.52,
+            "end": 192.08,
+            "text": " Because our h3 tag already has information that is bold.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 192.16000000000003,
+            "end": 194.8,
+            "text": " So, what we will do here is, we will convert it to paragraph.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 194.8,
+            "end": 196.8,
+            "text": " Again, I will use two cursors.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 196.8,
+            "end": 198.0,
+            "text": " I told you in the last video.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 198.0,
+            "end": 201.68,
+            "text": " You can click on the option or alt key and take two cursors.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 201.68,
+            "end": 203.52,
+            "text": " I will take a paragraph here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 203.52,
+            "end": 206.56,
+            "text": " Now, when I save, we get to know the difference here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 206.56,
+            "end": 209.28,
+            "text": " That it is important that it is important.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 209.28,
+            "end": 211.44,
+            "text": " But when you see that it is okay.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 211.44,
+            "end": 213.20000000000002,
+            "text": " This works with bold.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 213.20000000000002,
+            "end": 217.12,
+            "text": " Then, we have another tag which is Strong tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 217.12,
+            "end": 218.32000000000002,
+            "text": " This also works.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 218.32000000000002,
+            "end": 221.76000000000002,
+            "text": " So, when there was a work with bold, why did you do it with strong?",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 221.84,
+            "end": 224.64,
+            "text": " The reason behind it is the basic of HTML.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 224.64,
+            "end": 226.95999999999998,
+            "text": " HTML gives structure to your website.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 226.95999999999998,
+            "end": 228.88,
+            "text": " It provides a semantic.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 228.88,
+            "end": 230.64,
+            "text": " So, whenever you give structure,",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 230.64,
+            "end": 232.72,
+            "text": " the bold you write is okay.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 232.72,
+            "end": 235.28,
+            "text": " At the time, CSS was not that heavy.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 235.28,
+            "end": 236.79999999999998,
+            "text": " It was only with HTML.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 236.79999999999998,
+            "end": 239.44,
+            "text": " So, if you want to bold any word, you should have done B tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 239.44,
+            "end": 241.28,
+            "text": " We don't do this nowadays.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 241.28,
+            "end": 245.35999999999999,
+            "text": " We bold only nowadays when we have to strongly emphasize someone",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 245.35999999999999,
+            "end": 247.92,
+            "text": " that this is our important point on the website.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 247.92,
+            "end": 249.92,
+            "text": " Or this is our important word.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 250.0,
+            "end": 252.0,
+            "text": " You can do it with CSS.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 252.0,
+            "end": 255.76,
+            "text": " But remember, as I told you, the address tag is the same.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 255.76,
+            "end": 258.71999999999997,
+            "text": " Or prefer B tag where you just have to bold.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 258.71999999999997,
+            "end": 261.36,
+            "text": " But information is not that impactful.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 261.36,
+            "end": 262.71999999999997,
+            "text": " So, why do you use B tag?",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 262.71999999999997,
+            "end": 264.8,
+            "text": " Can you do it through CSS?",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 264.8,
+            "end": 265.28,
+            "text": " Yes, absolutely.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 265.28,
+            "end": 266.32,
+            "text": " And do it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 266.32,
+            "end": 268.56,
+            "text": " When you have to show information that it is important,",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 268.56,
+            "end": 270.71999999999997,
+            "text": " then use Strong tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 270.71999999999997,
+            "end": 274.56,
+            "text": " Similarly, you will see, as I duplicate it one more time,",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 274.56,
+            "end": 277.12,
+            "text": " that you will see that there is an I tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 277.12,
+            "end": 279.59999999999997,
+            "text": " And similarly, we have an I tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 279.6,
+            "end": 281.84000000000003,
+            "text": " The second line here is important.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 281.84000000000003,
+            "end": 283.28000000000003,
+            "text": " It is italicized.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 283.28000000000003,
+            "end": 284.40000000000003,
+            "text": " Look here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 284.40000000000003,
+            "end": 286.96000000000004,
+            "text": " Simply zoom it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 286.96000000000004,
+            "end": 288.24,
+            "text": " It is italicized.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 288.24,
+            "end": 288.88,
+            "text": " A little bit.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 288.88,
+            "end": 289.52000000000004,
+            "text": " But yes.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 289.52000000000004,
+            "end": 293.04,
+            "text": " Similarly, we have here another tag which is E-M,",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 293.04,
+            "end": 294.32000000000005,
+            "text": " emphasis tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 294.32000000000005,
+            "end": 295.92,
+            "text": " So, if we want to emphasize a word,",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 295.92,
+            "end": 298.24,
+            "text": " then we will use I tag or emphasis.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 298.24,
+            "end": 299.20000000000005,
+            "text": " Emphasis.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 299.20000000000005,
+            "end": 302.64000000000004,
+            "text": " Similarly, I give you an assignment of some tags here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 302.64000000000004,
+            "end": 304.64000000000004,
+            "text": " Of course, through Emit.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 304.64000000000004,
+            "end": 306.64000000000004,
+            "text": " We also learn a little bit about Emit.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 306.64000000000004,
+            "end": 309.36,
+            "text": " And you will read their documentation about it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 309.36,
+            "end": 311.36,
+            "text": " Yes, everything will not be served on the plate.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 311.36,
+            "end": 315.28000000000003,
+            "text": " You will have to show some expertise to read the documentation.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 315.28000000000003,
+            "end": 317.6,
+            "text": " So, here we make an unordered list.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 317.6,
+            "end": 319.84000000000003,
+            "text": " And we give the list item in it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 319.84000000000003,
+            "end": 321.36,
+            "text": " And for another Emit shortcut,",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 321.36,
+            "end": 323.76,
+            "text": " we will multiply it from the ledges to the 4s.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 323.76,
+            "end": 325.28000000000003,
+            "text": " You can do it from any number.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 325.28000000000003,
+            "end": 327.76,
+            "text": " So, notice that you have 4 allies here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 327.76,
+            "end": 330.08000000000004,
+            "text": " You will save them as 4 bullet points.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 330.08000000000004,
+            "end": 333.28000000000003,
+            "text": " So, now I will tell you which tags you have to read.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 333.28000000000003,
+            "end": 334.64,
+            "text": " You have to read B.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 334.64,
+            "end": 336.88,
+            "text": " And here we have Strong.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 336.96,
+            "end": 338.96,
+            "text": " So, we have already known about this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 338.96,
+            "end": 340.96,
+            "text": " About B tag and Strong tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 340.96,
+            "end": 342.96,
+            "text": " I tag and Emphasis tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 342.96,
+            "end": 344.96,
+            "text": " We have already seen about this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 344.96,
+            "end": 349.92,
+            "text": " Along with this, we give you more details about small tags.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 349.92,
+            "end": 352.56,
+            "text": " So, we have a small tag here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 352.56,
+            "end": 354.24,
+            "text": " What does a small tag do?",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 354.24,
+            "end": 355.76,
+            "text": " Apart from this, there are two tags here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 355.76,
+            "end": 357.76,
+            "text": " Sub and Sup.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 357.76,
+            "end": 358.96,
+            "text": " Subscript superscript.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 358.96,
+            "end": 360.56,
+            "text": " I will give you a small example of this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 360.56,
+            "end": 362.08,
+            "text": " But I will not teach you all the tags.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 362.08,
+            "end": 364.08,
+            "text": " You will have to learn some tags here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 364.08,
+            "end": 366.08,
+            "text": " And apart from this, there are two tags.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 366.24,
+            "end": 368.24,
+            "text": " Delete and Mark.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 368.24,
+            "end": 369.12,
+            "text": " Okay.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 369.12,
+            "end": 370.71999999999997,
+            "text": " We will give a small example of this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 370.71999999999997,
+            "end": 372.32,
+            "text": " Subscript and Sup.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 372.32,
+            "end": 372.96,
+            "text": " Now, let's see.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 372.96,
+            "end": 376.0,
+            "text": " I have no idea about the subscript and super tag script.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 376.0,
+            "end": 378.0,
+            "text": " So, let's go back here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 378.0,
+            "end": 380.47999999999996,
+            "text": " And let's see what subscript is.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 380.47999999999996,
+            "end": 384.15999999999997,
+            "text": " So, I went to the sub tag MDN documentation.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 384.15999999999997,
+            "end": 386.15999999999997,
+            "text": " I opened the documentation.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 386.15999999999997,
+            "end": 389.2,
+            "text": " And I saw that there is an example of this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 389.2,
+            "end": 390.32,
+            "text": " Which is given here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 390.32,
+            "end": 393.59999999999997,
+            "text": " So, I saw that almost every developer's favorite molecule is",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 393.92,
+            "end": 396.40000000000003,
+            "text": " C8, H10, N4.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 396.40000000000003,
+            "end": 396.88,
+            "text": " Okay.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 396.88,
+            "end": 397.92,
+            "text": " Which is caffeine.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 397.92,
+            "end": 402.24,
+            "text": " So, we saw that all these numbers are needed in the lower down script.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 402.24,
+            "end": 403.92,
+            "text": " We could have done this with CSS.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 403.92,
+            "end": 406.56,
+            "text": " But when there is an option directly available, we can do it here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 406.56,
+            "end": 409.76000000000005,
+            "text": " So, I saw that this 8 is in the subscript.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 409.76000000000005,
+            "end": 412.0,
+            "text": " So, I have come to read the documentation.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 412.0,
+            "end": 414.40000000000003,
+            "text": " Now, it is obvious that I will see in the first thing.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 414.40000000000003,
+            "end": 416.8,
+            "text": " And there are more attributes about attributes.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 416.8,
+            "end": 420.08000000000004,
+            "text": " See, there is no other attribute that I should read here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 420.08000000000004,
+            "end": 421.84000000000003,
+            "text": " Now, I will experiment with it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 421.84000000000003,
+            "end": 423.44,
+            "text": " So, I got a simple paragraph.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 424.08,
+            "end": 426.24,
+            "text": " I had to write in the paragraph H2O.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 427.84,
+            "end": 429.44,
+            "text": " So, I write H2O here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 429.44,
+            "end": 430.08,
+            "text": " Okay.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 430.08,
+            "end": 431.36,
+            "text": " H2O comes like this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 432.48,
+            "end": 432.88,
+            "text": " Okay.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 432.88,
+            "end": 435.76,
+            "text": " Now, I have to do this 2 in the subscript.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 435.76,
+            "end": 439.76,
+            "text": " So, I just read in our documentation that what I can do simply.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 440.48,
+            "end": 444.88,
+            "text": " I can write sub and sub here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 446.24,
+            "end": 448.24,
+            "text": " So, this is it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 448.24,
+            "end": 448.64,
+            "text": " Okay.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 448.64,
+            "end": 449.2,
+            "text": " It is done.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 449.2,
+            "end": 450.72,
+            "text": " There are some more spaces.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 450.72,
+            "end": 452.64,
+            "text": " So, I remove the spaces here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 454.4,
+            "end": 460.56,
+            "text": " And I have learnt to read through the documentation how this is implemented.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 460.56,
+            "end": 462.56,
+            "text": " So, in the same way, what you have to do?",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 462.56,
+            "end": 464.56,
+            "text": " There is a small exercise in front of you.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 464.56,
+            "end": 466.56,
+            "text": " You have to see the superscript as well.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 466.56,
+            "end": 468.56,
+            "text": " How it works in the same way.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 468.56,
+            "end": 470.08,
+            "text": " And a del and mark.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 470.08,
+            "end": 472.08,
+            "text": " And you have to write in the comment section.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 472.08,
+            "end": 474.08,
+            "text": " Even though thousands of people have already written it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 474.08,
+            "end": 476.08,
+            "text": " But because your journey is different for you.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 476.08,
+            "end": 482.08,
+            "text": " You have to write in the comment section that what does this delete tag and mark tag actually work.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 482.08,
+            "end": 483.52,
+            "text": " And a small example.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 483.52,
+            "end": 486.0,
+            "text": " I know you must have seen the mark tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 486.0,
+            "end": 488.0,
+            "text": " Or you must have seen the del tag 100%.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 488.0,
+            "end": 490.0,
+            "text": " Especially during sales or discount.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 490.0,
+            "end": 494.0,
+            "text": " So, you must have seen the tag in the comment section.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 494.0,
+            "end": 497.03999999999996,
+            "text": " So, this is our small formatting.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 497.03999999999996,
+            "end": 500.0,
+            "text": " One thing that we will not discuss much in this video.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 500.0,
+            "end": 502.88,
+            "text": " But we have to emphasize it in this video.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 502.88,
+            "end": 504.88,
+            "text": " And cover it up a little.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 504.88,
+            "end": 507.36,
+            "text": " Suppose we have some headings.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 507.36,
+            "end": 509.36,
+            "text": " H1 headings which is not good.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 509.36,
+            "end": 512.16,
+            "text": " We should have one H1 heading on one page.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 512.16,
+            "end": 512.96,
+            "text": " But okay.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 512.96,
+            "end": 514.48,
+            "text": " Which we understood.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 514.48,
+            "end": 516.0,
+            "text": " So, we will keep it in mind.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 516.0,
+            "end": 518.48,
+            "text": " So, now we will go here for a simple H3 tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 518.48,
+            "end": 520.48,
+            "text": " And we will keep it here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 520.48,
+            "end": 523.84,
+            "text": " This tag needs some styling.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 523.84,
+            "end": 525.84,
+            "text": " Okay.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 525.84,
+            "end": 527.36,
+            "text": " Tag is here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 527.36,
+            "end": 529.84,
+            "text": " Now I want to add some styling in it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 529.84,
+            "end": 531.84,
+            "text": " We will go into the CSS for styling.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 531.84,
+            "end": 533.84,
+            "text": " But because I want to tell you about another tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 533.84,
+            "end": 535.84,
+            "text": " I want to tell you about the attribute.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 535.84,
+            "end": 537.84,
+            "text": " So, let's know that attribute here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 537.84,
+            "end": 539.84,
+            "text": " So, as we see other attributes.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 539.84,
+            "end": 541.84,
+            "text": " Like the title is an attribute.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 541.84,
+            "end": 543.84,
+            "text": " Tab index is a lot of attributes.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 543.84,
+            "end": 545.84,
+            "text": " One attribute which is called style.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 545.84,
+            "end": 547.84,
+            "text": " This is inline styling.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 547.84,
+            "end": 549.84,
+            "text": " So, we write style like this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 549.84,
+            "end": 551.84,
+            "text": " In double quotes.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 551.84,
+            "end": 553.84,
+            "text": " And after that you can give different text.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 553.84,
+            "end": 555.84,
+            "text": " For formatting and styling.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 555.84,
+            "end": 557.84,
+            "text": " We will not go into the details about styling.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 557.84,
+            "end": 559.84,
+            "text": " But you should know about this tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 559.84,
+            "end": 561.84,
+            "text": " For example, here we have written text align.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 561.84,
+            "end": 563.84,
+            "text": " And we have written center.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 563.84,
+            "end": 565.84,
+            "text": " The most important thing which you should know here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 565.84,
+            "end": 567.84,
+            "text": " Is just that.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 567.84,
+            "end": 569.84,
+            "text": " How does it come in syntax?",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 569.84,
+            "end": 571.84,
+            "text": " So, what we saw is text align.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 571.84,
+            "end": 573.84,
+            "text": " Then we have written column.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 573.84,
+            "end": 575.84,
+            "text": " Then we have written center.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 575.84,
+            "end": 577.84,
+            "text": " And then we have a semicolon.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 577.84,
+            "end": 579.84,
+            "text": " If you want to write more properties.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 579.84,
+            "end": 581.84,
+            "text": " For example, if I want to write background color.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 581.84,
+            "end": 583.84,
+            "text": " Then after background color.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 583.84,
+            "end": 585.84,
+            "text": " I will give a random color.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 585.84,
+            "end": 587.84,
+            "text": " Like 4, 3,",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 587.84,
+            "end": 589.84,
+            "text": " A, 3, 2.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 589.84,
+            "end": 591.84,
+            "text": " I don't know which color it is.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 591.84,
+            "end": 593.84,
+            "text": " But it is green.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 593.84,
+            "end": 595.84,
+            "text": " Notice that it is in background color.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 595.84,
+            "end": 597.84,
+            "text": " So, multiple properties are written like this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 597.84,
+            "end": 599.84,
+            "text": " Many times, to understand this well.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 599.84,
+            "end": 601.84,
+            "text": " People enter a line here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 601.84,
+            "end": 603.84,
+            "text": " And here your properties are written like this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 603.84,
+            "end": 605.84,
+            "text": " It is a little easy to learn.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 605.84,
+            "end": 607.84,
+            "text": " And it is easy to see.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 607.84,
+            "end": 609.84,
+            "text": " In H3, the styling properties.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 609.84,
+            "end": 611.84,
+            "text": " We have the first text align center.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 611.84,
+            "end": 613.84,
+            "text": " Then the background.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 613.84,
+            "end": 615.84,
+            "text": " Whenever I write on production level.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 615.84,
+            "end": 617.84,
+            "text": " I write like this. Because it is easy to learn and understand.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 617.84,
+            "end": 619.84,
+            "text": " And we have already seen.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 619.84,
+            "end": 621.84,
+            "text": " That Html doesn't matter so much.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 621.84,
+            "end": 623.84,
+            "text": " It doesn't matter.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 623.84,
+            "end": 625.84,
+            "text": " So, this is a more readable format.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 625.84,
+            "end": 627.84,
+            "text": " Always write code that is more readable.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 627.84,
+            "end": 629.84,
+            "text": " Give the readability the number 1 priority.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 629.84,
+            "end": 631.84,
+            "text": " So, this is the basic style tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 631.84,
+            "end": 633.84,
+            "text": " Now, how many types of properties can be found in the style.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 633.84,
+            "end": 635.84,
+            "text": " We will read this in CSS.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 635.84,
+            "end": 637.84,
+            "text": " Again, we will not read all.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 637.84,
+            "end": 639.84,
+            "text": " As much as we need.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 639.84,
+            "end": 641.84,
+            "text": " Now, what you have to do?",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 641.84,
+            "end": 643.84,
+            "text": " Yes, you have to read the documentation.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 643.84,
+            "end": 645.84,
+            "text": " So, take some time.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 645.84,
+            "end": 647.84,
+            "text": " Not much. 10 minutes is enough.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 647.84,
+            "end": 649.84,
+            "text": " So, you go in the style.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 649.84,
+            "end": 651.84,
+            "text": " And you can get the attributes.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 651.84,
+            "end": 653.84,
+            "text": " So, we have written the styling.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 653.84,
+            "end": 655.84,
+            "text": " This styling is written in CSS.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 655.84,
+            "end": 657.84,
+            "text": " I have read the style attribute.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 657.84,
+            "end": 659.84,
+            "text": " We will see the attributes here.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 659.84,
+            "end": 661.84,
+            "text": " There is a lot of media.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 661.84,
+            "end": 663.84,
+            "text": " I think we will have to go to the other documentation.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 663.84,
+            "end": 665.84,
+            "text": " Style tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 665.84,
+            "end": 667.84,
+            "text": " Html.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 667.84,
+            "end": 669.84,
+            "text": " I think this is it.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 669.84,
+            "end": 671.84,
+            "text": " Let's see.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 671.84,
+            "end": 673.84,
+            "text": " So, this is the style tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 673.84,
+            "end": 675.84,
+            "text": " So, many times you will come to different documentation.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 675.84,
+            "end": 677.84,
+            "text": " So, make sure you keep in mind.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 677.84,
+            "end": 679.84,
+            "text": " You are in the documentation of Html.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 679.84,
+            "end": 681.84,
+            "text": " This is the global attribute.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 681.84,
+            "end": 683.84,
+            "text": " Which is style.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 683.84,
+            "end": 685.84,
+            "text": " Global attribute means it is available everywhere.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 685.84,
+            "end": 687.84,
+            "text": " So, you will go and see.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 687.84,
+            "end": 689.84,
+            "text": " I want you to have curiosity in your mind.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 689.84,
+            "end": 691.84,
+            "text": " You click on the global attribute.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 691.84,
+            "end": 693.84,
+            "text": " And at least see which attributes are global.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 693.84,
+            "end": 697.84,
+            "text": " Access keys, auto capitalized, auto focus, classes.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 697.84,
+            "end": 699.84,
+            "text": " I know about all these.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 699.84,
+            "end": 701.84,
+            "text": " I have seen many tutorials.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 701.84,
+            "end": 703.84,
+            "text": " No one will tell.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 703.84,
+            "end": 705.84,
+            "text": " Because you have to read all these from the documentation.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 705.84,
+            "end": 707.84,
+            "text": " And not much.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 707.84,
+            "end": 709.84,
+            "text": " Just tell me which are the global attributes.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 709.84,
+            "end": 711.84,
+            "text": " Which we can use anywhere.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 711.84,
+            "end": 713.84,
+            "text": " With any tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 713.84,
+            "end": 715.84,
+            "text": " For example, we saw that the title is an attribute.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 715.84,
+            "end": 717.84,
+            "text": " Style.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 717.84,
+            "end": 719.84,
+            "text": " You can put it in H1.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 719.84,
+            "end": 721.84,
+            "text": " You can put it in paragraph.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 721.84,
+            "end": 723.84,
+            "text": " Title. We saw that this can be added with anyone.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 723.84,
+            "end": 725.84,
+            "text": " With images, with a tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 725.84,
+            "end": 727.84,
+            "text": " With a paragraph and with any tag.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 727.84,
+            "end": 729.84,
+            "text": " You can also use the translate.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 729.84,
+            "end": 731.84,
+            "text": " Go a little.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 731.84,
+            "end": 733.84,
+            "text": " Read the documentation.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 733.84,
+            "end": 737.84,
+            "text": " And see how we can format this text.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 737.84,
+            "end": 741.84,
+            "text": " In the next few videos, we will see more details like this.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 741.84,
+            "end": 743.84,
+            "text": " It is important to read the documentation.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 743.84,
+            "end": 745.84,
+            "text": " Hit the subscribe button.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        },
+        {
+            "start": 745.84,
+            "end": 747.84,
+            "text": " And we will meet in the next video.",
+            "audio_file": "Formatting style and Global attributes ｜ Hindi.mp4.mp3",
+            "title": "Formatting style and Global attributes ｜ Hindi.mp4",
+            "number": 1
+        }
+    ],
+    "text": " Welcome to another episode of HTML. I hope you all like this series. You have already clicked on the subscribe button and let's start. So, we have seen how we can refer to small documentation and read some tags. Let's continue this. First, we will start by commenting. To comment, we will make a new file because in this episode and in this video, we will do everything in a new file. We will name this as Formatting because we will focus more on formatting in this video. So, you will now know basic HTML structure and document by default. And we will simply give it an H1 tag and write Formatting. Let's save it. Command Shift P. You know it and you have to go to Live Server so that we can see Live Preview here. Let's close the other Live Previews because they don't have any meaning. The easiest thing is simply formatting. The lines you have, suppose there are two lines, we will add three lines. You have to comment all of them. First, comment one line. It's a simple hack. Click on cursor and Ctrl slash or Command slash. That's it. Comment. Ctrl slash. Click on it. It's uncommented. Whenever we make websites in a professional way, we comment in the same way. There is no click on each one. Everything is done through emits. You have to do multiple lines. Select all of them and Ctrl slash. Comment. Ctrl slash. Uncommented. One small thing to keep in mind is the syntax. Arrow key. Then exclamation sign. Then two dashes. And the end of the comment is simply two dashes and this is arrow key. So, keep this in mind. It's often asked in interviews and this exclamation is done from here and there. And people are asked to confuse it. But you have understood it now. There is nothing more in the comments. One small thing to keep in mind. Suppose this Formatting 2 is available here. When I comment it, save it, Formatting 2 is here. But when I open it in Live Server. So, just a second. I open it in Live Server. Here. So, right click and go to view page source. So, you will notice that this formatting is available in the source code. It's a small thing but it sometimes leads to information leaks. So, please keep this in mind. There is more in the comments than this. Okay, let's move ahead. After this, let's see text formatting. This is a little important. I will tell you more in the short cut of the emits. First of all, let's take a simple h3 tag. Anyone can take a tag. It doesn't matter. Now, let's write in h3. This is important. I have written this. Now, I want this important to be bold here. Now, please be careful with the words. The words are so much fun. So, this is important. I have cut it. And I have written here, B tag. Hit enter. And for important, I have written in it. Now, you are seeing that nothing has affected here. Because our h3 tag already has information that is bold. So, what we will do here is, we will convert it to paragraph. Again, I will use two cursors. I told you in the last video. You can click on the option or alt key and take two cursors. I will take a paragraph here. Now, when I save, we get to know the difference here. That it is important that it is important. But when you see that it is okay. This works with bold. Then, we have another tag which is Strong tag. This also works. So, when there was a work with bold, why did you do it with strong? The reason behind it is the basic of HTML. HTML gives structure to your website. It provides a semantic. So, whenever you give structure, the bold you write is okay. At the time, CSS was not that heavy. It was only with HTML. So, if you want to bold any word, you should have done B tag. We don't do this nowadays. We bold only nowadays when we have to strongly emphasize someone that this is our important point on the website. Or this is our important word. You can do it with CSS. But remember, as I told you, the address tag is the same. Or prefer B tag where you just have to bold. But information is not that impactful. So, why do you use B tag? Can you do it through CSS? Yes, absolutely. And do it. When you have to show information that it is important, then use Strong tag. Similarly, you will see, as I duplicate it one more time, that you will see that there is an I tag. And similarly, we have an I tag. The second line here is important. It is italicized. Look here. Simply zoom it. It is italicized. A little bit. But yes. Similarly, we have here another tag which is E-M, emphasis tag. So, if we want to emphasize a word, then we will use I tag or emphasis. Emphasis. Similarly, I give you an assignment of some tags here. Of course, through Emit. We also learn a little bit about Emit. And you will read their documentation about it. Yes, everything will not be served on the plate. You will have to show some expertise to read the documentation. So, here we make an unordered list. And we give the list item in it. And for another Emit shortcut, we will multiply it from the ledges to the 4s. You can do it from any number. So, notice that you have 4 allies here. You will save them as 4 bullet points. So, now I will tell you which tags you have to read. You have to read B. And here we have Strong. So, we have already known about this. About B tag and Strong tag. I tag and Emphasis tag. We have already seen about this. Along with this, we give you more details about small tags. So, we have a small tag here. What does a small tag do? Apart from this, there are two tags here. Sub and Sup. Subscript superscript. I will give you a small example of this. But I will not teach you all the tags. You will have to learn some tags here. And apart from this, there are two tags. Delete and Mark. Okay. We will give a small example of this. Subscript and Sup. Now, let's see. I have no idea about the subscript and super tag script. So, let's go back here. And let's see what subscript is. So, I went to the sub tag MDN documentation. I opened the documentation. And I saw that there is an example of this. Which is given here. So, I saw that almost every developer's favorite molecule is C8, H10, N4. Okay. Which is caffeine. So, we saw that all these numbers are needed in the lower down script. We could have done this with CSS. But when there is an option directly available, we can do it here. So, I saw that this 8 is in the subscript. So, I have come to read the documentation. Now, it is obvious that I will see in the first thing. And there are more attributes about attributes. See, there is no other attribute that I should read here. Now, I will experiment with it. So, I got a simple paragraph. I had to write in the paragraph H2O. So, I write H2O here. Okay. H2O comes like this. Okay. Now, I have to do this 2 in the subscript. So, I just read in our documentation that what I can do simply. I can write sub and sub here. So, this is it. Okay. It is done. There are some more spaces. So, I remove the spaces here. And I have learnt to read through the documentation how this is implemented. So, in the same way, what you have to do? There is a small exercise in front of you. You have to see the superscript as well. How it works in the same way. And a del and mark. And you have to write in the comment section. Even though thousands of people have already written it. But because your journey is different for you. You have to write in the comment section that what does this delete tag and mark tag actually work. And a small example. I know you must have seen the mark tag. Or you must have seen the del tag 100%. Especially during sales or discount. So, you must have seen the tag in the comment section. So, this is our small formatting. One thing that we will not discuss much in this video. But we have to emphasize it in this video. And cover it up a little. Suppose we have some headings. H1 headings which is not good. We should have one H1 heading on one page. But okay. Which we understood. So, we will keep it in mind. So, now we will go here for a simple H3 tag. And we will keep it here. This tag needs some styling. Okay. Tag is here. Now I want to add some styling in it. We will go into the CSS for styling. But because I want to tell you about another tag. I want to tell you about the attribute. So, let's know that attribute here. So, as we see other attributes. Like the title is an attribute. Tab index is a lot of attributes. One attribute which is called style. This is inline styling. So, we write style like this. In double quotes. And after that you can give different text. For formatting and styling. We will not go into the details about styling. But you should know about this tag. For example, here we have written text align. And we have written center. The most important thing which you should know here. Is just that. How does it come in syntax? So, what we saw is text align. Then we have written column. Then we have written center. And then we have a semicolon. If you want to write more properties. For example, if I want to write background color. Then after background color. I will give a random color. Like 4, 3, A, 3, 2. I don't know which color it is. But it is green. Notice that it is in background color. So, multiple properties are written like this. Many times, to understand this well. People enter a line here. And here your properties are written like this. It is a little easy to learn. And it is easy to see. In H3, the styling properties. We have the first text align center. Then the background. Whenever I write on production level. I write like this. Because it is easy to learn and understand. And we have already seen. That Html doesn't matter so much. It doesn't matter. So, this is a more readable format. Always write code that is more readable. Give the readability the number 1 priority. So, this is the basic style tag. Now, how many types of properties can be found in the style. We will read this in CSS. Again, we will not read all. As much as we need. Now, what you have to do? Yes, you have to read the documentation. So, take some time. Not much. 10 minutes is enough. So, you go in the style. And you can get the attributes. So, we have written the styling. This styling is written in CSS. I have read the style attribute. We will see the attributes here. There is a lot of media. I think we will have to go to the other documentation. Style tag. Html. I think this is it. Let's see. So, this is the style tag. So, many times you will come to different documentation. So, make sure you keep in mind. You are in the documentation of Html. This is the global attribute. Which is style. Global attribute means it is available everywhere. So, you will go and see. I want you to have curiosity in your mind. You click on the global attribute. And at least see which attributes are global. Access keys, auto capitalized, auto focus, classes. I know about all these. I have seen many tutorials. No one will tell. Because you have to read all these from the documentation. And not much. Just tell me which are the global attributes. Which we can use anywhere. With any tag. For example, we saw that the title is an attribute. Style. You can put it in H1. You can put it in paragraph. Title. We saw that this can be added with anyone. With images, with a tag. With a paragraph and with any tag. You can also use the translate. Go a little. Read the documentation. And see how we can format this text. In the next few videos, we will see more details like this. It is important to read the documentation. Hit the subscribe button. And we will meet in the next video."
+}

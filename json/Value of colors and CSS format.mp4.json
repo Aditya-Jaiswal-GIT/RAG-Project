@@ -1,0 +1,3021 @@
+{
+    "chunks": [
+        {
+            "start": 0.0,
+            "end": 2.42,
+            "text": " Welcome to Tea and Code.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 2.42,
+            "end": 6.68,
+            "text": " In this video, we will simply learn about some other elements of HTML.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 6.68,
+            "end": 8.56,
+            "text": " It will be very easy and easy.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 8.56,
+            "end": 13.76,
+            "text": " We will first look at the colors and then we will discuss about CSS.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 13.76,
+            "end": 16.32,
+            "text": " It is a very easy video, there is not much complicated.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 16.32,
+            "end": 18.48,
+            "text": " First of all, we will create a new file.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 18.48,
+            "end": 23.84,
+            "text": " Because all the files must be kept separate so that it is very easy to revision.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 23.84,
+            "end": 26.76,
+            "text": " So, let's name it colors.html.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 26.76,
+            "end": 27.92,
+            "text": " Enter it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 28.080000000000002,
+            "end": 32.36,
+            "text": " After that, we will copy the code we wrote in the formatting and bring it here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 32.36,
+            "end": 34.64,
+            "text": " So that you have all the files saved.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 34.64,
+            "end": 36.040000000000006,
+            "text": " And this file will come to us.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 36.040000000000006,
+            "end": 38.24,
+            "text": " Again, I think everyone is very careful.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 38.24,
+            "end": 39.400000000000006,
+            "text": " Command Shift P.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 39.400000000000006,
+            "end": 42.2,
+            "text": " And after that, we need a preview in the live server.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 42.2,
+            "end": 45.08,
+            "text": " And this is our preview from colors.html.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 45.08,
+            "end": 47.88,
+            "text": " Please keep the name on the top of the file.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 47.88,
+            "end": 53.84,
+            "text": " Now, while we are talking about colors, we have seen that Textaline Center and Background Color are available here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 53.92,
+            "end": 58.0,
+            "text": " So, first of all, let's do the word wrap so that we can show everything together.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 58.0,
+            "end": 60.36000000000001,
+            "text": " Now, we have seen that the colors we wrote in this format.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 60.36000000000001,
+            "end": 65.2,
+            "text": " Hash, then two values, then two values, and then two values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 65.2,
+            "end": 68.92,
+            "text": " So, we call this color format Hex values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 68.92,
+            "end": 70.52000000000001,
+            "text": " Which is simply Hex values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 70.52000000000001,
+            "end": 73.52000000000001,
+            "text": " So, Hexagonal, you must have read it, maybe you haven't read it, it's okay.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 73.52000000000001,
+            "end": 76.32000000000001,
+            "text": " The best thing is that you should use the editor as well.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 76.32000000000001,
+            "end": 81.60000000000001,
+            "text": " As soon as you hover over it, you get a full value for a background color.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 81.6,
+            "end": 85.67999999999999,
+            "text": " And you can click it here to see what kind of shade and color I want.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 85.67999999999999,
+            "end": 87.55999999999999,
+            "text": " Maybe you want it in a blueish tone.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 87.55999999999999,
+            "end": 88.91999999999999,
+            "text": " So, you can simply put it here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 88.91999999999999,
+            "end": 91.72,
+            "text": " As soon as I save it, it becomes a color.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 91.72,
+            "end": 93.8,
+            "text": " Now, most of the time, when you make professional websites,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 93.8,
+            "end": 97.39999999999999,
+            "text": " your designers will give you color code values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 97.39999999999999,
+            "end": 98.6,
+            "text": " There is another way to do it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 98.6,
+            "end": 101.75999999999999,
+            "text": " Instead of writing them, you simply write blue here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 101.75999999999999,
+            "end": 106.52,
+            "text": " The problem is that the interpretation of this blue will separate the Mozilla Firefox.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 106.52,
+            "end": 108.88,
+            "text": " It will separate Chrome, so this is not the right way.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 108.88,
+            "end": 110.39999999999999,
+            "text": " It's okay to learn if you write it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 111.36,
+            "end": 115.96000000000001,
+            "text": " But in professional life, you don't get these Hex code values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 115.96000000000001,
+            "end": 117.56,
+            "text": " Now, this is not the only way.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 117.56,
+            "end": 118.60000000000001,
+            "text": " There are two other ways.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 118.60000000000001,
+            "end": 122.56,
+            "text": " We write Hex values, RGB values and HSL values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 122.56,
+            "end": 126.56,
+            "text": " To give the best example of all these, you simply hover over it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 126.56,
+            "end": 130.04000000000002,
+            "text": " Then, as you see the Hex values here, click it once.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 130.04000000000002,
+            "end": 132.64000000000001,
+            "text": " So, we have got HSL values here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 132.64000000000001,
+            "end": 136.48000000000002,
+            "text": " And here, there are HWB values and RGB values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 136.56,
+            "end": 142.04,
+            "text": " If you don't use HWB values, then you simply look at RGB and HSL values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 142.04,
+            "end": 144.76,
+            "text": " So, these RGB values are very simple.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 144.76,
+            "end": 148.51999999999998,
+            "text": " If you want to see the simple details of RGB values,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 148.51999999999998,
+            "end": 150.07999999999998,
+            "text": " then it's not that complicated.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 150.07999999999998,
+            "end": 151.95999999999998,
+            "text": " Red, green and blue.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 151.95999999999998,
+            "end": 153.67999999999998,
+            "text": " So, these are all the values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 153.67999999999998,
+            "end": 157.6,
+            "text": " From 0 to 256, the values can differ.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 157.6,
+            "end": 161.83999999999997,
+            "text": " The first value is R, then G and then B.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 161.83999999999997,
+            "end": 162.76,
+            "text": " Red, green and blue.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 162.76,
+            "end": 165.6,
+            "text": " And all the colors are made from these combinations.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 165.64,
+            "end": 168.51999999999998,
+            "text": " You will see that these values are changed like this.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 168.51999999999998,
+            "end": 171.2,
+            "text": " And you can keep the value you want.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 171.2,
+            "end": 172.88,
+            "text": " After this, when I hover over it again,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 172.88,
+            "end": 176.88,
+            "text": " then notice these are Hex values and these are HSL values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 176.88,
+            "end": 180.48,
+            "text": " These HSL values are also very simple.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 180.48,
+            "end": 183.44,
+            "text": " Simply Hue, Saturation or Light.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 183.44,
+            "end": 188.2,
+            "text": " So, the value of Hue differs from 0 to 360.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 188.2,
+            "end": 189.88,
+            "text": " If you have seen the color wheels,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 189.88,
+            "end": 191.88,
+            "text": " then the whole wheel rotates in the color wheels.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 191.88,
+            "end": 193.4,
+            "text": " It has 0 to 360 values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 193.44,
+            "end": 195.64000000000001,
+            "text": " Again, you don't have to think too much.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 195.64000000000001,
+            "end": 197.88,
+            "text": " Your designers give you these values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 197.88,
+            "end": 200.52,
+            "text": " After that, the saturation of the color you have picked,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 200.52,
+            "end": 203.28,
+            "text": " the saturation of the color, the intensity of the color.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 203.28,
+            "end": 205.32,
+            "text": " In blue, you have seen that from light blue to dark blue,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 205.32,
+            "end": 207.44,
+            "text": " there are many colors from intense blue.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 207.44,
+            "end": 209.76,
+            "text": " And after that, the last one is Lightness.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 209.76,
+            "end": 211.08,
+            "text": " How much is the value of light?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 211.08,
+            "end": 213.64000000000001,
+            "text": " How much is the intensity of light in light and dark?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 213.64000000000001,
+            "end": 214.88,
+            "text": " Now, all this is fine.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 214.88,
+            "end": 217.24,
+            "text": " But you will see that there are two more values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 217.24,
+            "end": 218.36,
+            "text": " It's not too complex.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 218.36,
+            "end": 220.6,
+            "text": " It's not like I will confuse you too much.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 220.6,
+            "end": 223.08,
+            "text": " A can be applied in front of HSL.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 223.08,
+            "end": 224.88000000000002,
+            "text": " And when you apply RGB values,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 224.88000000000002,
+            "end": 227.12,
+            "text": " it can be applied in front of it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 227.12,
+            "end": 230.08,
+            "text": " A is simply an alpha channel.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 230.08,
+            "end": 232.56,
+            "text": " There is nothing between 0 and 1.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 232.56,
+            "end": 234.60000000000002,
+            "text": " And how much you want opaque value,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 234.60000000000002,
+            "end": 235.96,
+            "text": " how much you want light value,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 235.96,
+            "end": 236.88000000000002,
+            "text": " depends on that.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 236.88000000000002,
+            "end": 239.96,
+            "text": " Like in HSL, if I write A value here,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 239.96,
+            "end": 241.16000000000003,
+            "text": " then it also works with us.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 241.16000000000003,
+            "end": 242.68,
+            "text": " And if I click with it,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 242.68,
+            "end": 244.20000000000002,
+            "text": " then I will write RGB values,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 244.20000000000002,
+            "end": 247.04000000000002,
+            "text": " then RGB values also adds here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 247.04000000000002,
+            "end": 248.56,
+            "text": " So, this is our RGB values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 248.56,
+            "end": 249.76000000000002,
+            "text": " Simply Alpha channels.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 249.76000000000002,
+            "end": 252.56,
+            "text": " And from there, you can choose the values",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 252.88,
+            "end": 254.24,
+            "text": " if you want 50%,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 254.24,
+            "end": 255.36,
+            "text": " then you can write it as per that.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 255.36,
+            "end": 257.88,
+            "text": " Like, if you get 50% of 0.5%,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 257.88,
+            "end": 259.16,
+            "text": " then as soon as I save it,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 259.16,
+            "end": 260.56,
+            "text": " the colors are a little light.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 260.56,
+            "end": 261.72,
+            "text": " A means alpha.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 261.72,
+            "end": 263.0,
+            "text": " Simply opacity.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 263.0,
+            "end": 263.68,
+            "text": " That's it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 263.68,
+            "end": 267.0,
+            "text": " You need to know this much about colors in the HTML.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 267.0,
+            "end": 268.16,
+            "text": " And most importantly,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 268.16,
+            "end": 268.88,
+            "text": " don't worry,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 268.88,
+            "end": 273.2,
+            "text": " because most of the values are from the designer.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 273.2,
+            "end": 273.68,
+            "text": " Okay.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 273.68,
+            "end": 276.04,
+            "text": " So, this is our basic colors format.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 276.04,
+            "end": 279.24,
+            "text": " How many colors are there and what can we do.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 279.24,
+            "end": 281.88,
+            "text": " Now, after this, I would like to take your attention",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 281.88,
+            "end": 283.2,
+            "text": " to this styling.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 283.2,
+            "end": 284.0,
+            "text": " So, notice here,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 284.0,
+            "end": 286.36,
+            "text": " we have the style values in the list.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 286.36,
+            "end": 289.76,
+            "text": " But how much more can we add our styling.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 289.76,
+            "end": 290.84,
+            "text": " When we read CSS,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 290.84,
+            "end": 292.76,
+            "text": " we will go into more detail about it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 292.76,
+            "end": 294.44,
+            "text": " But at least we should know the basics",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 294.44,
+            "end": 297.48,
+            "text": " of how can we introduce styling.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 297.48,
+            "end": 301.0,
+            "text": " So, we saw that we can inject our styling",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 301.0,
+            "end": 303.2,
+            "text": " through inline tags or through attributes.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 303.2,
+            "end": 305.12,
+            "text": " One of the most common ways you must have seen",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 305.12,
+            "end": 307.15999999999997,
+            "text": " is that a style is kept in a separate file.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 307.15999999999997,
+            "end": 308.6,
+            "text": " Like I gave its name,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 308.6,
+            "end": 310.48,
+            "text": " style.css.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 310.48,
+            "end": 312.36,
+            "text": " And in this, a small css is written.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 312.36,
+            "end": 314.16,
+            "text": " We will see in more detail about CSS",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 314.16,
+            "end": 315.68,
+            "text": " how selectors work,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 315.68,
+            "end": 317.48,
+            "text": " how you can see properties.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 317.48,
+            "end": 319.6,
+            "text": " But now, I am targeting the complete body",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 319.6,
+            "end": 321.44,
+            "text": " and I am writing a background color in it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 321.44,
+            "end": 323.72,
+            "text": " 414141,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 323.72,
+            "end": 325.36,
+            "text": " which is the shade of gray.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 325.36,
+            "end": 328.0,
+            "text": " Now, I will save it from this file.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 328.0,
+            "end": 330.32,
+            "text": " And our HTML file has no data.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 330.32,
+            "end": 332.24,
+            "text": " So, it will not work yet.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 332.24,
+            "end": 333.76,
+            "text": " Simply, when we go into colors,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 333.76,
+            "end": 336.04,
+            "text": " I will tell you the easiest and shortcut way.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 336.04,
+            "end": 338.88,
+            "text": " This file is always introduced in the head.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 338.88,
+            "end": 340.12,
+            "text": " So, you simply go.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 340.16,
+            "end": 342.76,
+            "text": " Write here link colon css.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 342.76,
+            "end": 344.52,
+            "text": " That's it. Enter it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 344.52,
+            "end": 347.16,
+            "text": " And automatically, it takes style value every time.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 347.16,
+            "end": 348.84000000000003,
+            "text": " So, as soon as you save it,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 348.84000000000003,
+            "end": 351.16,
+            "text": " our values have become dark here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 351.16,
+            "end": 353.08,
+            "text": " We can add colors here as well.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 353.08,
+            "end": 355.12,
+            "text": " So, the color of all the text",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 355.12,
+            "end": 356.92,
+            "text": " is white. So, simply.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 358.8,
+            "end": 361.6,
+            "text": " We have all the colors white.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 361.6,
+            "end": 362.72,
+            "text": " Okay.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 362.72,
+            "end": 365.2,
+            "text": " Now, I want one more thing.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 365.2,
+            "end": 366.04,
+            "text": " We have one more.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 366.04,
+            "end": 367.56,
+            "text": " This is the first way.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 367.56,
+            "end": 370.08,
+            "text": " You can introduce a separate file.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 370.12,
+            "end": 374.0,
+            "text": " You can also use it in the head of the style tag.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 374.0,
+            "end": 377.59999999999997,
+            "text": " And here, I want all the colors to have some value.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 377.59999999999997,
+            "end": 381.88,
+            "text": " So, I want to target the entire body tag here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 381.88,
+            "end": 384.12,
+            "text": " And write that we want some color.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 384.12,
+            "end": 386.68,
+            "text": " Suppose, we want aqua color.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 386.68,
+            "end": 388.79999999999995,
+            "text": " I saved it and all the colors became aqua.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 388.79999999999995,
+            "end": 390.91999999999996,
+            "text": " You might have noticed that",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 390.91999999999996,
+            "end": 393.2,
+            "text": " we had given color white in css.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 393.2,
+            "end": 394.36,
+            "text": " We have given aqua here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 394.36,
+            "end": 396.15999999999997,
+            "text": " So, is it preferable?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 396.15999999999997,
+            "end": 398.2,
+            "text": " I will cut it from here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 398.2,
+            "end": 399.2,
+            "text": " And this.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 399.24,
+            "end": 402.0,
+            "text": " I will write it on the css that I have loaded.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 402.0,
+            "end": 404.56,
+            "text": " Now, the value of this file has increased.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 404.56,
+            "end": 406.59999999999997,
+            "text": " So, when are you injecting css?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 406.59999999999997,
+            "end": 408.0,
+            "text": " It also depends on this.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 408.0,
+            "end": 409.2,
+            "text": " If you are taking it first,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 409.2,
+            "end": 410.2,
+            "text": " then it has more priority.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 410.2,
+            "end": 413.03999999999996,
+            "text": " But, it can overwrite it as soon as it comes.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 413.03999999999996,
+            "end": 414.96,
+            "text": " Now, if I want,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 414.96,
+            "end": 416.44,
+            "text": " as I have some tags.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 416.44,
+            "end": 417.56,
+            "text": " Notice here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 417.56,
+            "end": 419.2,
+            "text": " Here, my text color is here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 419.2,
+            "end": 421.36,
+            "text": " All the text alignment is here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 421.36,
+            "end": 423.91999999999996,
+            "text": " Now, suppose that I write color here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 423.91999999999996,
+            "end": 425.76,
+            "text": " That I want color.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 425.76,
+            "end": 427.28,
+            "text": " So, simply.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 427.84,
+            "end": 429.28,
+            "text": " Let's go here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 430.03999999999996,
+            "end": 431.71999999999997,
+            "text": " And, let's write color.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 431.71999999999997,
+            "end": 434.52,
+            "text": " So, this time, color is blue violet.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 434.52,
+            "end": 436.28,
+            "text": " I know it is not a good way.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 436.28,
+            "end": 438.2,
+            "text": " We should use RGB values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 438.2,
+            "end": 440.67999999999995,
+            "text": " But notice here, I have written values.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 440.67999999999995,
+            "end": 442.79999999999995,
+            "text": " So, its priority is the most.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 442.79999999999995,
+            "end": 444.88,
+            "text": " So, here, a css fall through comes.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 444.88,
+            "end": 447.03999999999996,
+            "text": " When you will read more details about css,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 447.03999999999996,
+            "end": 449.71999999999997,
+            "text": " then you will know that it is not complicated.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 449.71999999999997,
+            "end": 451.52,
+            "text": " So, let's summarize it first.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 451.52,
+            "end": 453.28,
+            "text": " You can write it in a separate file.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 453.28,
+            "end": 454.76,
+            "text": " You can write it in head tech.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 454.76,
+            "end": 456.71999999999997,
+            "text": " And you can write it in inline style.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 456.72,
+            "end": 458.72,
+            "text": " Which is called through attributes.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 458.72,
+            "end": 461.20000000000005,
+            "text": " For now, we only need to know about css.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 461.20000000000005,
+            "end": 462.72,
+            "text": " And when we will read in detail,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 462.72,
+            "end": 464.16,
+            "text": " then the value of selectors,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 464.16,
+            "end": 465.04,
+            "text": " where important it is,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 465.04,
+            "end": 466.64000000000004,
+            "text": " we will see all this in detail.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 466.64000000000004,
+            "end": 468.96000000000004,
+            "text": " The most important thing that will come to your mind,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 468.96000000000004,
+            "end": 471.12,
+            "text": " whenever you write such stylings,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 471.12,
+            "end": 473.36,
+            "text": " then we render them conditionally.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 473.36,
+            "end": 474.56,
+            "text": " For example, if the user is not logged in,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 474.56,
+            "end": 475.44000000000005,
+            "text": " then show the red button.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 475.44000000000005,
+            "end": 476.48,
+            "text": " If the user is logged in,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 476.48,
+            "end": 477.64000000000004,
+            "text": " then show the blue button.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 477.64000000000004,
+            "end": 479.76000000000005,
+            "text": " So, at that time, we have these styles here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 479.76000000000005,
+            "end": 480.88000000000005,
+            "text": " Inline styles.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 480.88000000000005,
+            "end": 482.20000000000005,
+            "text": " This comes into a lot of work.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 482.20000000000005,
+            "end": 483.8,
+            "text": " So, whenever we will read the React or Angular,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 483.8,
+            "end": 485.16,
+            "text": " we will see about them.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 485.20000000000005,
+            "end": 488.32000000000005,
+            "text": " So, this is how our basics come into styling.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 488.84000000000003,
+            "end": 491.64000000000004,
+            "text": " Now, let's take another HTML tag,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 491.64000000000004,
+            "end": 494.32000000000005,
+            "text": " which is called Quotes or Quotation.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 494.32000000000005,
+            "end": 496.0,
+            "text": " Before reading about it,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 496.0,
+            "end": 497.88000000000005,
+            "text": " you will have to do some research.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 497.88000000000005,
+            "end": 498.64000000000004,
+            "text": " Documentation.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 498.64000000000004,
+            "end": 500.20000000000005,
+            "text": " I will tell you a little about it,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 500.20000000000005,
+            "end": 500.88000000000005,
+            "text": " about basics.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 500.88000000000005,
+            "end": 503.8,
+            "text": " And after that, you will do some research about it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 504.40000000000003,
+            "end": 506.16,
+            "text": " And the assignment will be for you.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 506.16,
+            "end": 508.88,
+            "text": " So, first of all, suppose that I want to write a quotation.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 508.88,
+            "end": 509.68,
+            "text": " So, what I will do?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 509.68,
+            "end": 511.52000000000004,
+            "text": " I will just take a paragraph tag.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 511.52000000000004,
+            "end": 513.52,
+            "text": " And I will write a quotation in it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 513.56,
+            "end": 516.72,
+            "text": " This is my quote.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 516.72,
+            "end": 518.24,
+            "text": " Now, quotes are many types.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 518.24,
+            "end": 519.04,
+            "text": " Quotes are also there,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 519.04,
+            "end": 520.3199999999999,
+            "text": " citations are also there.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 520.3199999999999,
+            "end": 521.52,
+            "text": " When you write the research paper,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 521.52,
+            "end": 522.8,
+            "text": " you will know.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 522.8,
+            "end": 525.16,
+            "text": " So, this is now my quote.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 525.16,
+            "end": 527.76,
+            "text": " Now, what can you do in this quote?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 527.76,
+            "end": 529.12,
+            "text": " There are many things.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 529.12,
+            "end": 530.24,
+            "text": " Now, this quote is like this.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 530.24,
+            "end": 533.8,
+            "text": " But, the search engine is just a paragraph for it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 533.8,
+            "end": 536.84,
+            "text": " So, the value of the paragraph is not so valuable.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 536.84,
+            "end": 537.68,
+            "text": " So, what can you do?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 537.68,
+            "end": 539.24,
+            "text": " You can simply cut this quote.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 539.24,
+            "end": 543.16,
+            "text": " And you can simply use another block quote.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 543.1999999999999,
+            "end": 544.3199999999999,
+            "text": " Now, if I am writing a block quote,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 544.3199999999999,
+            "end": 545.8,
+            "text": " there is no difference.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 545.8,
+            "end": 549.48,
+            "text": " And I also know that I can back CSSMS back.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 549.48,
+            "end": 551.0799999999999,
+            "text": " I can line it on the left side.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 551.0799999999999,
+            "end": 553.36,
+            "text": " But the difference is that whenever you see a block quote",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 553.36,
+            "end": 555.4,
+            "text": " on Google ranked and searched,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 555.4,
+            "end": 557.0,
+            "text": " it is found from here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 557.0,
+            "end": 558.92,
+            "text": " You can add another property here,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 558.92,
+            "end": 561.7199999999999,
+            "text": " which is its attribute, which is site.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 561.7199999999999,
+            "end": 562.9599999999999,
+            "text": " Now, what does site do?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 562.9599999999999,
+            "end": 565.9599999999999,
+            "text": " It simply tells you where you have taken reference from.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 565.9599999999999,
+            "end": 568.1999999999999,
+            "text": " It can be from your website.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 568.1999999999999,
+            "end": 570.3199999999999,
+            "text": " It can be from a person's reference.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 570.3199999999999,
+            "end": 572.8399999999999,
+            "text": " For example, suppose you have taken a reference from Elon.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 572.84,
+            "end": 574.52,
+            "text": " Elon Musk or anyone else.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 574.52,
+            "end": 576.0400000000001,
+            "text": " So, there is no difference here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 576.0400000000001,
+            "end": 577.0,
+            "text": " You will do hover as well.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 577.0,
+            "end": 578.6800000000001,
+            "text": " There is no special difference here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 578.6800000000001,
+            "end": 580.0400000000001,
+            "text": " But, now, the website,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 580.0400000000001,
+            "end": 582.44,
+            "text": " those who will scroll or are screen readers,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 582.44,
+            "end": 585.72,
+            "text": " they know that this quote is cited by Elon.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 585.72,
+            "end": 588.1600000000001,
+            "text": " So, we have more shortcuts like here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 588.1600000000001,
+            "end": 589.36,
+            "text": " For example, instead of a block quote,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 589.36,
+            "end": 591.8000000000001,
+            "text": " you can simply write a queue here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 591.8000000000001,
+            "end": 593.36,
+            "text": " Which is used for quotes.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 593.36,
+            "end": 595.32,
+            "text": " So, I want to write a queue here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 595.32,
+            "end": 596.0,
+            "text": " And if I save it,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 596.0,
+            "end": 598.72,
+            "text": " automatically, there are double quotes here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 598.72,
+            "end": 599.88,
+            "text": " The problem is,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 599.88,
+            "end": 601.9200000000001,
+            "text": " I have seen very few of these tags.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 601.92,
+            "end": 605.52,
+            "text": " Because, it automatically injects these block quotes with you.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 605.52,
+            "end": 609.04,
+            "text": " And we usually like to inject them through CSS.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 609.04,
+            "end": 611.56,
+            "text": " Remember, there is a property in CSS",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 611.56,
+            "end": 613.24,
+            "text": " which we call before and after.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 613.24,
+            "end": 615.4,
+            "text": " It is better injected through it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 615.4,
+            "end": 616.04,
+            "text": " Now, this is not the case.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 616.04,
+            "end": 618.68,
+            "text": " Apart from this, there are some other common things",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 618.68,
+            "end": 619.88,
+            "text": " that you will see here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 619.88,
+            "end": 622.3199999999999,
+            "text": " For example, you must have heard that",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 622.3199999999999,
+            "end": 624.0,
+            "text": " there are simply abbreviations.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 624.0,
+            "end": 626.76,
+            "text": " So, you can use abbreviations tags.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 626.76,
+            "end": 628.48,
+            "text": " What is the abbreviation of?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 628.48,
+            "end": 630.56,
+            "text": " For example, I have seen that",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 630.56,
+            "end": 633.1999999999999,
+            "text": " I needed an abbreviation of HTML.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 633.1999999999999,
+            "end": 634.3599999999999,
+            "text": " What is in HTML?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 634.3599999999999,
+            "end": 635.68,
+            "text": " You can write more titles.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 635.68,
+            "end": 636.4,
+            "text": " Like,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 637.68,
+            "end": 639.1999999999999,
+            "text": " Hypertext,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 640.4399999999999,
+            "end": 641.56,
+            "text": " Marking,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 641.56,
+            "end": 642.8,
+            "text": " Language.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 642.8,
+            "end": 645.7199999999999,
+            "text": " If you know its full form and you can correct it,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 645.7199999999999,
+            "end": 647.8399999999999,
+            "text": " then please tell me in the comment section.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 647.8399999999999,
+            "end": 649.52,
+            "text": " Now, as you write it here,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 649.52,
+            "end": 650.76,
+            "text": " and over here,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 650.76,
+            "end": 651.68,
+            "text": " then Hypertext,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 651.68,
+            "end": 652.9599999999999,
+            "text": " Marking, Language.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 652.9599999999999,
+            "end": 655.16,
+            "text": " Please correct me in the comment section.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 655.16,
+            "end": 657.0,
+            "text": " I want all of you to do it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 657.0,
+            "end": 658.8,
+            "text": " And similarly, there are some more tags",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 658.8,
+            "end": 660.52,
+            "text": " which you will get in the assignment.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 660.52,
+            "end": 662.4399999999999,
+            "text": " You will get one tag, address tag.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 662.4399999999999,
+            "end": 663.92,
+            "text": " See what it can do.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 663.92,
+            "end": 665.36,
+            "text": " What to do.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 665.36,
+            "end": 667.24,
+            "text": " And you will get one more tag,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 667.24,
+            "end": 671.0,
+            "text": " which is simply the site you can use.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 671.0,
+            "end": 673.88,
+            "text": " So, let's see what you can use.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 673.88,
+            "end": 676.64,
+            "text": " I would like to add something here,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 676.64,
+            "end": 680.36,
+            "text": " which is not so special because we prefer CSS.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 680.36,
+            "end": 683.16,
+            "text": " But still, if you are making a website",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 683.16,
+            "end": 685.0799999999999,
+            "text": " for a Dubai client,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 685.0799999999999,
+            "end": 686.3199999999999,
+            "text": " then let's give you some text",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 686.3199999999999,
+            "end": 687.72,
+            "text": " which you have to copy and paste.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 687.76,
+            "end": 690.76,
+            "text": " And that text is read from right to left.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 690.76,
+            "end": 692.1600000000001,
+            "text": " So, what is here?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 692.1600000000001,
+            "end": 694.5600000000001,
+            "text": " You get a tag by doing BDO,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 694.5600000000001,
+            "end": 696.6,
+            "text": " which is called Bidirectional Tag.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 696.6,
+            "end": 697.88,
+            "text": " Now, if I suppose,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 697.88,
+            "end": 699.44,
+            "text": " let me write my name, Hitesh.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 699.44,
+            "end": 700.4,
+            "text": " So, obviously,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 700.4,
+            "end": 701.88,
+            "text": " Hitesh is added there.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 701.88,
+            "end": 704.28,
+            "text": " But here, you can mention its direction.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 704.28,
+            "end": 706.0400000000001,
+            "text": " The default direction is obviously there.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 706.0400000000001,
+            "end": 707.0,
+            "text": " But you are auto,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 707.0,
+            "end": 707.8000000000001,
+            "text": " left to right,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 707.8000000000001,
+            "end": 709.0,
+            "text": " and right to left.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 709.0,
+            "end": 710.32,
+            "text": " So, what is your text?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 710.32,
+            "end": 711.72,
+            "text": " It starts from right.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 711.72,
+            "end": 713.64,
+            "text": " Now, here, it makes no sense,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 713.64,
+            "end": 716.5600000000001,
+            "text": " it has no sense because Hitesh is adding here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 716.5999999999999,
+            "end": 718.4,
+            "text": " But there are many names of Dubai",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 718.4,
+            "end": 720.8399999999999,
+            "text": " or in Urdu language,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 720.8399999999999,
+            "end": 723.2399999999999,
+            "text": " which you have to do right to left.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 723.2399999999999,
+            "end": 724.0799999999999,
+            "text": " So, for this,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 724.0799999999999,
+            "end": 725.4399999999999,
+            "text": " you don't need any special CSS.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 725.4399999999999,
+            "end": 727.8399999999999,
+            "text": " You can simply change the direction of your page",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 727.8399999999999,
+            "end": 730.5999999999999,
+            "text": " and align all the things from right to left.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 730.5999999999999,
+            "end": 731.76,
+            "text": " So, this is the basics.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 731.76,
+            "end": 732.7199999999999,
+            "text": " Now, after this,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 732.7199999999999,
+            "end": 734.0,
+            "text": " your assignment.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 734.0,
+            "end": 735.1999999999999,
+            "text": " You don't have to do anything.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 735.1999999999999,
+            "end": 738.0799999999999,
+            "text": " You just have to know about address tag and site tag.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 738.0799999999999,
+            "end": 739.3199999999999,
+            "text": " So, what will we do here?",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 739.3199999999999,
+            "end": 742.4799999999999,
+            "text": " I will open our window in incognito mode.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 742.4799999999999,
+            "end": 744.76,
+            "text": " It doesn't matter which mode it is.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 744.8,
+            "end": 747.2,
+            "text": " So, I have to see about address tag.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 747.2,
+            "end": 748.24,
+            "text": " So, address, HTML,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 748.24,
+            "end": 750.12,
+            "text": " and you will see it in MDN.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 751.3199999999999,
+            "end": 752.04,
+            "text": " I know,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 752.04,
+            "end": 753.92,
+            "text": " no one likes to read documentation.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 753.92,
+            "end": 755.88,
+            "text": " But from here, I will start your habit",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 755.88,
+            "end": 757.76,
+            "text": " to see how you can use it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 757.76,
+            "end": 760.24,
+            "text": " So, notice here, we have some A tag.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 760.24,
+            "end": 762.08,
+            "text": " We can read in more detail about it,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 762.08,
+            "end": 763.68,
+            "text": " that it is a mail to or telephone.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 763.68,
+            "end": 764.72,
+            "text": " See what it does.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 764.72,
+            "end": 766.2,
+            "text": " And especially, this telephone,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 766.2,
+            "end": 767.88,
+            "text": " it will open it in mobile and see",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 767.88,
+            "end": 769.48,
+            "text": " what impact it has.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 769.48,
+            "end": 771.08,
+            "text": " The most important thing is attributes.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 771.08,
+            "end": 771.6,
+            "text": " You can see,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 771.6,
+            "end": 773.72,
+            "text": " there are not many attributes here.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 773.72,
+            "end": 775.64,
+            "text": " And some here are usage notes,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 775.64,
+            "end": 776.6,
+            "text": " which you can read,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 776.6,
+            "end": 778.12,
+            "text": " how to use it.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 778.12,
+            "end": 779.88,
+            "text": " Attributes, again, are not much,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 779.88,
+            "end": 782.4,
+            "text": " because it can be in global attributes.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 782.4,
+            "end": 783.88,
+            "text": " So, this is the basics we have.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 783.88,
+            "end": 785.88,
+            "text": " And please read the site tag.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 785.88,
+            "end": 787.1600000000001,
+            "text": " And again, it won't be like,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 787.1600000000001,
+            "end": 788.6,
+            "text": " I will tell you everything.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 788.6,
+            "end": 789.28,
+            "text": " I will give you some assignment,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 789.28,
+            "end": 791.28,
+            "text": " some homework.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 791.28,
+            "end": 792.52,
+            "text": " So, tell me in the comments,",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 792.52,
+            "end": 794.0400000000001,
+            "text": " which one is studying together",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 794.0400000000001,
+            "end": 795.64,
+            "text": " and doing homework together.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        },
+        {
+            "start": 795.64,
+            "end": 796.96,
+            "text": " See you in the next video.",
+            "audio_file": "Value of colors and CSS format.mp4.mp3",
+            "title": "Value of colors and CSS format.mp4",
+            "number": 6
+        }
+    ],
+    "text": " Welcome to Tea and Code. In this video, we will simply learn about some other elements of HTML. It will be very easy and easy. We will first look at the colors and then we will discuss about CSS. It is a very easy video, there is not much complicated. First of all, we will create a new file. Because all the files must be kept separate so that it is very easy to revision. So, let's name it colors.html. Enter it. After that, we will copy the code we wrote in the formatting and bring it here. So that you have all the files saved. And this file will come to us. Again, I think everyone is very careful. Command Shift P. And after that, we need a preview in the live server. And this is our preview from colors.html. Please keep the name on the top of the file. Now, while we are talking about colors, we have seen that Textaline Center and Background Color are available here. So, first of all, let's do the word wrap so that we can show everything together. Now, we have seen that the colors we wrote in this format. Hash, then two values, then two values, and then two values. So, we call this color format Hex values. Which is simply Hex values. So, Hexagonal, you must have read it, maybe you haven't read it, it's okay. The best thing is that you should use the editor as well. As soon as you hover over it, you get a full value for a background color. And you can click it here to see what kind of shade and color I want. Maybe you want it in a blueish tone. So, you can simply put it here. As soon as I save it, it becomes a color. Now, most of the time, when you make professional websites, your designers will give you color code values. There is another way to do it. Instead of writing them, you simply write blue here. The problem is that the interpretation of this blue will separate the Mozilla Firefox. It will separate Chrome, so this is not the right way. It's okay to learn if you write it. But in professional life, you don't get these Hex code values. Now, this is not the only way. There are two other ways. We write Hex values, RGB values and HSL values. To give the best example of all these, you simply hover over it. Then, as you see the Hex values here, click it once. So, we have got HSL values here. And here, there are HWB values and RGB values. If you don't use HWB values, then you simply look at RGB and HSL values. So, these RGB values are very simple. If you want to see the simple details of RGB values, then it's not that complicated. Red, green and blue. So, these are all the values. From 0 to 256, the values can differ. The first value is R, then G and then B. Red, green and blue. And all the colors are made from these combinations. You will see that these values are changed like this. And you can keep the value you want. After this, when I hover over it again, then notice these are Hex values and these are HSL values. These HSL values are also very simple. Simply Hue, Saturation or Light. So, the value of Hue differs from 0 to 360. If you have seen the color wheels, then the whole wheel rotates in the color wheels. It has 0 to 360 values. Again, you don't have to think too much. Your designers give you these values. After that, the saturation of the color you have picked, the saturation of the color, the intensity of the color. In blue, you have seen that from light blue to dark blue, there are many colors from intense blue. And after that, the last one is Lightness. How much is the value of light? How much is the intensity of light in light and dark? Now, all this is fine. But you will see that there are two more values. It's not too complex. It's not like I will confuse you too much. A can be applied in front of HSL. And when you apply RGB values, it can be applied in front of it. A is simply an alpha channel. There is nothing between 0 and 1. And how much you want opaque value, how much you want light value, depends on that. Like in HSL, if I write A value here, then it also works with us. And if I click with it, then I will write RGB values, then RGB values also adds here. So, this is our RGB values. Simply Alpha channels. And from there, you can choose the values if you want 50%, then you can write it as per that. Like, if you get 50% of 0.5%, then as soon as I save it, the colors are a little light. A means alpha. Simply opacity. That's it. You need to know this much about colors in the HTML. And most importantly, don't worry, because most of the values are from the designer. Okay. So, this is our basic colors format. How many colors are there and what can we do. Now, after this, I would like to take your attention to this styling. So, notice here, we have the style values in the list. But how much more can we add our styling. When we read CSS, we will go into more detail about it. But at least we should know the basics of how can we introduce styling. So, we saw that we can inject our styling through inline tags or through attributes. One of the most common ways you must have seen is that a style is kept in a separate file. Like I gave its name, style.css. And in this, a small css is written. We will see in more detail about CSS how selectors work, how you can see properties. But now, I am targeting the complete body and I am writing a background color in it. 414141, which is the shade of gray. Now, I will save it from this file. And our HTML file has no data. So, it will not work yet. Simply, when we go into colors, I will tell you the easiest and shortcut way. This file is always introduced in the head. So, you simply go. Write here link colon css. That's it. Enter it. And automatically, it takes style value every time. So, as soon as you save it, our values have become dark here. We can add colors here as well. So, the color of all the text is white. So, simply. We have all the colors white. Okay. Now, I want one more thing. We have one more. This is the first way. You can introduce a separate file. You can also use it in the head of the style tag. And here, I want all the colors to have some value. So, I want to target the entire body tag here. And write that we want some color. Suppose, we want aqua color. I saved it and all the colors became aqua. You might have noticed that we had given color white in css. We have given aqua here. So, is it preferable? I will cut it from here. And this. I will write it on the css that I have loaded. Now, the value of this file has increased. So, when are you injecting css? It also depends on this. If you are taking it first, then it has more priority. But, it can overwrite it as soon as it comes. Now, if I want, as I have some tags. Notice here. Here, my text color is here. All the text alignment is here. Now, suppose that I write color here. That I want color. So, simply. Let's go here. And, let's write color. So, this time, color is blue violet. I know it is not a good way. We should use RGB values. But notice here, I have written values. So, its priority is the most. So, here, a css fall through comes. When you will read more details about css, then you will know that it is not complicated. So, let's summarize it first. You can write it in a separate file. You can write it in head tech. And you can write it in inline style. Which is called through attributes. For now, we only need to know about css. And when we will read in detail, then the value of selectors, where important it is, we will see all this in detail. The most important thing that will come to your mind, whenever you write such stylings, then we render them conditionally. For example, if the user is not logged in, then show the red button. If the user is logged in, then show the blue button. So, at that time, we have these styles here. Inline styles. This comes into a lot of work. So, whenever we will read the React or Angular, we will see about them. So, this is how our basics come into styling. Now, let's take another HTML tag, which is called Quotes or Quotation. Before reading about it, you will have to do some research. Documentation. I will tell you a little about it, about basics. And after that, you will do some research about it. And the assignment will be for you. So, first of all, suppose that I want to write a quotation. So, what I will do? I will just take a paragraph tag. And I will write a quotation in it. This is my quote. Now, quotes are many types. Quotes are also there, citations are also there. When you write the research paper, you will know. So, this is now my quote. Now, what can you do in this quote? There are many things. Now, this quote is like this. But, the search engine is just a paragraph for it. So, the value of the paragraph is not so valuable. So, what can you do? You can simply cut this quote. And you can simply use another block quote. Now, if I am writing a block quote, there is no difference. And I also know that I can back CSSMS back. I can line it on the left side. But the difference is that whenever you see a block quote on Google ranked and searched, it is found from here. You can add another property here, which is its attribute, which is site. Now, what does site do? It simply tells you where you have taken reference from. It can be from your website. It can be from a person's reference. For example, suppose you have taken a reference from Elon. Elon Musk or anyone else. So, there is no difference here. You will do hover as well. There is no special difference here. But, now, the website, those who will scroll or are screen readers, they know that this quote is cited by Elon. So, we have more shortcuts like here. For example, instead of a block quote, you can simply write a queue here. Which is used for quotes. So, I want to write a queue here. And if I save it, automatically, there are double quotes here. The problem is, I have seen very few of these tags. Because, it automatically injects these block quotes with you. And we usually like to inject them through CSS. Remember, there is a property in CSS which we call before and after. It is better injected through it. Now, this is not the case. Apart from this, there are some other common things that you will see here. For example, you must have heard that there are simply abbreviations. So, you can use abbreviations tags. What is the abbreviation of? For example, I have seen that I needed an abbreviation of HTML. What is in HTML? You can write more titles. Like, Hypertext, Marking, Language. If you know its full form and you can correct it, then please tell me in the comment section. Now, as you write it here, and over here, then Hypertext, Marking, Language. Please correct me in the comment section. I want all of you to do it. And similarly, there are some more tags which you will get in the assignment. You will get one tag, address tag. See what it can do. What to do. And you will get one more tag, which is simply the site you can use. So, let's see what you can use. I would like to add something here, which is not so special because we prefer CSS. But still, if you are making a website for a Dubai client, then let's give you some text which you have to copy and paste. And that text is read from right to left. So, what is here? You get a tag by doing BDO, which is called Bidirectional Tag. Now, if I suppose, let me write my name, Hitesh. So, obviously, Hitesh is added there. But here, you can mention its direction. The default direction is obviously there. But you are auto, left to right, and right to left. So, what is your text? It starts from right. Now, here, it makes no sense, it has no sense because Hitesh is adding here. But there are many names of Dubai or in Urdu language, which you have to do right to left. So, for this, you don't need any special CSS. You can simply change the direction of your page and align all the things from right to left. So, this is the basics. Now, after this, your assignment. You don't have to do anything. You just have to know about address tag and site tag. So, what will we do here? I will open our window in incognito mode. It doesn't matter which mode it is. So, I have to see about address tag. So, address, HTML, and you will see it in MDN. I know, no one likes to read documentation. But from here, I will start your habit to see how you can use it. So, notice here, we have some A tag. We can read in more detail about it, that it is a mail to or telephone. See what it does. And especially, this telephone, it will open it in mobile and see what impact it has. The most important thing is attributes. You can see, there are not many attributes here. And some here are usage notes, which you can read, how to use it. Attributes, again, are not much, because it can be in global attributes. So, this is the basics we have. And please read the site tag. And again, it won't be like, I will tell you everything. I will give you some assignment, some homework. So, tell me in the comments, which one is studying together and doing homework together. See you in the next video."
+}

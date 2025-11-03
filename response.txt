@@ -1,0 +1,9 @@
+You're asking about tables! In our course, we've covered this topic in detail.
+
+We started by explaining what a table is in HTML, which is essentially an HTML element that represents a collection of data. We discussed how to create a basic table using HTML tags and explained the difference between rows, columns, cells, and headers.
+
+Specifically, in Video 2, we dove deeper into tables and explored various attributes like `tr` (table row), `td` (table data), `th` (table header), and more. We also discussed how to create a table using HTML elements like `<table>`, `<tr>`, `<td>`, and `<th>`.
+
+If you want to learn more about tables, I recommend watching Video 2. You can find it in our course playlist. It starts at timestamp 0:47 seconds, where we talk about the "It is called tables.html" part. 
+
+If you have any further questions or need clarification on anything, feel free to ask!

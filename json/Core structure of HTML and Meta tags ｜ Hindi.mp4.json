@@ -1,0 +1,1941 @@
+{
+    "chunks": [
+        {
+            "start": 0.0,
+            "end": 4.0,
+            "text": " Welcome back to Chai or Code.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 4.0,
+            "end": 8.0,
+            "text": " Now, when everyone has understood how to get the first page of HTML,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 8.0,
+            "end": 12.0,
+            "text": " how to install VS Code, and how to write our first code.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 12.0,
+            "end": 15.0,
+            "text": " Let's talk a little about HTML.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 15.0,
+            "end": 18.0,
+            "text": " I know very well that you all know that",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 18.0,
+            "end": 23.0,
+            "text": " when you write an H2 tag, the heading is big and when you write a H1 tag,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 23.0,
+            "end": 26.0,
+            "text": " the heading is always a little small.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 26.0,
+            "end": 27.0,
+            "text": " Smaller.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 27.0,
+            "end": 29.0,
+            "text": " But it's not like that.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 29.0,
+            "end": 34.0,
+            "text": " There is a reason behind it and it will strengthen the foundation and structure of your HTML.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 34.0,
+            "end": 40.0,
+            "text": " Many people believe that HTML is okay for a big or smaller H1 tag,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 40.0,
+            "end": 43.0,
+            "text": " but I know that many of you know that",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 43.0,
+            "end": 48.0,
+            "text": " by using CSS, you can increase any H2 tag from H1 heading.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 48.0,
+            "end": 50.0,
+            "text": " So, what does it mean in HTML?",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 50.0,
+            "end": 53.0,
+            "text": " Write everything in the paragraph, give everyone classes and IDs.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 53.0,
+            "end": 57.0,
+            "text": " Why do you need to pay attention to HTML?",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 57.0,
+            "end": 60.0,
+            "text": " HTML is a markup language.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 60.0,
+            "end": 64.0,
+            "text": " You will see the full form which you can read on Google.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 64.0,
+            "end": 67.0,
+            "text": " But I don't want you to remember it as a markup language.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 67.0,
+            "end": 70.0,
+            "text": " I want you to remember it as a syntactical language.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 70.0,
+            "end": 72.0,
+            "text": " Simple and declarative language.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 72.0,
+            "end": 75.0,
+            "text": " What does this language do? It makes the structure of your page.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 75.0,
+            "end": 78.0,
+            "text": " So, this is a structural language and not just that.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 78.0,
+            "end": 81.0,
+            "text": " There are many other structural languages.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 81.0,
+            "end": 85.0,
+            "text": " In fact, many people divide it into presentational structural language",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 85.0,
+            "end": 87.0,
+            "text": " and descriptive structural language.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 87.0,
+            "end": 89.0,
+            "text": " There are many more names.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 89.0,
+            "end": 92.0,
+            "text": " And only HTML is not a structural language.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 92.0,
+            "end": 96.0,
+            "text": " You have a markdown, latex, and many other languages.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 96.0,
+            "end": 99.0,
+            "text": " But the support of this is the most in the browser.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 99.0,
+            "end": 101.0,
+            "text": " That's why HTML is so popular.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 101.0,
+            "end": 104.0,
+            "text": " And all the tags of this are important to yourself.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 104.0,
+            "end": 107.0,
+            "text": " H1 doesn't mean that the heading will be big there.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 107.0,
+            "end": 110.0,
+            "text": " And H2 doesn't mean that the heading will be small there.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 110.0,
+            "end": 115.0,
+            "text": " H1 means that the core part of the page is the headings.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 115.0,
+            "end": 117.0,
+            "text": " These are the most important things.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 117.0,
+            "end": 119.0,
+            "text": " Similarly, when you write the heading 2,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 119.0,
+            "end": 120.0,
+            "text": " it is a subheading.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 120.0,
+            "end": 122.0,
+            "text": " These are the second important things.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 122.0,
+            "end": 126.0,
+            "text": " And Google, Yahoo, Yandex, all the search engines understand these things well.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 126.0,
+            "end": 128.0,
+            "text": " What many people do?",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 128.0,
+            "end": 129.0,
+            "text": " You must have seen it.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 129.0,
+            "end": 130.0,
+            "text": " Simply, they write the footer.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 130.0,
+            "end": 132.0,
+            "text": " And they write the paragraph in the footer.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 132.0,
+            "end": 134.0,
+            "text": " And they write their address here.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 134.0,
+            "end": 137.0,
+            "text": " You can write it. No problem.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 137.0,
+            "end": 139.0,
+            "text": " You can take it to the footer with CSS.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 139.0,
+            "end": 142.0,
+            "text": " But many people don't have to spend much.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 142.0,
+            "end": 145.0,
+            "text": " They write their ranking and address on Google.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 145.0,
+            "end": 147.0,
+            "text": " They simply write the footer.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 147.0,
+            "end": 150.0,
+            "text": " And then they include all the paragraphs in the address tag.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 150.0,
+            "end": 152.0,
+            "text": " Google automatically knows it.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 152.0,
+            "end": 155.0,
+            "text": " Because you knew the HTML language well.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 155.0,
+            "end": 156.0,
+            "text": " Google knows it.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 156.0,
+            "end": 159.0,
+            "text": " It took your address from the structure and from the address.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 159.0,
+            "end": 160.0,
+            "text": " And then it listed it.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 160.0,
+            "end": 162.0,
+            "text": " So, you will have the best knowledge of HTML.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 162.0,
+            "end": 166.0,
+            "text": " Not because it makes the headings bigger and smaller.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 166.0,
+            "end": 168.0,
+            "text": " Because it is an important part of every tag.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 168.0,
+            "end": 172.0,
+            "text": " And that importance makes the structure of your page.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 172.0,
+            "end": 174.0,
+            "text": " I think it is getting more interesting now.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 174.0,
+            "end": 175.0,
+            "text": " Okay.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 175.0,
+            "end": 176.0,
+            "text": " So, let's start.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 176.0,
+            "end": 181.0,
+            "text": " First, to know what is important and what should be known.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 181.0,
+            "end": 183.0,
+            "text": " As soon as we write the exclamation, we hit the tab.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 183.0,
+            "end": 186.0,
+            "text": " So, we know that this is a basic structure.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 186.0,
+            "end": 189.0,
+            "text": " But as soon as we went to the first line, we got the dot type.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 189.0,
+            "end": 193.0,
+            "text": " All the tags of HTML, we call them tags.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 193.0,
+            "end": 196.0,
+            "text": " All these tags are insensitive.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 196.0,
+            "end": 198.0,
+            "text": " You can write the head if you want.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 198.0,
+            "end": 200.0,
+            "text": " It doesn't matter if you write the head.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 200.0,
+            "end": 204.0,
+            "text": " But usually, in most cases, you keep them lower case.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 204.0,
+            "end": 206.0,
+            "text": " The first tag is the dot type.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 206.0,
+            "end": 209.0,
+            "text": " As I told you, in the beginning of the internet,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 209.0,
+            "end": 211.0,
+            "text": " all these were not HTML.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 211.0,
+            "end": 215.0,
+            "text": " There were XML, there were XHTML, there were latex.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 215.0,
+            "end": 217.0,
+            "text": " So, your document can be of any type.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 217.0,
+            "end": 222.0,
+            "text": " This thing only tells the browser that the document we are serving is of HTML type.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 222.0,
+            "end": 224.0,
+            "text": " After this, we said HTML.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 224.0,
+            "end": 227.0,
+            "text": " And obviously, the whole world is in foreign language.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 227.0,
+            "end": 228.0,
+            "text": " HTML is popular now.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 228.0,
+            "end": 230.0,
+            "text": " So, we have to define the language.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 230.0,
+            "end": 234.0,
+            "text": " It is in English, Hindi, Japanese or any other language.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 234.0,
+            "end": 238.0,
+            "text": " After that, the most important part is that we remove all these.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 238.0,
+            "end": 241.0,
+            "text": " The structure of HTML is something like this.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 241.0,
+            "end": 244.0,
+            "text": " And to know more about this, HTML is always like this.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 244.0,
+            "end": 247.0,
+            "text": " There are two children of HTML.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 247.0,
+            "end": 249.0,
+            "text": " We need to know this terminology.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 249.0,
+            "end": 251.0,
+            "text": " Because after this, we will learn DOM.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 251.0,
+            "end": 253.0,
+            "text": " And all this is important for DOM.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 253.0,
+            "end": 255.0,
+            "text": " Notice, here is the hierarchy.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 255.0,
+            "end": 256.0,
+            "text": " Here is HTML.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 256.0,
+            "end": 257.0,
+            "text": " There are two children in it.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 257.0,
+            "end": 259.0,
+            "text": " Head and body.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 259.0,
+            "end": 262.0,
+            "text": " And in the body, you can add more children.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 262.0,
+            "end": 264.0,
+            "text": " You can add all children in the head.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 264.0,
+            "end": 266.0,
+            "text": " Like I added the title.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 266.0,
+            "end": 268.0,
+            "text": " I will give its name as simply title.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 268.0,
+            "end": 272.0,
+            "text": " In the body, I simply added an H1 and wrote the test.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 272.0,
+            "end": 277.0,
+            "text": " So, our relation of HTML is with the title grandchild.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 277.0,
+            "end": 281.0,
+            "text": " It is not like you have to go inside the grandchild.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 281.0,
+            "end": 285.0,
+            "text": " Usually, parents, child and grandchild are related to this.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 285.0,
+            "end": 286.0,
+            "text": " There can be more.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 286.0,
+            "end": 287.0,
+            "text": " It is not like that.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 287.0,
+            "end": 290.0,
+            "text": " There is another tag in H1 that can give you more values.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 290.0,
+            "end": 291.0,
+            "text": " But we will not do that.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 291.0,
+            "end": 295.0,
+            "text": " What is important for you to know is that I will tell you all that here.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 295.0,
+            "end": 298.0,
+            "text": " In HTML, we wrote the head and the body in the head.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 298.0,
+            "end": 300.0,
+            "text": " Now, when we go to a web page,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 300.0,
+            "end": 304.0,
+            "text": " the page you see here is all the part of your body.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 304.0,
+            "end": 305.0,
+            "text": " Which is the visual aspect.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 305.0,
+            "end": 308.0,
+            "text": " There are only two things that are visual in the head.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 308.0,
+            "end": 310.0,
+            "text": " The first part is your title.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 310.0,
+            "end": 312.0,
+            "text": " And the second part is the favicon.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 312.0,
+            "end": 314.0,
+            "text": " You can go to any other website.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 314.0,
+            "end": 316.0,
+            "text": " Like here, you have a small icon.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 316.0,
+            "end": 318.0,
+            "text": " You have a small icon of the VS Code.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 318.0,
+            "end": 319.0,
+            "text": " All this is the favicon.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 319.0,
+            "end": 322.0,
+            "text": " And it is not like you need to remember the syntax.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 322.0,
+            "end": 324.0,
+            "text": " You should know that I want to apply the favicon.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 324.0,
+            "end": 325.0,
+            "text": " So, you simply go here.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 325.0,
+            "end": 328.0,
+            "text": " And simply, as you write the favicon in the titles,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 328.0,
+            "end": 330.0,
+            "text": " or you want to add an image,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 330.0,
+            "end": 332.0,
+            "text": " you will be suggested an image.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 332.0,
+            "end": 333.0,
+            "text": " We will do that.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 333.0,
+            "end": 334.0,
+            "text": " But not for now.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 334.0,
+            "end": 335.0,
+            "text": " We got to know this.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 335.0,
+            "end": 338.0,
+            "text": " Now, we saw that as we used to do all this,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 338.0,
+            "end": 341.0,
+            "text": " another thing that came to mind was MetaTags.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 341.0,
+            "end": 343.0,
+            "text": " What is MetaTags?",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 343.0,
+            "end": 345.0,
+            "text": " Some information about your document,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 345.0,
+            "end": 347.0,
+            "text": " which you do not want to write on the page,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 347.0,
+            "end": 351.0,
+            "text": " but you should know this by the automatic bot crawl",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 351.0,
+            "end": 353.0,
+            "text": " that you have come to visit the page.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 353.0,
+            "end": 356.0,
+            "text": " For example, the character set we are using in this page",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 356.0,
+            "end": 358.0,
+            "text": " is UTF-16.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 358.0,
+            "end": 359.0,
+            "text": " There are many character sets.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 359.0,
+            "end": 362.0,
+            "text": " For example, if you want to support Smiley on the page,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 362.0,
+            "end": 365.0,
+            "text": " then I will support UTF-16 here.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 365.0,
+            "end": 369.0,
+            "text": " We will also read about Ascii characters and other things.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 369.0,
+            "end": 372.0,
+            "text": " Now, you wrote name, viewport and width device.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 372.0,
+            "end": 375.0,
+            "text": " That means, when this page is by default rendered,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 375.0,
+            "end": 377.0,
+            "text": " then how it is zoomed,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 377.0,
+            "end": 378.0,
+            "text": " how it looks on the tablet,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 378.0,
+            "end": 379.0,
+            "text": " how it looks on the website,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 379.0,
+            "end": 381.0,
+            "text": " all that is about that.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 381.0,
+            "end": 383.0,
+            "text": " So, how do we know all this?",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 383.0,
+            "end": 387.0,
+            "text": " The best resource I thought that you want to see about MetaTags,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 387.0,
+            "end": 390.0,
+            "text": " MetaTags in HTML,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 390.0,
+            "end": 393.0,
+            "text": " and the best part is on Google.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 393.0,
+            "end": 397.0,
+            "text": " Because the Google that recommends, developer.google,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 397.0,
+            "end": 401.0,
+            "text": " all those tags that will help you the most in your SEO of the website,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 401.0,
+            "end": 404.0,
+            "text": " hopefully the page will open soon.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 404.0,
+            "end": 406.0,
+            "text": " Hopefully. Okay.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 406.0,
+            "end": 408.0,
+            "text": " This is the 2009 blog.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 408.0,
+            "end": 409.0,
+            "text": " This is not.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 409.0,
+            "end": 412.0,
+            "text": " Google understands the documents.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 412.0,
+            "end": 415.0,
+            "text": " Okay, let's see some other page.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 415.0,
+            "end": 417.0,
+            "text": " Hopefully, it will be loaded.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 417.0,
+            "end": 419.0,
+            "text": " Magic video editing.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 419.0,
+            "end": 421.0,
+            "text": " Alright. Internet is slow.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 421.0,
+            "end": 423.0,
+            "text": " Bear with me.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 423.0,
+            "end": 426.0,
+            "text": " Okay, so here we see all the character sets,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 426.0,
+            "end": 429.0,
+            "text": " name, description, content author, page,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 429.0,
+            "end": 431.0,
+            "text": " Google verification, content.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 431.0,
+            "end": 432.0,
+            "text": " There are many tags.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 432.0,
+            "end": 434.0,
+            "text": " You have to know about any tag.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 434.0,
+            "end": 436.0,
+            "text": " The information of Google MetaTags, I think,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 436.0,
+            "end": 438.0,
+            "text": " is the most reliable and most valuable.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 438.0,
+            "end": 441.0,
+            "text": " Because the website has to rank on Google.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 441.0,
+            "end": 442.0,
+            "text": " So, all the ones here,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 442.0,
+            "end": 444.0,
+            "text": " they are directly from Google,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 444.0,
+            "end": 446.0,
+            "text": " directly you can take from here, whatever is necessary.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 446.0,
+            "end": 448.0,
+            "text": " Like Google says, robots, description,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 448.0,
+            "end": 450.0,
+            "text": " all these tags should be put on you.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 450.0,
+            "end": 452.0,
+            "text": " So, you know, you can put them on you.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 452.0,
+            "end": 453.0,
+            "text": " By the way,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 453.0,
+            "end": 455.0,
+            "text": " the emitter also helps you here.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 455.0,
+            "end": 456.0,
+            "text": " You write the colon of the meta,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 456.0,
+            "end": 459.0,
+            "text": " and you will get all the types of tags.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 459.0,
+            "end": 461.0,
+            "text": " Like you need a description tag,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 461.0,
+            "end": 463.0,
+            "text": " or you need an edge tag,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 463.0,
+            "end": 465.0,
+            "text": " whatever you want, I need a description.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 465.0,
+            "end": 467.0,
+            "text": " So, you can directly write the name,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 467.0,
+            "end": 471.0,
+            "text": " description, and any content description here.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 471.0,
+            "end": 474.0,
+            "text": " This is the page where we load some CSS.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 474.0,
+            "end": 476.0,
+            "text": " We will see that in the CSS part.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 476.0,
+            "end": 478.0,
+            "text": " Now, just like that.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 478.0,
+            "end": 479.0,
+            "text": " Okay, so you know that",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 479.0,
+            "end": 480.0,
+            "text": " the doc type is HTML,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 480.0,
+            "end": 481.0,
+            "text": " our HTML is in it,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 481.0,
+            "end": 483.0,
+            "text": " the head is in it, the body is in it.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 483.0,
+            "end": 485.0,
+            "text": " Now, you should know one more important thing.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 485.0,
+            "end": 486.0,
+            "text": " Notice,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 486.0,
+            "end": 489.0,
+            "text": " the head is opening and closing.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 489.0,
+            "end": 491.0,
+            "text": " The body is opening and closing.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 491.0,
+            "end": 492.0,
+            "text": " These are the syntaxes.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 492.0,
+            "end": 493.0,
+            "text": " But the doc type,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 493.0,
+            "end": 495.0,
+            "text": " which is opening and closing,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 495.0,
+            "end": 496.0,
+            "text": " is not closing.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 496.0,
+            "end": 498.0,
+            "text": " Now, this is a recommendation",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 498.0,
+            "end": 500.0,
+            "text": " that if you open any tag,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 500.0,
+            "end": 501.0,
+            "text": " then close it.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 501.0,
+            "end": 502.0,
+            "text": " Like, if there is an edge tag,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 502.0,
+            "end": 503.0,
+            "text": " then close it.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 503.0,
+            "end": 505.0,
+            "text": " The browser won't give you any problem.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 505.0,
+            "end": 507.0,
+            "text": " You can simply write a heading here,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 507.0,
+            "end": 509.0,
+            "text": " and if you want, you can remove it.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 509.0,
+            "end": 511.0,
+            "text": " It will serve you even then.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 511.0,
+            "end": 513.0,
+            "text": " HTML is the most reluctant.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 513.0,
+            "end": 516.0,
+            "text": " It usually doesn't give you any errors.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 516.0,
+            "end": 518.0,
+            "text": " But this is not a good thing.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 518.0,
+            "end": 519.0,
+            "text": " Why?",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 519.0,
+            "end": 521.0,
+            "text": " Because when you learn React later on,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 521.0,
+            "end": 522.0,
+            "text": " or learn any other language,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 522.0,
+            "end": 524.0,
+            "text": " then this practice is very important.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 524.0,
+            "end": 526.0,
+            "text": " And yes, there are errors without them.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 526.0,
+            "end": 528.0,
+            "text": " Some tags, although there are no closing tags,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 528.0,
+            "end": 530.0,
+            "text": " like the Br tag is a standalone.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 530.0,
+            "end": 532.0,
+            "text": " The way to write this is,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 532.0,
+            "end": 534.0,
+            "text": " the way to react later is,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 534.0,
+            "end": 536.0,
+            "text": " React gives an error because there is no closing tag.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 536.0,
+            "end": 538.0,
+            "text": " So, we can make this self-closing.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 538.0,
+            "end": 541.0,
+            "text": " This is a better way to prove the future.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 541.0,
+            "end": 543.0,
+            "text": " So, these are our tags.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 543.0,
+            "end": 545.0,
+            "text": " They are also called elements,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 545.0,
+            "end": 547.0,
+            "text": " or tags, whatever you want to name them.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 547.0,
+            "end": 548.0,
+            "text": " It's simple.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 548.0,
+            "end": 549.0,
+            "text": " This is H1.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 549.0,
+            "end": 550.0,
+            "text": " This is our tag.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 550.0,
+            "end": 552.0,
+            "text": " There can be some attributes in tags.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 552.0,
+            "end": 554.0,
+            "text": " But for now, that's all.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 554.0,
+            "end": 556.0,
+            "text": " You have understood what is the head tag.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 556.0,
+            "end": 558.0,
+            "text": " And you know the basics.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 558.0,
+            "end": 560.0,
+            "text": " Now, we can go a little faster to learn",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 560.0,
+            "end": 561.0,
+            "text": " what are the H1 tags,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 561.0,
+            "end": 563.0,
+            "text": " what are their importance,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 563.0,
+            "end": 564.0,
+            "text": " what are their attributes,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 564.0,
+            "end": 566.0,
+            "text": " what are the attributes.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 566.0,
+            "end": 567.0,
+            "text": " So, let's go to the next video.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 567.0,
+            "end": 568.0,
+            "text": " And quickly,",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        },
+        {
+            "start": 568.0,
+            "end": 572.0,
+            "text": " let's cover all the important tags.",
+            "audio_file": "Core structure of HTML and Meta tags ｜ Hindi.mp4.mp3",
+            "title": "Core structure of HTML and Meta tags ｜ Hindi.mp4",
+            "number": 0
+        }
+    ],
+    "text": " Welcome back to Chai or Code. Now, when everyone has understood how to get the first page of HTML, how to install VS Code, and how to write our first code. Let's talk a little about HTML. I know very well that you all know that when you write an H2 tag, the heading is big and when you write a H1 tag, the heading is always a little small. Smaller. But it's not like that. There is a reason behind it and it will strengthen the foundation and structure of your HTML. Many people believe that HTML is okay for a big or smaller H1 tag, but I know that many of you know that by using CSS, you can increase any H2 tag from H1 heading. So, what does it mean in HTML? Write everything in the paragraph, give everyone classes and IDs. Why do you need to pay attention to HTML? HTML is a markup language. You will see the full form which you can read on Google. But I don't want you to remember it as a markup language. I want you to remember it as a syntactical language. Simple and declarative language. What does this language do? It makes the structure of your page. So, this is a structural language and not just that. There are many other structural languages. In fact, many people divide it into presentational structural language and descriptive structural language. There are many more names. And only HTML is not a structural language. You have a markdown, latex, and many other languages. But the support of this is the most in the browser. That's why HTML is so popular. And all the tags of this are important to yourself. H1 doesn't mean that the heading will be big there. And H2 doesn't mean that the heading will be small there. H1 means that the core part of the page is the headings. These are the most important things. Similarly, when you write the heading 2, it is a subheading. These are the second important things. And Google, Yahoo, Yandex, all the search engines understand these things well. What many people do? You must have seen it. Simply, they write the footer. And they write the paragraph in the footer. And they write their address here. You can write it. No problem. You can take it to the footer with CSS. But many people don't have to spend much. They write their ranking and address on Google. They simply write the footer. And then they include all the paragraphs in the address tag. Google automatically knows it. Because you knew the HTML language well. Google knows it. It took your address from the structure and from the address. And then it listed it. So, you will have the best knowledge of HTML. Not because it makes the headings bigger and smaller. Because it is an important part of every tag. And that importance makes the structure of your page. I think it is getting more interesting now. Okay. So, let's start. First, to know what is important and what should be known. As soon as we write the exclamation, we hit the tab. So, we know that this is a basic structure. But as soon as we went to the first line, we got the dot type. All the tags of HTML, we call them tags. All these tags are insensitive. You can write the head if you want. It doesn't matter if you write the head. But usually, in most cases, you keep them lower case. The first tag is the dot type. As I told you, in the beginning of the internet, all these were not HTML. There were XML, there were XHTML, there were latex. So, your document can be of any type. This thing only tells the browser that the document we are serving is of HTML type. After this, we said HTML. And obviously, the whole world is in foreign language. HTML is popular now. So, we have to define the language. It is in English, Hindi, Japanese or any other language. After that, the most important part is that we remove all these. The structure of HTML is something like this. And to know more about this, HTML is always like this. There are two children of HTML. We need to know this terminology. Because after this, we will learn DOM. And all this is important for DOM. Notice, here is the hierarchy. Here is HTML. There are two children in it. Head and body. And in the body, you can add more children. You can add all children in the head. Like I added the title. I will give its name as simply title. In the body, I simply added an H1 and wrote the test. So, our relation of HTML is with the title grandchild. It is not like you have to go inside the grandchild. Usually, parents, child and grandchild are related to this. There can be more. It is not like that. There is another tag in H1 that can give you more values. But we will not do that. What is important for you to know is that I will tell you all that here. In HTML, we wrote the head and the body in the head. Now, when we go to a web page, the page you see here is all the part of your body. Which is the visual aspect. There are only two things that are visual in the head. The first part is your title. And the second part is the favicon. You can go to any other website. Like here, you have a small icon. You have a small icon of the VS Code. All this is the favicon. And it is not like you need to remember the syntax. You should know that I want to apply the favicon. So, you simply go here. And simply, as you write the favicon in the titles, or you want to add an image, you will be suggested an image. We will do that. But not for now. We got to know this. Now, we saw that as we used to do all this, another thing that came to mind was MetaTags. What is MetaTags? Some information about your document, which you do not want to write on the page, but you should know this by the automatic bot crawl that you have come to visit the page. For example, the character set we are using in this page is UTF-16. There are many character sets. For example, if you want to support Smiley on the page, then I will support UTF-16 here. We will also read about Ascii characters and other things. Now, you wrote name, viewport and width device. That means, when this page is by default rendered, then how it is zoomed, how it looks on the tablet, how it looks on the website, all that is about that. So, how do we know all this? The best resource I thought that you want to see about MetaTags, MetaTags in HTML, and the best part is on Google. Because the Google that recommends, developer.google, all those tags that will help you the most in your SEO of the website, hopefully the page will open soon. Hopefully. Okay. This is the 2009 blog. This is not. Google understands the documents. Okay, let's see some other page. Hopefully, it will be loaded. Magic video editing. Alright. Internet is slow. Bear with me. Okay, so here we see all the character sets, name, description, content author, page, Google verification, content. There are many tags. You have to know about any tag. The information of Google MetaTags, I think, is the most reliable and most valuable. Because the website has to rank on Google. So, all the ones here, they are directly from Google, directly you can take from here, whatever is necessary. Like Google says, robots, description, all these tags should be put on you. So, you know, you can put them on you. By the way, the emitter also helps you here. You write the colon of the meta, and you will get all the types of tags. Like you need a description tag, or you need an edge tag, whatever you want, I need a description. So, you can directly write the name, description, and any content description here. This is the page where we load some CSS. We will see that in the CSS part. Now, just like that. Okay, so you know that the doc type is HTML, our HTML is in it, the head is in it, the body is in it. Now, you should know one more important thing. Notice, the head is opening and closing. The body is opening and closing. These are the syntaxes. But the doc type, which is opening and closing, is not closing. Now, this is a recommendation that if you open any tag, then close it. Like, if there is an edge tag, then close it. The browser won't give you any problem. You can simply write a heading here, and if you want, you can remove it. It will serve you even then. HTML is the most reluctant. It usually doesn't give you any errors. But this is not a good thing. Why? Because when you learn React later on, or learn any other language, then this practice is very important. And yes, there are errors without them. Some tags, although there are no closing tags, like the Br tag is a standalone. The way to write this is, the way to react later is, React gives an error because there is no closing tag. So, we can make this self-closing. This is a better way to prove the future. So, these are our tags. They are also called elements, or tags, whatever you want to name them. It's simple. This is H1. This is our tag. There can be some attributes in tags. But for now, that's all. You have understood what is the head tag. And you know the basics. Now, we can go a little faster to learn what are the H1 tags, what are their importance, what are their attributes, what are the attributes. So, let's go to the next video. And quickly, let's cover all the important tags."
+}

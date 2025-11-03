@@ -1,0 +1,6 @@
+I am teaching HTML. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"audio_file":"Tables in HTML in HINDI.mp4.mp3","start":975.0,"end":977.0,"text":" What is a cell? What is a table? What is a row?"},{"audio_file":"Tables in HTML in HINDI.mp4.mp3","start":67.0,"end":70.0,"text":" Let's talk about tables."},{"audio_file":"Tables in HTML in HINDI.mp4.mp3","start":47.0,"end":50.0,"text":" It is called tables.html."},{"audio_file":"Tables in HTML in HINDI.mp4.mp3","start":369.0,"end":371.0,"text":" which was the table heading."},{"audio_file":"Tables in HTML in HINDI.mp4.mp3","start":214.0,"end":217.0,"text":" There are many rows in a table."}]
+---------------------------------
+"what is table"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course

@@ -1,0 +1,2117 @@
+{
+    "chunks": [
+        {
+            "start": 0.0,
+            "end": 2.72,
+            "text": " Welcome to Tea and Code.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 2.72,
+            "end": 6.08,
+            "text": " I have drunk tea, now it's time for learning code.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 6.08,
+            "end": 9.84,
+            "text": " So to learn code, we will start with our HTML series.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 9.84,
+            "end": 17.64,
+            "text": " HTML is a simple language that nobody has confidence or confidence in but nobody has to learn.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 17.64,
+            "end": 23.84,
+            "text": " And yes, there are many things that can happen here that this is not a programming language, this is a structured language.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 23.84,
+            "end": 25.52,
+            "text": " We will learn about all of them.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 25.68,
+            "end": 30.439999999999998,
+            "text": " But I personally believe that as soon as you get confidence in HTML and CSS,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 30.439999999999998,
+            "end": 34.32,
+            "text": " your programming learning speed increases a lot.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 34.32,
+            "end": 40.84,
+            "text": " After this, you can learn JavaScript, Java, C++, C or C or any other language.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 40.84,
+            "end": 43.239999999999995,
+            "text": " Your confidence is quite high.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 43.239999999999995,
+            "end": 47.4,
+            "text": " In fact, if you look at it, there are many programming languages, popular one.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 47.4,
+            "end": 50.8,
+            "text": " They are all popular because they have a web framework.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 50.8,
+            "end": 56.64,
+            "text": " You don't have to take my name, express, react, angular, view, there are many.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 56.64,
+            "end": 58.72,
+            "text": " Java, spring, spring boot.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 58.72,
+            "end": 62.92,
+            "text": " And apart from this, you will also see that all the languages, mostly PHP,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 62.92,
+            "end": 65.92,
+            "text": " all of these are popular because there is no web framework.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 65.92,
+            "end": 71.56,
+            "text": " For C++, crow, tree frog, or Oat++,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 71.56,
+            "end": 75.24,
+            "text": " for all languages, there is no web framework popular, Ruby on Rails.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 75.24,
+            "end": 77.88,
+            "text": " So at first, you have to do it with HTML and CSS.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 78.0,
+            "end": 80.75999999999999,
+            "text": " But this tutorial won't be boring anyway.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 80.75999999999999,
+            "end": 85.52,
+            "text": " You will master HTML very quickly and very easily and you will get confidence.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 85.52,
+            "end": 89.56,
+            "text": " I will tell you a lot of behind the scenes details and history about HTML.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 89.56,
+            "end": 93.67999999999999,
+            "text": " But first, let's start quickly without wasting any time here because",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 93.67999999999999,
+            "end": 97.52,
+            "text": " you don't understand the code as much as you understand it during writing time.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 97.52,
+            "end": 101.08,
+            "text": " And because it is in Hindi, you will also understand it easily.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 101.08,
+            "end": 102.96,
+            "text": " So let's take you to the screen.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 102.96,
+            "end": 107.8,
+            "text": " There is a VS code on the screen which will be our one and only software that we will use.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 107.84,
+            "end": 109.64,
+            "text": " It is not necessary that you use this.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 109.64,
+            "end": 113.24,
+            "text": " There are many other software like I always keep one more software in the system.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 113.24,
+            "end": 115.03999999999999,
+            "text": " Its name is Sublime Text.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 115.03999999999999,
+            "end": 116.96,
+            "text": " I like it a lot. It is old school.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 116.96,
+            "end": 118.47999999999999,
+            "text": " Sometimes, we use Wim.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 118.47999999999999,
+            "end": 119.64,
+            "text": " We will make a tutorial for it too.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 119.64,
+            "end": 122.6,
+            "text": " But now, we will go to the VS code that we all like.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 122.6,
+            "end": 127.03999999999999,
+            "text": " Just simply go and download your favorite operating system on which you are.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 127.03999999999999,
+            "end": 129.6,
+            "text": " Back, Windows, Lux, everything is available.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 129.6,
+            "end": 131.35999999999999,
+            "text": " You have to do this. That's it.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 131.35999999999999,
+            "end": 136.4,
+            "text": " After this, we will simply make a folder on our desktop.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 136.44,
+            "end": 138.44,
+            "text": " So, I have made a folder.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 138.44,
+            "end": 144.4,
+            "text": " To keep all the Hindi tutorials here, we will start with a simple and very basic HTML.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 144.4,
+            "end": 148.04000000000002,
+            "text": " First of all, you have to open your VS code.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 148.04000000000002,
+            "end": 153.4,
+            "text": " And as soon as you open your VS code, first of all, drag and drop this folder.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 153.4,
+            "end": 154.68,
+            "text": " That's it.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 154.68,
+            "end": 157.44,
+            "text": " Now, there is a reason behind dragging and dropping.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 157.44,
+            "end": 160.56,
+            "text": " Because we want to make websites from HTML.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 160.56,
+            "end": 164.72,
+            "text": " And we will have to learn some basic foundational of websites.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 164.96,
+            "end": 169.76,
+            "text": " So, first of all, what we will do is, after coming here, we will keep all our HTML files here.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 169.76,
+            "end": 173.36,
+            "text": " But first, I will tell you some details about the file.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 173.36,
+            "end": 175.36,
+            "text": " But first, we don't have to waste time.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 175.36,
+            "end": 180.44,
+            "text": " So, we will learn to write code quickly and how to run the speed run of HTML.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 180.44,
+            "end": 181.96,
+            "text": " But first of all, basics.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 181.96,
+            "end": 183.8,
+            "text": " Basics are always necessary.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 183.8,
+            "end": 187.64,
+            "text": " So, what we will do is, first of all, we will make a file name index.html.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 187.64,
+            "end": 191.12,
+            "text": " And we will know about all the history which is very interesting.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 191.12,
+            "end": 192.44,
+            "text": " Hit enter.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 192.48,
+            "end": 195.56,
+            "text": " Now, because you are in VS code, what can you do?",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 195.56,
+            "end": 199.52,
+            "text": " You can simply type an exclimate sign and press the tab.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 199.52,
+            "end": 203.92,
+            "text": " As soon as you press the tab, you will get a lot of boilerplate code directly.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 203.92,
+            "end": 205.32,
+            "text": " We will write all this.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 205.32,
+            "end": 207.16,
+            "text": " But first of all, how did it come?",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 207.16,
+            "end": 208.44,
+            "text": " We will learn that.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 208.44,
+            "end": 210.72,
+            "text": " And why did we make the index file?",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 210.72,
+            "end": 213.28,
+            "text": " So, let's move first here.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 213.28,
+            "end": 217.28,
+            "text": " First of all, when you see the software, I would like to tell you about some software.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 217.28,
+            "end": 219.12,
+            "text": " About a little HTML.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 219.16,
+            "end": 222.76,
+            "text": " The first popular software was Apache 2.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 224.92000000000002,
+            "end": 226.36,
+            "text": " It is a simple web software.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 226.36,
+            "end": 227.08,
+            "text": " It is a web server.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 227.08,
+            "end": 231.28,
+            "text": " And mostly, the Linux systems you will see there run Apache software.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 231.28,
+            "end": 236.64000000000001,
+            "text": " All your websites, through C-Panel, when you go to GoDaddy, Bighost, BigRock,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 236.64000000000001,
+            "end": 241.6,
+            "text": " all the websites you go to, behind the scenes, there is an Apache software running.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 241.6,
+            "end": 244.08,
+            "text": " And that software serves your web pages.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 244.08,
+            "end": 244.6,
+            "text": " That's it.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 244.6,
+            "end": 245.96,
+            "text": " That's all the basics.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 246.0,
+            "end": 249.88,
+            "text": " Now, the default configuration of this software was in the default configuration.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 249.88,
+            "end": 254.88,
+            "text": " First of all, if you don't mention any file in your software,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 254.88,
+            "end": 259.32,
+            "text": " then you will be served the index.html file.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 259.32,
+            "end": 260.2,
+            "text": " This is common.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 260.2,
+            "end": 264.32,
+            "text": " Index.js, index.html, anything else.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 264.32,
+            "end": 268.04,
+            "text": " Many software servers are also configured in that file.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 268.04,
+            "end": 272.76,
+            "text": " If there is no file and there is no index.html, then we will see default.html.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 272.76,
+            "end": 273.88,
+            "text": " Now, that is not the case.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 273.88,
+            "end": 274.71999999999997,
+            "text": " Now, it is easy.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 274.71999999999997,
+            "end": 276.44,
+            "text": " Now, everyone is on the same standard.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 276.44,
+            "end": 278.71999999999997,
+            "text": " That index.html should be the same.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 278.71999999999997,
+            "end": 281.64,
+            "text": " After that, the problem is that I know all of you.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 281.64,
+            "end": 284.96,
+            "text": " I know how to write H1 tag, how to write H1,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 284.96,
+            "end": 288.84,
+            "text": " then we have to close H1, simply go and write in it,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 288.84,
+            "end": 290.44,
+            "text": " that simply heading 1.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 290.44,
+            "end": 292.68,
+            "text": " I know you must have been taught this in school.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 292.68,
+            "end": 296.04,
+            "text": " But, you don't write this code when you go to the industries.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 296.04,
+            "end": 298.56,
+            "text": " In industries, this is a little fast processed.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 298.56,
+            "end": 300.84,
+            "text": " This way, it is not the right time.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 300.84,
+            "end": 302.44,
+            "text": " You can't take this much.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 302.48,
+            "end": 306.36,
+            "text": " For that, we will use a small tool called Emmett.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 307.24,
+            "end": 310.96,
+            "text": " Emmett is a tool that gives you a VSCode by default.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 310.96,
+            "end": 313.44,
+            "text": " Because industry practice is used the most in industry,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 313.44,
+            "end": 314.56,
+            "text": " so it is available.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 314.56,
+            "end": 317.04,
+            "text": " But, it is not that you always have to use VSCode.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 317.04,
+            "end": 319.4,
+            "text": " When we used to use Sublime Text,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 319.4,
+            "end": 321.15999999999997,
+            "text": " we used to download it for Sublime Text.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 321.15999999999997,
+            "end": 323.52,
+            "text": " After that, I used Atom for a long time.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 323.52,
+            "end": 326.6,
+            "text": " I configured it for Atom, but one day, I saw VSCode,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 326.6,
+            "end": 328.64,
+            "text": " it was configured by default.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 328.64,
+            "end": 330.12,
+            "text": " So, I came here.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 330.12,
+            "end": 331.84,
+            "text": " Now, when you go to documentation,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 331.88,
+            "end": 335.03999999999996,
+            "text": " you will find out how fast-paced code is written.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 335.03999999999996,
+            "end": 337.03999999999996,
+            "text": " For example, remove tag.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 337.03999999999996,
+            "end": 339.84,
+            "text": " When you see the example of remove tag,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 339.84,
+            "end": 342.32,
+            "text": " you will see this div is wrapped.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 342.32,
+            "end": 345.67999999999995,
+            "text": " This entire h1p is wrapped.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 345.67999999999995,
+            "end": 346.67999999999995,
+            "text": " From this class.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 346.67999999999995,
+            "end": 348.79999999999995,
+            "text": " And a simple shortcut that is given here,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 348.79999999999995,
+            "end": 351.79999999999995,
+            "text": " that you have to remove, you can press command K.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 351.79999999999995,
+            "end": 354.03999999999996,
+            "text": " And your first to last tag, wherever it is,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 354.03999999999996,
+            "end": 356.52,
+            "text": " wherever it ends, it will be removed.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 356.52,
+            "end": 359.64,
+            "text": " Now, for this, many people download plugins.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 359.64,
+            "end": 361.47999999999996,
+            "text": " But, if you have good knowledge of Emmett,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 361.52000000000004,
+            "end": 363.52000000000004,
+            "text": " then you can do all this directly.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 363.52000000000004,
+            "end": 365.52000000000004,
+            "text": " And, don't worry.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 365.52000000000004,
+            "end": 368.52000000000004,
+            "text": " We will see the whole of Emmett in detail.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 368.52000000000004,
+            "end": 369.52000000000004,
+            "text": " How it works.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 369.52000000000004,
+            "end": 370.92,
+            "text": " It is not that difficult.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 370.92,
+            "end": 372.32,
+            "text": " So, let's start first.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 372.32,
+            "end": 374.72,
+            "text": " This is also an Emmett shortcut.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 374.72,
+            "end": 376.72,
+            "text": " Notice, Emmett abbreviation.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 376.72,
+            "end": 378.72,
+            "text": " And the problem of Emmett abbreviation is,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 378.72,
+            "end": 381.72,
+            "text": " many people don't get Emmett abbreviation.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 381.72,
+            "end": 382.72,
+            "text": " Now, what is the reason behind it?",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 382.72,
+            "end": 385.72,
+            "text": " First of all, you have to open a folder.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 385.72,
+            "end": 387.72,
+            "text": " By dropping a dragon or opening it.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 387.72,
+            "end": 390.72,
+            "text": " If you open a file, it is not the right way.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 390.96000000000004,
+            "end": 393.96000000000004,
+            "text": " Because, the server needs a whole file structure.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 393.96000000000004,
+            "end": 395.96000000000004,
+            "text": " It needs a folder, which they can serve.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 395.96000000000004,
+            "end": 397.96000000000004,
+            "text": " So, it is most important to keep the folder.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 397.96000000000004,
+            "end": 400.96000000000004,
+            "text": " Second, you have to keep the file extension indexed and HTML.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 400.96000000000004,
+            "end": 401.96000000000004,
+            "text": " And save it.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 401.96000000000004,
+            "end": 404.96000000000004,
+            "text": " Without saving it, you won't get it after the exclamation sign.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 404.96000000000004,
+            "end": 407.96000000000004,
+            "text": " Because, your VS Code doesn't know if you are working on HTML file",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 407.96000000000004,
+            "end": 409.96000000000004,
+            "text": " or on CSS file.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 409.96000000000004,
+            "end": 410.96000000000004,
+            "text": " That's all.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 410.96000000000004,
+            "end": 412.96000000000004,
+            "text": " There is no complicated.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 412.96000000000004,
+            "end": 414.96000000000004,
+            "text": " After that, we wrote exclamation,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 414.96000000000004,
+            "end": 416.96000000000004,
+            "text": " hit the tab, boilerplate came to us.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 416.96000000000004,
+            "end": 418.96000000000004,
+            "text": " If you hit the tab twice,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 418.96,
+            "end": 420.96,
+            "text": " then you will be kept in the document.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 420.96,
+            "end": 422.96,
+            "text": " Let's just learn HTML.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 422.96,
+            "end": 424.96,
+            "text": " So, we will write HTML,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 424.96,
+            "end": 426.96,
+            "text": " tutorial,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 426.96,
+            "end": 428.96,
+            "text": " and simple C body.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 428.96,
+            "end": 430.96,
+            "text": " Now, the wonder of HTML is that,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 430.96,
+            "end": 432.96,
+            "text": " I can press the tab by writing H1.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 432.96,
+            "end": 434.96,
+            "text": " And automatically, the tag,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 434.96,
+            "end": 436.96,
+            "text": " opening tag and closing tag comes to me.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 436.96,
+            "end": 438.96,
+            "text": " And I write here simply,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 438.96,
+            "end": 440.96,
+            "text": " heading 1.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 440.96,
+            "end": 442.96,
+            "text": " Now, we will talk about headings and all of these.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 442.96,
+            "end": 444.96,
+            "text": " Don't worry, there won't be much in-depth.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 444.96,
+            "end": 446.96,
+            "text": " There won't be any 50-100 hours of content for you.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 446.96,
+            "end": 448.96,
+            "text": " It's just HTML content.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 448.96,
+            "end": 450.96,
+            "text": " We will move it in high speed.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 450.96,
+            "end": 452.96,
+            "text": " Save it. The problem is,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 452.96,
+            "end": 454.96,
+            "text": " we have to run it by saving it.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 454.96,
+            "end": 456.96,
+            "text": " Okay, go to HTML folder,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 456.96,
+            "end": 458.96,
+            "text": " double-click and open it.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 458.96,
+            "end": 460.96,
+            "text": " And this is the correct way.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 460.96,
+            "end": 462.96,
+            "text": " So, you are seeing that the file is served here.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 462.96,
+            "end": 464.96,
+            "text": " Now, if you know the foundation and fundamentals of the computer,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 464.96,
+            "end": 466.96,
+            "text": " then this file is loaded in memory.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 466.96,
+            "end": 468.96,
+            "text": " And it is served in the browser from memory.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 468.96,
+            "end": 470.96,
+            "text": " That's really simple.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 470.96,
+            "end": 472.96,
+            "text": " Now, what do we do here?",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 472.96,
+            "end": 474.96,
+            "text": " We go back to VS Code.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 474.96,
+            "end": 476.96,
+            "text": " It's heading 1, not heading 2.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 476.96,
+            "end": 478.96,
+            "text": " We saved it. We went back to our browser.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 478.96,
+            "end": 480.96,
+            "text": " We saw that heading 1 is still there.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 480.96,
+            "end": 482.96,
+            "text": " So, where is the problem?",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 482.96,
+            "end": 484.96,
+            "text": " The problem is not even anywhere.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 484.96,
+            "end": 486.96,
+            "text": " It's just a process that the file that is loaded in your memory",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 486.96,
+            "end": 488.96,
+            "text": " is served here.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 488.96,
+            "end": 490.96,
+            "text": " If your file is updated,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 490.96,
+            "end": 492.96,
+            "text": " then nobody has told the memory that the file is updated.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 492.96,
+            "end": 494.96,
+            "text": " So, for all these tasks,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 494.96,
+            "end": 496.96,
+            "text": " so that we don't have to refresh it again and again.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 496.96,
+            "end": 498.96,
+            "text": " We have some extensions",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 498.96,
+            "end": 500.96,
+            "text": " which actually have power of VS Code.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 500.96,
+            "end": 502.96,
+            "text": " So, as soon as we click on extension,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 502.96,
+            "end": 506.96,
+            "text": " you will see here that there are two types of live servers available.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 506.96,
+            "end": 508.96,
+            "text": " Search for the live server.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 508.96,
+            "end": 510.96,
+            "text": " The first one is Ritvikday.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 510.96,
+            "end": 512.96,
+            "text": " It's quite popular.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 512.96,
+            "end": 514.96,
+            "text": " So, you install this server. That's it.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 514.96,
+            "end": 516.96,
+            "text": " After installing this, you can go to any index file.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 516.96,
+            "end": 518.96,
+            "text": " So, you can right click and open with live server.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 518.96,
+            "end": 520.96,
+            "text": " The file is open.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 520.96,
+            "end": 522.96,
+            "text": " Now, whatever you change,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 522.96,
+            "end": 524.96,
+            "text": " save it.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 524.96,
+            "end": 526.96,
+            "text": " automatically, the file is reloaded in memory.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 526.96,
+            "end": 528.96,
+            "text": " It is important to know how all this is done.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 528.96,
+            "end": 530.96,
+            "text": " So, we have saved it.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 530.96,
+            "end": 532.96,
+            "text": " It is important to know how all this is done.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 532.96,
+            "end": 534.96,
+            "text": " So, simply right click and see the page source.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 534.96,
+            "end": 536.96,
+            "text": " Now, if you look at the page source,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 536.96,
+            "end": 538.96,
+            "text": " you will know that there is an extra script here",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 538.96,
+            "end": 540.96,
+            "text": " which is being loaded from the live server.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 540.96,
+            "end": 542.96,
+            "text": " So, there is some program",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 542.96,
+            "end": 544.96,
+            "text": " which is telling the memory",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 544.96,
+            "end": 546.96,
+            "text": " that if there are any changes in the file,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 546.96,
+            "end": 548.96,
+            "text": " then please reload it in memory.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 548.96,
+            "end": 550.96,
+            "text": " It is simple.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 550.96,
+            "end": 552.96,
+            "text": " We will understand all this",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 552.96,
+            "end": 554.96,
+            "text": " as soon as we go to JavaScript.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 554.96,
+            "end": 556.96,
+            "text": " It is so basic.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 556.96,
+            "end": 558.96,
+            "text": " Okay.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 558.96,
+            "end": 560.96,
+            "text": " Now, we have the HTML tutorial.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 560.96,
+            "end": 562.96,
+            "text": " Now, there is another extension",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 562.96,
+            "end": 564.96,
+            "text": " which is a little easier to teach me.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 564.96,
+            "end": 566.96,
+            "text": " So, I will disable this.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 566.96,
+            "end": 568.96,
+            "text": " Of course, reload it.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 568.96,
+            "end": 570.96,
+            "text": " And search for live server again.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 572.96,
+            "end": 574.96,
+            "text": " And this extension,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 574.96,
+            "end": 576.96,
+            "text": " Second Live Server Preview,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 576.96,
+            "end": 578.96,
+            "text": " is a little easy.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 578.96,
+            "end": 580.96,
+            "text": " Let's enable this from the ledger.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 580.96,
+            "end": 582.96,
+            "text": " As soon as you enable this,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 582.96,
+            "end": 584.96,
+            "text": " now, you go to your HTML.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 584.96,
+            "end": 586.96,
+            "text": " Now, you can see by right click,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 586.96,
+            "end": 588.96,
+            "text": " there is no available.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 588.96,
+            "end": 590.96,
+            "text": " So, there is another shortcut.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 590.96,
+            "end": 592.96,
+            "text": " For the VS Code,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 592.96,
+            "end": 594.96,
+            "text": " it should be Command Shift P",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 594.96,
+            "end": 596.96,
+            "text": " or Control Shift P.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 596.96,
+            "end": 598.96,
+            "text": " As soon as you press this,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 598.96,
+            "end": 600.96,
+            "text": " the palette opens.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 600.96,
+            "end": 602.96,
+            "text": " You simply have to write",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 602.96,
+            "end": 604.96,
+            "text": " Live Server on the palette.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 604.96,
+            "end": 606.96,
+            "text": " And hit Enter.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 606.96,
+            "end": 608.96,
+            "text": " Now, whatever the source code is,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 608.96,
+            "end": 610.96,
+            "text": " you can see it directly on the right side.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 610.96,
+            "end": 612.96,
+            "text": " This is a little easy for a teaching purpose",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 612.96,
+            "end": 614.96,
+            "text": " because I don't have to",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 614.96,
+            "end": 616.96,
+            "text": " write it on the right side.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 616.96,
+            "end": 618.96,
+            "text": " But, the problem is",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 618.96,
+            "end": 620.96,
+            "text": " that the title here",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 620.96,
+            "end": 622.96,
+            "text": " is not title fetch.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 622.96,
+            "end": 624.96,
+            "text": " I can't go to the page source by right click.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 624.96,
+            "end": 626.96,
+            "text": " And, all the browser functionality",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 626.96,
+            "end": 628.96,
+            "text": " like the inspect element,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 628.96,
+            "end": 630.96,
+            "text": " I can go to any element,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 630.96,
+            "end": 632.96,
+            "text": " I can see how much space it is taking.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 632.96,
+            "end": 634.96,
+            "text": " I can't do all this.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 634.96,
+            "end": 636.96,
+            "text": " But, it's not that bad.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 636.96,
+            "end": 638.96,
+            "text": " If I have to learn something,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 638.96,
+            "end": 640.96,
+            "text": " how to see bullets, how to see by default,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 640.96,
+            "end": 642.96,
+            "text": " I can easily see all of this.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 642.96,
+            "end": 644.96,
+            "text": " This is your simple and very basic introduction.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 644.96,
+            "end": 646.96,
+            "text": " In the next video,",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 646.96,
+            "end": 648.96,
+            "text": " in the next part, we will see",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 648.96,
+            "end": 650.96,
+            "text": " how this is coming",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 650.96,
+            "end": 652.96,
+            "text": " and how it is very important",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 652.96,
+            "end": 654.96,
+            "text": " for the structure of your page.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 654.96,
+            "end": 656.96,
+            "text": " Because, you have to learn JavaScript.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 656.96,
+            "end": 658.96,
+            "text": " That's all for now.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        },
+        {
+            "start": 658.96,
+            "end": 660.96,
+            "text": " See you in the next video.",
+            "audio_file": "HTML and VSCode - getting started ｜ Hindi.mp4.mp3",
+            "title": "HTML and VSCode - getting started ｜ Hindi.mp4",
+            "number": 3
+        }
+    ],
+    "text": " Welcome to Tea and Code. I have drunk tea, now it's time for learning code. So to learn code, we will start with our HTML series. HTML is a simple language that nobody has confidence or confidence in but nobody has to learn. And yes, there are many things that can happen here that this is not a programming language, this is a structured language. We will learn about all of them. But I personally believe that as soon as you get confidence in HTML and CSS, your programming learning speed increases a lot. After this, you can learn JavaScript, Java, C++, C or C or any other language. Your confidence is quite high. In fact, if you look at it, there are many programming languages, popular one. They are all popular because they have a web framework. You don't have to take my name, express, react, angular, view, there are many. Java, spring, spring boot. And apart from this, you will also see that all the languages, mostly PHP, all of these are popular because there is no web framework. For C++, crow, tree frog, or Oat++, for all languages, there is no web framework popular, Ruby on Rails. So at first, you have to do it with HTML and CSS. But this tutorial won't be boring anyway. You will master HTML very quickly and very easily and you will get confidence. I will tell you a lot of behind the scenes details and history about HTML. But first, let's start quickly without wasting any time here because you don't understand the code as much as you understand it during writing time. And because it is in Hindi, you will also understand it easily. So let's take you to the screen. There is a VS code on the screen which will be our one and only software that we will use. It is not necessary that you use this. There are many other software like I always keep one more software in the system. Its name is Sublime Text. I like it a lot. It is old school. Sometimes, we use Wim. We will make a tutorial for it too. But now, we will go to the VS code that we all like. Just simply go and download your favorite operating system on which you are. Back, Windows, Lux, everything is available. You have to do this. That's it. After this, we will simply make a folder on our desktop. So, I have made a folder. To keep all the Hindi tutorials here, we will start with a simple and very basic HTML. First of all, you have to open your VS code. And as soon as you open your VS code, first of all, drag and drop this folder. That's it. Now, there is a reason behind dragging and dropping. Because we want to make websites from HTML. And we will have to learn some basic foundational of websites. So, first of all, what we will do is, after coming here, we will keep all our HTML files here. But first, I will tell you some details about the file. But first, we don't have to waste time. So, we will learn to write code quickly and how to run the speed run of HTML. But first of all, basics. Basics are always necessary. So, what we will do is, first of all, we will make a file name index.html. And we will know about all the history which is very interesting. Hit enter. Now, because you are in VS code, what can you do? You can simply type an exclimate sign and press the tab. As soon as you press the tab, you will get a lot of boilerplate code directly. We will write all this. But first of all, how did it come? We will learn that. And why did we make the index file? So, let's move first here. First of all, when you see the software, I would like to tell you about some software. About a little HTML. The first popular software was Apache 2. It is a simple web software. It is a web server. And mostly, the Linux systems you will see there run Apache software. All your websites, through C-Panel, when you go to GoDaddy, Bighost, BigRock, all the websites you go to, behind the scenes, there is an Apache software running. And that software serves your web pages. That's it. That's all the basics. Now, the default configuration of this software was in the default configuration. First of all, if you don't mention any file in your software, then you will be served the index.html file. This is common. Index.js, index.html, anything else. Many software servers are also configured in that file. If there is no file and there is no index.html, then we will see default.html. Now, that is not the case. Now, it is easy. Now, everyone is on the same standard. That index.html should be the same. After that, the problem is that I know all of you. I know how to write H1 tag, how to write H1, then we have to close H1, simply go and write in it, that simply heading 1. I know you must have been taught this in school. But, you don't write this code when you go to the industries. In industries, this is a little fast processed. This way, it is not the right time. You can't take this much. For that, we will use a small tool called Emmett. Emmett is a tool that gives you a VSCode by default. Because industry practice is used the most in industry, so it is available. But, it is not that you always have to use VSCode. When we used to use Sublime Text, we used to download it for Sublime Text. After that, I used Atom for a long time. I configured it for Atom, but one day, I saw VSCode, it was configured by default. So, I came here. Now, when you go to documentation, you will find out how fast-paced code is written. For example, remove tag. When you see the example of remove tag, you will see this div is wrapped. This entire h1p is wrapped. From this class. And a simple shortcut that is given here, that you have to remove, you can press command K. And your first to last tag, wherever it is, wherever it ends, it will be removed. Now, for this, many people download plugins. But, if you have good knowledge of Emmett, then you can do all this directly. And, don't worry. We will see the whole of Emmett in detail. How it works. It is not that difficult. So, let's start first. This is also an Emmett shortcut. Notice, Emmett abbreviation. And the problem of Emmett abbreviation is, many people don't get Emmett abbreviation. Now, what is the reason behind it? First of all, you have to open a folder. By dropping a dragon or opening it. If you open a file, it is not the right way. Because, the server needs a whole file structure. It needs a folder, which they can serve. So, it is most important to keep the folder. Second, you have to keep the file extension indexed and HTML. And save it. Without saving it, you won't get it after the exclamation sign. Because, your VS Code doesn't know if you are working on HTML file or on CSS file. That's all. There is no complicated. After that, we wrote exclamation, hit the tab, boilerplate came to us. If you hit the tab twice, then you will be kept in the document. Let's just learn HTML. So, we will write HTML, tutorial, and simple C body. Now, the wonder of HTML is that, I can press the tab by writing H1. And automatically, the tag, opening tag and closing tag comes to me. And I write here simply, heading 1. Now, we will talk about headings and all of these. Don't worry, there won't be much in-depth. There won't be any 50-100 hours of content for you. It's just HTML content. We will move it in high speed. Save it. The problem is, we have to run it by saving it. Okay, go to HTML folder, double-click and open it. And this is the correct way. So, you are seeing that the file is served here. Now, if you know the foundation and fundamentals of the computer, then this file is loaded in memory. And it is served in the browser from memory. That's really simple. Now, what do we do here? We go back to VS Code. It's heading 1, not heading 2. We saved it. We went back to our browser. We saw that heading 1 is still there. So, where is the problem? The problem is not even anywhere. It's just a process that the file that is loaded in your memory is served here. If your file is updated, then nobody has told the memory that the file is updated. So, for all these tasks, so that we don't have to refresh it again and again. We have some extensions which actually have power of VS Code. So, as soon as we click on extension, you will see here that there are two types of live servers available. Search for the live server. The first one is Ritvikday. It's quite popular. So, you install this server. That's it. After installing this, you can go to any index file. So, you can right click and open with live server. The file is open. Now, whatever you change, save it. automatically, the file is reloaded in memory. It is important to know how all this is done. So, we have saved it. It is important to know how all this is done. So, simply right click and see the page source. Now, if you look at the page source, you will know that there is an extra script here which is being loaded from the live server. So, there is some program which is telling the memory that if there are any changes in the file, then please reload it in memory. It is simple. We will understand all this as soon as we go to JavaScript. It is so basic. Okay. Now, we have the HTML tutorial. Now, there is another extension which is a little easier to teach me. So, I will disable this. Of course, reload it. And search for live server again. And this extension, Second Live Server Preview, is a little easy. Let's enable this from the ledger. As soon as you enable this, now, you go to your HTML. Now, you can see by right click, there is no available. So, there is another shortcut. For the VS Code, it should be Command Shift P or Control Shift P. As soon as you press this, the palette opens. You simply have to write Live Server on the palette. And hit Enter. Now, whatever the source code is, you can see it directly on the right side. This is a little easy for a teaching purpose because I don't have to write it on the right side. But, the problem is that the title here is not title fetch. I can't go to the page source by right click. And, all the browser functionality like the inspect element, I can go to any element, I can see how much space it is taking. I can't do all this. But, it's not that bad. If I have to learn something, how to see bullets, how to see by default, I can easily see all of this. This is your simple and very basic introduction. In the next video, in the next part, we will see how this is coming and how it is very important for the structure of your page. Because, you have to learn JavaScript. That's all for now. See you in the next video."
+}

@@ -1,0 +1,5093 @@
+{
+    "chunks": [
+        {
+            "start": 0.0,
+            "end": 5.0,
+            "text": " Welcome back to another episode of Chai Aur Kod.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 5.0,
+            "end": 10.0,
+            "text": " This week we will be talking about a series which is a series of HTML.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 10.0,
+            "end": 15.0,
+            "text": " I took a break for a few days because I had worked loads and worked pressure.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 15.0,
+            "end": 17.0,
+            "text": " So I thought I would tell you about the holidays.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 17.0,
+            "end": 21.0,
+            "text": " I posted a lot of videos but now we are starting the series.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 21.0,
+            "end": 25.0,
+            "text": " You can expect a lot of videos frequently and daily.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 25.0,
+            "end": 27.0,
+            "text": " Let's start the series of HTML.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 27.0,
+            "end": 32.0,
+            "text": " We have covered a lot of topics and today we will be talking about tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 32.0,
+            "end": 35.0,
+            "text": " We will write a little code about tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 35.0,
+            "end": 40.0,
+            "text": " I will tell you about some behind the scenes details and how the world has changed",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 40.0,
+            "end": 42.0,
+            "text": " and is happening towards tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 42.0,
+            "end": 47.0,
+            "text": " Let's start with a simple file.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 47.0,
+            "end": 50.0,
+            "text": " It is called tables.html.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 50.0,
+            "end": 52.0,
+            "text": " We have learnt a lot of things.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 52.0,
+            "end": 53.0,
+            "text": " We can write fast code.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 53.0,
+            "end": 55.0,
+            "text": " We can type an exclamation and hit it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 55.0,
+            "end": 59.0,
+            "text": " There are some other shortcuts here like you can write HTML and hit it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 59.0,
+            "end": 62.0,
+            "text": " Or you can write HTML colon 5 and hit it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 62.0,
+            "end": 63.0,
+            "text": " There are many ways.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 63.0,
+            "end": 67.0,
+            "text": " I like exclamation and tab.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 67.0,
+            "end": 70.0,
+            "text": " Let's talk about tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 70.0,
+            "end": 73.0,
+            "text": " First we will change the document to table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 73.0,
+            "end": 78.0,
+            "text": " I used to find the way to write tables boring when we didn't have an emitter.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 78.0,
+            "end": 81.0,
+            "text": " We had to write everything manually in a text editor.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 81.0,
+            "end": 83.0,
+            "text": " Now we have an emitter in the tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 83.0,
+            "end": 87.0,
+            "text": " We will see some shortcuts that will help us create tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 87.0,
+            "end": 89.0,
+            "text": " Let's see the shortcut first.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 89.0,
+            "end": 93.0,
+            "text": " The way to see the shortcut is first we will go to the emitter.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 93.0,
+            "end": 96.0,
+            "text": " Simply google at service.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 96.0,
+            "end": 97.0,
+            "text": " Google.com",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 99.0,
+            "end": 102.0,
+            "text": " And here we see emitter, table, shortcut.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 102.0,
+            "end": 107.0,
+            "text": " When you see table shortcuts in the emitter, especially when you find them in cheat sheet,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 107.0,
+            "end": 110.0,
+            "text": " I will search table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 113.0,
+            "end": 115.0,
+            "text": " These are some of the shortcuts of the table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 115.0,
+            "end": 116.0,
+            "text": " Let's zoom in.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 116.0,
+            "end": 120.0,
+            "text": " In the table you can write dot row as many times as you want.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 120.0,
+            "end": 123.0,
+            "text": " These are the shortcuts of CSS.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 123.0,
+            "end": 124.0,
+            "text": " We don't want these shortcuts.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 124.0,
+            "end": 126.0,
+            "text": " Let's go to the other shortcut.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 126.0,
+            "end": 128.0,
+            "text": " And here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 131.0,
+            "end": 133.0,
+            "text": " There are some other shortcuts here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 133.0,
+            "end": 135.0,
+            "text": " These are the shortcuts of table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 135.0,
+            "end": 137.0,
+            "text": " I think table plus.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 137.0,
+            "end": 139.0,
+            "text": " This is a shortcut.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 139.0,
+            "end": 141.0,
+            "text": " You can write table plus.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 141.0,
+            "end": 146.0,
+            "text": " It is an alias to create rows and data in your table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 146.0,
+            "end": 148.0,
+            "text": " This is the most important and easy shortcut.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 148.0,
+            "end": 150.0,
+            "text": " Many people use it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 150.0,
+            "end": 154.0,
+            "text": " If you find it a little tough, I will also tell you the easy shortcut.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 154.0,
+            "end": 156.0,
+            "text": " First we will use table plus.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 156.0,
+            "end": 161.0,
+            "text": " And as soon as you hit the tab, you will notice that there is nothing in the VS code.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 162.0,
+            "end": 164.0,
+            "text": " This is the most surprising thing.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 164.0,
+            "end": 166.0,
+            "text": " There is nothing in the table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 166.0,
+            "end": 168.0,
+            "text": " These are shortcuts when you manually install.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 168.0,
+            "end": 171.0,
+            "text": " Although there are many shortcuts like map plus.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 171.0,
+            "end": 173.0,
+            "text": " These are all shortcuts here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 173.0,
+            "end": 176.0,
+            "text": " But the way to install and use them is a little different.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 176.0,
+            "end": 179.0,
+            "text": " Like I just told you, there are HTML colon 5.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 179.0,
+            "end": 180.0,
+            "text": " These are all shortcuts.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 180.0,
+            "end": 182.0,
+            "text": " Some shortcuts work, some don't.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 182.0,
+            "end": 184.0,
+            "text": " We can't rely on them and we can't depend on them.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 184.0,
+            "end": 188.0,
+            "text": " For example, in the table, you have only one shortcut.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 188.0,
+            "end": 191.0,
+            "text": " I will write colon plus and you will see that there is nothing.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 191.0,
+            "end": 192.0,
+            "text": " Look at this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 192.0,
+            "end": 194.0,
+            "text": " We will give you these shortcuts.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 194.0,
+            "end": 196.0,
+            "text": " First you write table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 196.0,
+            "end": 201.0,
+            "text": " You can add whatever you want to add in the table after typing with this arrow key.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 201.0,
+            "end": 203.0,
+            "text": " I will make an example table and show you.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 203.0,
+            "end": 206.0,
+            "text": " After that, things will be a little easier.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 206.0,
+            "end": 208.0,
+            "text": " First, we will start with table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 208.0,
+            "end": 210.0,
+            "text": " Table comes in rows of tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 210.0,
+            "end": 212.0,
+            "text": " There will be more things.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 212.0,
+            "end": 213.0,
+            "text": " We will tell you that too.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 213.0,
+            "end": 214.0,
+            "text": " But first table rows will come.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 214.0,
+            "end": 217.0,
+            "text": " There are many rows in a table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 217.0,
+            "end": 220.0,
+            "text": " With this, I will give you a small tip.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 220.0,
+            "end": 225.0,
+            "text": " Our brain is trained from the beginning by reading books.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 225.0,
+            "end": 231.0,
+            "text": " The tabular structure data is still very challenging to convert it into a mobile.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 231.0,
+            "end": 232.0,
+            "text": " We will talk about it later.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 232.0,
+            "end": 237.0,
+            "text": " But remember that our brain is trained to look left to right.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 237.0,
+            "end": 239.0,
+            "text": " And that is what the majority of screens do.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 239.0,
+            "end": 241.0,
+            "text": " The story is different in the mobile.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 241.0,
+            "end": 242.0,
+            "text": " We will talk about that too.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 242.0,
+            "end": 244.0,
+            "text": " But in the table, as you write T-R,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 244.0,
+            "end": 246.0,
+            "text": " look at the tab,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 246.0,
+            "end": 249.0,
+            "text": " a table tag was created and a table row tag was created.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 249.0,
+            "end": 250.0,
+            "text": " But this is not our goal.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 250.0,
+            "end": 252.0,
+            "text": " We want to go deeper in this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 252.0,
+            "end": 254.0,
+            "text": " You have created table row.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 254.0,
+            "end": 257.0,
+            "text": " You need TH, that is table heading.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 257.0,
+            "end": 259.0,
+            "text": " Yes, it is a very easy shortcut.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 259.0,
+            "end": 260.0,
+            "text": " It is not that difficult.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 260.0,
+            "end": 261.0,
+            "text": " How many should I need?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 261.0,
+            "end": 262.0,
+            "text": " I need three.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 262.0,
+            "end": 264.0,
+            "text": " I will multiply it by three.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 264.0,
+            "end": 266.0,
+            "text": " If I gave you a direct shortcut,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 266.0,
+            "end": 268.0,
+            "text": " it would seem difficult to memorize it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 268.0,
+            "end": 272.0,
+            "text": " But this shortcut will help us to make a list",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 272.0,
+            "end": 274.0,
+            "text": " and learn to make a lot of navigation bars.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 274.0,
+            "end": 275.0,
+            "text": " It will look great.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 275.0,
+            "end": 277.0,
+            "text": " You see table heading into three.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 277.0,
+            "end": 280.0,
+            "text": " This is giving you a sample output.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 280.0,
+            "end": 282.0,
+            "text": " That your table will look like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 282.0,
+            "end": 283.0,
+            "text": " Table row will look like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 283.0,
+            "end": 285.0,
+            "text": " You will also see three headings.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 285.0,
+            "end": 287.0,
+            "text": " We can go further in this too.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 287.0,
+            "end": 289.0,
+            "text": " We can fill the sample data too.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 289.0,
+            "end": 290.0,
+            "text": " But I think it is not right for now.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 290.0,
+            "end": 293.0,
+            "text": " So let's hit tab and our table heading is here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 293.0,
+            "end": 295.0,
+            "text": " Now I explained it to you.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 295.0,
+            "end": 297.0,
+            "text": " So it took a little more time.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 297.0,
+            "end": 300.0,
+            "text": " Otherwise, you can see how easily we can help it through the emitter.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 300.0,
+            "end": 303.0,
+            "text": " Take a table, give a table row,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 303.0,
+            "end": 305.0,
+            "text": " give me a table heading,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 305.0,
+            "end": 307.0,
+            "text": " multiply it by three or four, whatever you want.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 307.0,
+            "end": 308.0,
+            "text": " Your work is done.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 308.0,
+            "end": 309.0,
+            "text": " Now the best thing is,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 309.0,
+            "end": 311.0,
+            "text": " after writing, I will hit tab.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 311.0,
+            "end": 314.0,
+            "text": " I will automatically go into second table heading.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 314.0,
+            "end": 317.0,
+            "text": " So here we write simply country.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 317.0,
+            "end": 322.0,
+            "text": " After that we write country code.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 322.0,
+            "end": 326.0,
+            "text": " After that we write email.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 326.0,
+            "end": 331.0,
+            "text": " Save and see how it looks.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 331.0,
+            "end": 332.0,
+            "text": " So let's click right.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 332.0,
+            "end": 334.0,
+            "text": " Let's open with live server.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 334.0,
+            "end": 337.0,
+            "text": " So country code, country email.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 337.0,
+            "end": 339.0,
+            "text": " We didn't expect such a table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 339.0,
+            "end": 341.0,
+            "text": " We thought it would be a default table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 341.0,
+            "end": 342.0,
+            "text": " It doesn't work like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 342.0,
+            "end": 344.0,
+            "text": " There will be a little work of CSS here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 344.0,
+            "end": 345.0,
+            "text": " Which we will do.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 345.0,
+            "end": 347.0,
+            "text": " But first let's fill the data.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 347.0,
+            "end": 350.0,
+            "text": " Now I will give you an easy shortcut.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 350.0,
+            "end": 352.0,
+            "text": " Whenever you make a table row like this,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 352.0,
+            "end": 355.0,
+            "text": " whenever it is done, collapse it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 355.0,
+            "end": 356.0,
+            "text": " Use editors.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 356.0,
+            "end": 359.0,
+            "text": " Because editors are there to reduce the code",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 359.0,
+            "end": 361.0,
+            "text": " and the bugs of writing.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 361.0,
+            "end": 363.0,
+            "text": " Now we need more table rows.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 363.0,
+            "end": 364.0,
+            "text": " And we need the same.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 364.0,
+            "end": 365.0,
+            "text": " So let's do it again.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 365.0,
+            "end": 366.0,
+            "text": " We need table row.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 366.0,
+            "end": 369.0,
+            "text": " In this, last time we took the T-H,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 369.0,
+            "end": 371.0,
+            "text": " which was the table heading.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 371.0,
+            "end": 373.0,
+            "text": " Now we need T-D, that is, table data.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 373.0,
+            "end": 375.0,
+            "text": " And again, if you take T-H,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 375.0,
+            "end": 377.0,
+            "text": " then nothing will happen.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 377.0,
+            "end": 379.0,
+            "text": " HTML will negate it again.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 379.0,
+            "end": 380.0,
+            "text": " But the problem is,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 380.0,
+            "end": 382.0,
+            "text": " when you have a search engine on Google,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 382.0,
+            "end": 385.0,
+            "text": " then it won't know which part to search like heading",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 385.0,
+            "end": 387.0,
+            "text": " and which part to serve the user",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 387.0,
+            "end": 389.0,
+            "text": " and which part to serve the data.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 389.0,
+            "end": 391.0,
+            "text": " You must have seen that by default,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 391.0,
+            "end": 394.0,
+            "text": " you search some data and Google directly lists it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 394.0,
+            "end": 396.0,
+            "text": " Those who write good HTML,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 396.0,
+            "end": 397.0,
+            "text": " they have a good page.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 397.0,
+            "end": 399.0,
+            "text": " So we need table row,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 399.0,
+            "end": 401.0,
+            "text": " table data and again we take 3 data.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 401.0,
+            "end": 404.0,
+            "text": " So here we take 3 data.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 404.0,
+            "end": 406.0,
+            "text": " Multiply by 3.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 406.0,
+            "end": 407.0,
+            "text": " We took this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 407.0,
+            "end": 409.0,
+            "text": " Now I will give you another shortcut with this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 409.0,
+            "end": 411.0,
+            "text": " Because we have this much data.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 411.0,
+            "end": 413.0,
+            "text": " We will write country code here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 413.0,
+            "end": 414.0,
+            "text": " Of course, this is the thing.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 414.0,
+            "end": 415.0,
+            "text": " We will write India first.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 415.0,
+            "end": 417.0,
+            "text": " Then IN, our country code.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 417.0,
+            "end": 418.0,
+            "text": " And then email.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 418.0,
+            "end": 421.0,
+            "text": " So India at the rate.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 422.0,
+            "end": 424.0,
+            "text": " Google.com.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 425.0,
+            "end": 426.0,
+            "text": " So we have written this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 426.0,
+            "end": 427.0,
+            "text": " And we will go and see.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 427.0,
+            "end": 428.0,
+            "text": " This is how it looks.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 428.0,
+            "end": 429.0,
+            "text": " Something doesn't look good.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 429.0,
+            "end": 430.0,
+            "text": " It will look good now.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 430.0,
+            "end": 432.0,
+            "text": " But now an easy shortcut,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 432.0,
+            "end": 433.0,
+            "text": " which everyone should know.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 433.0,
+            "end": 435.0,
+            "text": " Select all of them.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 435.0,
+            "end": 437.0,
+            "text": " And press the Alt key.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 437.0,
+            "end": 439.0,
+            "text": " Or if you are on Mac, then the Option key.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 439.0,
+            "end": 441.0,
+            "text": " Press the Shift key with it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 441.0,
+            "end": 442.0,
+            "text": " And down arrow.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 442.0,
+            "end": 443.0,
+            "text": " The moment you press it,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 443.0,
+            "end": 445.0,
+            "text": " you can make the copy of that code.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 445.0,
+            "end": 446.0,
+            "text": " The copies you want,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 446.0,
+            "end": 447.0,
+            "text": " you can make the copies.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 447.0,
+            "end": 450.0,
+            "text": " Similarly, we will learn to write fast code.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 450.0,
+            "end": 452.0,
+            "text": " As you are on the channel,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 452.0,
+            "end": 453.0,
+            "text": " keep subscribing.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 453.0,
+            "end": 455.0,
+            "text": " I will keep telling you more shortcuts.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 455.0,
+            "end": 457.0,
+            "text": " So you can write speedy code.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 457.0,
+            "end": 458.0,
+            "text": " Now what we will do?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 458.0,
+            "end": 460.0,
+            "text": " Simply go to the other country instead of India.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 460.0,
+            "end": 461.0,
+            "text": " USA.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 461.0,
+            "end": 465.0,
+            "text": " And write its full name.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 465.0,
+            "end": 468.0,
+            "text": " United States.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 469.0,
+            "end": 471.0,
+            "text": " America.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 471.0,
+            "end": 473.0,
+            "text": " And write its country code.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 473.0,
+            "end": 475.0,
+            "text": " USA.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 475.0,
+            "end": 477.0,
+            "text": " In caps.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 477.0,
+            "end": 479.0,
+            "text": " And we will use the small one here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 479.0,
+            "end": 480.0,
+            "text": " USA.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 480.0,
+            "end": 483.0,
+            "text": " After that, we will use Japan.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 483.0,
+            "end": 485.0,
+            "text": " And write its country code here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 485.0,
+            "end": 487.0,
+            "text": " JP.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 487.0,
+            "end": 489.0,
+            "text": " And we will make its email too.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 489.0,
+            "end": 491.0,
+            "text": " JP.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 491.0,
+            "end": 493.0,
+            "text": " And we need one more country.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 493.0,
+            "end": 496.0,
+            "text": " So we will use China.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 496.0,
+            "end": 498.0,
+            "text": " And...",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 499.0,
+            "end": 500.0,
+            "text": " CN.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 500.0,
+            "end": 501.0,
+            "text": " CN.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 501.0,
+            "end": 502.0,
+            "text": " I don't remember.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 502.0,
+            "end": 504.0,
+            "text": " Whatever it is, you understood it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 504.0,
+            "end": 506.0,
+            "text": " CN at google.com.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 506.0,
+            "end": 507.0,
+            "text": " Now as we save it,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 507.0,
+            "end": 509.0,
+            "text": " we have quickly made the table data.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 509.0,
+            "end": 511.0,
+            "text": " But this table doesn't look so good.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 511.0,
+            "end": 513.0,
+            "text": " Now I will tell you.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 513.0,
+            "end": 515.0,
+            "text": " This table looks like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 515.0,
+            "end": 517.0,
+            "text": " Now we can see that this table is divided into three parts.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 517.0,
+            "end": 519.0,
+            "text": " One part, two part and three part.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 519.0,
+            "end": 521.0,
+            "text": " When we used to make websites in the early days,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 521.0,
+            "end": 523.0,
+            "text": " we used to do the same.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 523.0,
+            "end": 525.0,
+            "text": " We used to give the table the width and height of the whole screen.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 525.0,
+            "end": 528.0,
+            "text": " After that, we used to add the navigation bar in the first row.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 528.0,
+            "end": 530.0,
+            "text": " We used to add the logo in the left one.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 530.0,
+            "end": 532.0,
+            "text": " We used to add the buttons in the right one.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 532.0,
+            "end": 534.0,
+            "text": " And we used to make websites in the same way.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 534.0,
+            "end": 537.0,
+            "text": " This approach was there when people were not so cautious",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 537.0,
+            "end": 539.0,
+            "text": " about using browsers.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 539.0,
+            "end": 540.0,
+            "text": " If there was a single desktop,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 540.0,
+            "end": 542.0,
+            "text": " we would have to make the entire website in that.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 542.0,
+            "end": 544.0,
+            "text": " It would work easily.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 544.0,
+            "end": 545.0,
+            "text": " It doesn't work now.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 545.0,
+            "end": 546.0,
+            "text": " There are many screen variants.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 546.0,
+            "end": 547.0,
+            "text": " There are many screen sizes.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 547.0,
+            "end": 548.0,
+            "text": " There are mobile sizes too.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 548.0,
+            "end": 550.0,
+            "text": " So the table approach is not right now.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 550.0,
+            "end": 552.0,
+            "text": " If you want to give the structure of the whole website.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 552.0,
+            "end": 556.0,
+            "text": " We will learn the flex box, ordering and many other things",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 556.0,
+            "end": 557.0,
+            "text": " where we can do this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 557.0,
+            "end": 558.0,
+            "text": " That's enough for now.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 558.0,
+            "end": 561.0,
+            "text": " But we make it a little better and more beautiful.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 561.0,
+            "end": 563.0,
+            "text": " To make it better and more beautiful,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 563.0,
+            "end": 566.0,
+            "text": " we need to take a little touch of CSS.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 566.0,
+            "end": 568.0,
+            "text": " We can stop the video here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 568.0,
+            "end": 570.0,
+            "text": " But we will go a little further about it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 570.0,
+            "end": 572.0,
+            "text": " Definitely when we read the tables in CSS,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 572.0,
+            "end": 573.0,
+            "text": " we will go further in depth.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 573.0,
+            "end": 576.0,
+            "text": " But at least it is our job to make it beautiful.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 576.0,
+            "end": 579.0,
+            "text": " The CSS we will write is not a difficult CSS.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 579.0,
+            "end": 581.0,
+            "text": " We will simply go under the title.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 581.0,
+            "end": 583.0,
+            "text": " Of course, we will be under the title.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 583.0,
+            "end": 586.0,
+            "text": " First of all, write style and hit tab.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 586.0,
+            "end": 588.0,
+            "text": " So we have the style tag.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 588.0,
+            "end": 593.0,
+            "text": " Now our styling can be in this file instead of being in a completely different CSS file.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 593.0,
+            "end": 595.0,
+            "text": " We will read more approaches in the future.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 595.0,
+            "end": 597.0,
+            "text": " Tailwind and everything will be on the channel.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 597.0,
+            "end": 598.0,
+            "text": " That's it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 598.0,
+            "end": 600.0,
+            "text": " So now we will target the table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 600.0,
+            "end": 602.0,
+            "text": " In this way, you target an element.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 602.0,
+            "end": 605.0,
+            "text": " And in curly braces, you write all its styling.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 605.0,
+            "end": 609.0,
+            "text": " So first of all, we write width.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 609.0,
+            "end": 611.0,
+            "text": " We give it width 100%.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 611.0,
+            "end": 613.0,
+            "text": " And what will happen if we give it width 100%",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 613.0,
+            "end": 616.0,
+            "text": " The table is completely scattered on the screen.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 616.0,
+            "end": 618.0,
+            "text": " Okay, our work is done.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 618.0,
+            "end": 621.0,
+            "text": " After that, we have many more borders here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 621.0,
+            "end": 623.0,
+            "text": " I will write one more thing, which will not happen.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 623.0,
+            "end": 625.0,
+            "text": " But we will write it anyway.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 625.0,
+            "end": 627.0,
+            "text": " Which is border collapse.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 627.0,
+            "end": 628.0,
+            "text": " What do we do in this?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 628.0,
+            "end": 629.0,
+            "text": " We write collapse.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 629.0,
+            "end": 631.0,
+            "text": " When we read CSS, we will see more.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 631.0,
+            "end": 632.0,
+            "text": " But we are still seeing it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 632.0,
+            "end": 633.0,
+            "text": " Nothing is happening.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 633.0,
+            "end": 635.0,
+            "text": " We want to do border collapse.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 635.0,
+            "end": 637.0,
+            "text": " I will come back to this and tell you more details.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 637.0,
+            "end": 638.0,
+            "text": " Just wait for a minute.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 638.0,
+            "end": 641.0,
+            "text": " Now we have data in the table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 641.0,
+            "end": 643.0,
+            "text": " And we have heading in the table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 643.0,
+            "end": 645.0,
+            "text": " I want to target both of them together.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 645.0,
+            "end": 646.0,
+            "text": " Let's see what happens.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 646.0,
+            "end": 649.0,
+            "text": " First and foremost, to give the table a look,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 649.0,
+            "end": 651.0,
+            "text": " we have to give it border property.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 651.0,
+            "end": 653.0,
+            "text": " Border property is a little difficult.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 653.0,
+            "end": 655.0,
+            "text": " It is not difficult, it is lengthy.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 655.0,
+            "end": 657.0,
+            "text": " We will go into more details in CSS.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 657.0,
+            "end": 658.0,
+            "text": " Now we just say,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 658.0,
+            "end": 661.0,
+            "text": " Give me a border of 1 pixel, which is solid.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 661.0,
+            "end": 663.0,
+            "text": " And we will have to give it color.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 663.0,
+            "end": 664.0,
+            "text": " So we will take black.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 664.0,
+            "end": 665.0,
+            "text": " We will take more later.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 665.0,
+            "end": 668.0,
+            "text": " So in this way, we can see a little tabular structure.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 668.0,
+            "end": 670.0,
+            "text": " That the table is like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 670.0,
+            "end": 673.0,
+            "text": " You can give more text line property in the table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 673.0,
+            "end": 675.0,
+            "text": " That I want it all on the text center.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 675.0,
+            "end": 678.0,
+            "text": " You can do that too if you want.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 678.0,
+            "end": 680.0,
+            "text": " But that is all for now.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 680.0,
+            "end": 682.0,
+            "text": " Now I want to add one more property here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 682.0,
+            "end": 683.0,
+            "text": " Which is padding.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 683.0,
+            "end": 685.0,
+            "text": " So we add padding here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 685.0,
+            "end": 688.0,
+            "text": " Not auto, we will add padding manually.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 688.0,
+            "end": 689.0,
+            "text": " So we give padding.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 689.0,
+            "end": 690.0,
+            "text": " We give 10 pixel.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 690.0,
+            "end": 691.0,
+            "text": " It is an arbitrary number.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 691.0,
+            "end": 692.0,
+            "text": " You can take any number.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 693.0,
+            "end": 694.0,
+            "text": " So it is okay.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 694.0,
+            "end": 695.0,
+            "text": " We can see a little tabular structure.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 695.0,
+            "end": 696.0,
+            "text": " As much as we want.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 696.0,
+            "end": 697.0,
+            "text": " And the table is coming down.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 697.0,
+            "end": 700.0,
+            "text": " Now I will add one more property here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 700.0,
+            "end": 702.0,
+            "text": " And you will see when we read CSS,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 702.0,
+            "end": 704.0,
+            "text": " We will go about other selectors like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 704.0,
+            "end": 708.0,
+            "text": " So we will read one special part here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 708.0,
+            "end": 709.0,
+            "text": " So what we will do here?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 709.0,
+            "end": 712.0,
+            "text": " I want to select the table row.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 712.0,
+            "end": 713.0,
+            "text": " Okay.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 713.0,
+            "end": 714.0,
+            "text": " So I want to select the table row.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 714.0,
+            "end": 716.0,
+            "text": " And give it a background color.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 716.0,
+            "end": 718.0,
+            "text": " My favorite color is here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 718.0,
+            "end": 721.0,
+            "text": " Which is hash 41414.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 721.0,
+            "end": 722.0,
+            "text": " 3 is also here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 722.0,
+            "end": 723.0,
+            "text": " 313131.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 723.0,
+            "end": 725.0,
+            "text": " All these colors look better on me.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 725.0,
+            "end": 726.0,
+            "text": " This is a little dark gray.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 726.0,
+            "end": 729.0,
+            "text": " If you go on 313131, it is a little light gray.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 729.0,
+            "end": 731.0,
+            "text": " So 313131.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 731.0,
+            "end": 733.0,
+            "text": " Just like you will go in more detail.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 733.0,
+            "end": 735.0,
+            "text": " If you remember some color codes,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 735.0,
+            "end": 736.0,
+            "text": " You don't have to remember.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 736.0,
+            "end": 737.0,
+            "text": " Now I saw one thing.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 737.0,
+            "end": 740.0,
+            "text": " The color of the text of this table will be white.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 740.0,
+            "end": 742.0,
+            "text": " So it will be better.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 742.0,
+            "end": 744.0,
+            "text": " So we go here and white it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 744.0,
+            "end": 745.0,
+            "text": " For white, it is FFF.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 745.0,
+            "end": 746.0,
+            "text": " It is enough to write 3.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 746.0,
+            "end": 747.0,
+            "text": " It should be 6.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 747.0,
+            "end": 748.0,
+            "text": " But okay.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 748.0,
+            "end": 749.0,
+            "text": " Okay.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 749.0,
+            "end": 750.0,
+            "text": " Now what I will do?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 750.0,
+            "end": 752.0,
+            "text": " I will not teach you a small thing.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 752.0,
+            "end": 755.0,
+            "text": " I will discuss a little more details about tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 755.0,
+            "end": 756.0,
+            "text": " What we will do?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 756.0,
+            "end": 758.0,
+            "text": " We will take our Enneth child.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 758.0,
+            "end": 762.0,
+            "text": " And you can write directly here that you want even or odd.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 762.0,
+            "end": 764.0,
+            "text": " And that even value will be highlighted.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 764.0,
+            "end": 767.0,
+            "text": " But we are seeing now that even value is highlighted.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 767.0,
+            "end": 770.0,
+            "text": " But the country, the colors, after writing the text,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 770.0,
+            "end": 772.0,
+            "text": " It has gone away from us.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 772.0,
+            "end": 774.0,
+            "text": " So what can we do with this color?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 774.0,
+            "end": 776.0,
+            "text": " Let's light this background color a little.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 776.0,
+            "end": 779.0,
+            "text": " So that we can see the text in black.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 779.0,
+            "end": 781.0,
+            "text": " And also get a little color gradient.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 781.0,
+            "end": 783.0,
+            "text": " There are many properties in CSS.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 783.0,
+            "end": 785.0,
+            "text": " Which we will learn later.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 785.0,
+            "end": 787.0,
+            "text": " But for now, it is so fine.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 787.0,
+            "end": 789.0,
+            "text": " So we saw, we made a very basic table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 789.0,
+            "end": 792.0,
+            "text": " I will give you a small summary in between lecture.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 792.0,
+            "end": 794.0,
+            "text": " We had table heading.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 794.0,
+            "end": 796.0,
+            "text": " And then table came here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 796.0,
+            "end": 799.0,
+            "text": " Now you are seeing table heading automatically becomes a little bold.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 799.0,
+            "end": 801.0,
+            "text": " Which is the effect of browser.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 801.0,
+            "end": 802.0,
+            "text": " It is not of my CSS.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 802.0,
+            "end": 804.0,
+            "text": " And all other values are there.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 804.0,
+            "end": 807.0,
+            "text": " Even if a browser or Google search engine will come to search,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 807.0,
+            "end": 810.0,
+            "text": " He knows what is heading and what is its data.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 810.0,
+            "end": 811.0,
+            "text": " But not only this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 811.0,
+            "end": 813.0,
+            "text": " There are few more properties in the table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 813.0,
+            "end": 815.0,
+            "text": " And as we saw that there are borders.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 815.0,
+            "end": 817.0,
+            "text": " You can see all the borders.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 817.0,
+            "end": 819.0,
+            "text": " Like I show you in another property.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 819.0,
+            "end": 822.0,
+            "text": " What happens if I don't collapse this border.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 822.0,
+            "end": 824.0,
+            "text": " I saved it and saw here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 824.0,
+            "end": 826.0,
+            "text": " So we saw that there is a border of the table itself.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 826.0,
+            "end": 829.0,
+            "text": " That is why I had collapsed that border first.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 829.0,
+            "end": 831.0,
+            "text": " Otherwise it would have come in this look.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 831.0,
+            "end": 833.0,
+            "text": " And there is an individual cell of that too.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 833.0,
+            "end": 835.0,
+            "text": " An additional property has come here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 835.0,
+            "end": 837.0,
+            "text": " Additional border has come here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 837.0,
+            "end": 839.0,
+            "text": " That is why I had collapsed the border here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 839.0,
+            "end": 841.0,
+            "text": " Collapse means don't show that border.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 841.0,
+            "end": 843.0,
+            "text": " We saved it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 843.0,
+            "end": 845.0,
+            "text": " See, it is a little tabular look.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 845.0,
+            "end": 849.0,
+            "text": " So in the border, the part in the table is mostly enhanced through CSS.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 849.0,
+            "end": 851.0,
+            "text": " So we will see how it can be.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 851.0,
+            "end": 853.0,
+            "text": " I will show you some other properties here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 853.0,
+            "end": 855.0,
+            "text": " Which many people use.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 855.0,
+            "end": 857.0,
+            "text": " What happens many times.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 857.0,
+            "end": 860.0,
+            "text": " In the table, you have this style with 100%.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 860.0,
+            "end": 862.0,
+            "text": " See, there is a lot of way to write style.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 862.0,
+            "end": 865.0,
+            "text": " You can write style by targeting it separately.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 865.0,
+            "end": 867.0,
+            "text": " You can give inline styling.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 867.0,
+            "end": 870.0,
+            "text": " Like this table, it looks fine.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 870.0,
+            "end": 873.0,
+            "text": " But what many people do is go inside this table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 873.0,
+            "end": 876.0,
+            "text": " And specially many pre-built components are given like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 876.0,
+            "end": 877.0,
+            "text": " Width.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 877.0,
+            "end": 879.0,
+            "text": " The style is tagged here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 879.0,
+            "end": 881.0,
+            "text": " And then the width is given directly here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 881.0,
+            "end": 882.0,
+            "text": " 100% width.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 882.0,
+            "end": 884.0,
+            "text": " Okay, I want 100% width.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 884.0,
+            "end": 885.0,
+            "text": " The width of the page.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 885.0,
+            "end": 886.0,
+            "text": " Then the same effect came.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 886.0,
+            "end": 887.0,
+            "text": " Same look came.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 887.0,
+            "end": 888.0,
+            "text": " So don't worry.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 888.0,
+            "end": 891.0,
+            "text": " If you have a table somewhere that you want to copy paste.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 891.0,
+            "end": 892.0,
+            "text": " You have given styling there.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 892.0,
+            "end": 894.0,
+            "text": " There are many ways of styling.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 894.0,
+            "end": 895.0,
+            "text": " We will read them in detail.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 895.0,
+            "end": 896.0,
+            "text": " Okay.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 896.0,
+            "end": 898.0,
+            "text": " So this is your basics.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 898.0,
+            "end": 900.0,
+            "text": " Now I will tell you one more thing.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 900.0,
+            "end": 902.0,
+            "text": " It is not necessary that you have to write tables like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 902.0,
+            "end": 904.0,
+            "text": " There are many ways to write tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 904.0,
+            "end": 908.0,
+            "text": " And it is not necessary that the heading of the table or top row.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 908.0,
+            "end": 911.0,
+            "text": " The whole table heading comes there.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 911.0,
+            "end": 913.0,
+            "text": " Many times our table can be designed like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 913.0,
+            "end": 916.0,
+            "text": " Where we need the top to bottom heading.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 916.0,
+            "end": 918.0,
+            "text": " So it can be designed like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 918.0,
+            "end": 921.0,
+            "text": " So I will show you a small example of a code here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 921.0,
+            "end": 922.0,
+            "text": " Okay.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 922.0,
+            "end": 923.0,
+            "text": " So I have made a new table for you.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 923.0,
+            "end": 927.0,
+            "text": " And yes, this magic video editing will continue so that you don't waste your time.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 927.0,
+            "end": 930.0,
+            "text": " You can understand what I want to explain to you quickly.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 930.0,
+            "end": 932.0,
+            "text": " So here I have made another new table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 932.0,
+            "end": 934.0,
+            "text": " Yes, I will show you the code of this too.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 934.0,
+            "end": 937.0,
+            "text": " So here I have given the list of countries on the left side of the country.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 937.0,
+            "end": 939.0,
+            "text": " India, Japan.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 939.0,
+            "end": 942.0,
+            "text": " And similarly I have written a code and JP, whatever is its code.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 942.0,
+            "end": 944.0,
+            "text": " So here you can see there is no difference.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 944.0,
+            "end": 946.0,
+            "text": " I have made a simple table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 946.0,
+            "end": 948.0,
+            "text": " You need rows in it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 948.0,
+            "end": 952.0,
+            "text": " So I have given table heading in every column.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 952.0,
+            "end": 953.0,
+            "text": " That's it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 953.0,
+            "end": 955.0,
+            "text": " Wherever you write the T H, it will become a table heading.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 955.0,
+            "end": 958.0,
+            "text": " Now you need top to bottom or left to right.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 958.0,
+            "end": 960.0,
+            "text": " The way you want it, it happens the same way.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 960.0,
+            "end": 962.0,
+            "text": " So there are many ways to make tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 962.0,
+            "end": 963.0,
+            "text": " In which you want.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 963.0,
+            "end": 965.0,
+            "text": " And there are cells of the table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 965.0,
+            "end": 967.0,
+            "text": " Like we have seen one cell here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 967.0,
+            "end": 970.0,
+            "text": " You can target the cells as much as you want.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 970.0,
+            "end": 972.0,
+            "text": " So we are seeing one cell here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 972.0,
+            "end": 975.0,
+            "text": " It is very important to know the words of the cells.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 975.0,
+            "end": 977.0,
+            "text": " What is a cell? What is a table? What is a row?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 977.0,
+            "end": 979.0,
+            "text": " So the row is complete.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 979.0,
+            "end": 982.0,
+            "text": " India in India at the rate google.com.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 982.0,
+            "end": 983.0,
+            "text": " This is a whole row.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 983.0,
+            "end": 986.0,
+            "text": " The column we have is the country, India, USA, Japan.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 986.0,
+            "end": 987.0,
+            "text": " This is a whole column.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 987.0,
+            "end": 990.0,
+            "text": " And the unit inside it is our cell.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 990.0,
+            "end": 992.0,
+            "text": " When you target in CSS,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 992.0,
+            "end": 994.0,
+            "text": " you will know what you are targeting.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 994.0,
+            "end": 996.0,
+            "text": " On its basis you will know what is it,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 996.0,
+            "end": 998.0,
+            "text": " how detailed are these things.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 998.0,
+            "end": 1000.0,
+            "text": " Now there is one more thing in it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1000.0,
+            "end": 1002.0,
+            "text": " I will tell you in a short way,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1002.0,
+            "end": 1004.0,
+            "text": " how we discuss detailed adjustments.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1004.0,
+            "end": 1007.0,
+            "text": " So another word we have is call span.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1007.0,
+            "end": 1009.0,
+            "text": " And in the same way,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1009.0,
+            "end": 1011.0,
+            "text": " it is your column span and your row span.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1011.0,
+            "end": 1013.0,
+            "text": " I will show you a small example by coding.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1013.0,
+            "end": 1015.0,
+            "text": " After that you will understand a lot.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1015.0,
+            "end": 1017.0,
+            "text": " Now we will see here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1017.0,
+            "end": 1021.0,
+            "text": " What we will do is, we will add this property in the TH.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1021.0,
+            "end": 1022.0,
+            "text": " Now tell me,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1022.0,
+            "end": 1024.0,
+            "text": " that TH is an element,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1024.0,
+            "end": 1026.0,
+            "text": " and from here to here,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1026.0,
+            "end": 1028.0,
+            "text": " it is an element.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1028.0,
+            "end": 1030.0,
+            "text": " So what will we say about this?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1030.0,
+            "end": 1031.0,
+            "text": " Tell me in the comment section.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1031.0,
+            "end": 1034.0,
+            "text": " We had discussed a lot about tag name, attribute,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1034.0,
+            "end": 1036.0,
+            "text": " so what will I say about this call span?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1036.0,
+            "end": 1038.0,
+            "text": " Tell me in the comment section.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1038.0,
+            "end": 1040.0,
+            "text": " So as soon as you write call span,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1040.0,
+            "end": 1041.0,
+            "text": " I will write here 2.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1041.0,
+            "end": 1043.0,
+            "text": " You can write any value.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1043.0,
+            "end": 1045.0,
+            "text": " You will see once you have done practical.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1045.0,
+            "end": 1047.0,
+            "text": " As soon as I have saved,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1047.0,
+            "end": 1050.0,
+            "text": " notice how much the country is getting called span.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1050.0,
+            "end": 1052.0,
+            "text": " See, from the bottom table, you will know.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1052.0,
+            "end": 1053.0,
+            "text": " The code is here,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1053.0,
+            "end": 1054.0,
+            "text": " IN is here,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1054.0,
+            "end": 1057.0,
+            "text": " and the entire space is taking the country alone.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1057.0,
+            "end": 1060.0,
+            "text": " So the more you normally give the value,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1060.0,
+            "end": 1063.0,
+            "text": " give the column to 2 columns,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1063.0,
+            "end": 1064.0,
+            "text": " and give it to me alone.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1064.0,
+            "end": 1066.0,
+            "text": " So you can write 3 as well.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1066.0,
+            "end": 1067.0,
+            "text": " So what will happen now?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1067.0,
+            "end": 1069.0,
+            "text": " The lower the value,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1069.0,
+            "end": 1070.0,
+            "text": " the more value you get,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1070.0,
+            "end": 1071.0,
+            "text": " the more you will get it alone.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1071.0,
+            "end": 1073.0,
+            "text": " So you can give more value as well.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1073.0,
+            "end": 1074.0,
+            "text": " It is not necessary that it is 3,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1074.0,
+            "end": 1075.0,
+            "text": " you can give 5 as well.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1075.0,
+            "end": 1076.0,
+            "text": " So that space will increase a little,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1076.0,
+            "end": 1079.0,
+            "text": " but we will not know until we add more values.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1079.0,
+            "end": 1082.0,
+            "text": " So these are the things that we need.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1082.0,
+            "end": 1084.0,
+            "text": " You must have seen a time table in your childhood,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1084.0,
+            "end": 1085.0,
+            "text": " where lunch breaks,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1085.0,
+            "end": 1087.0,
+            "text": " sometimes the value of lunch is more,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1087.0,
+            "end": 1088.0,
+            "text": " sometimes it is less.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1088.0,
+            "end": 1089.0,
+            "text": " Sometimes two lectures are made",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1089.0,
+            "end": 1090.0,
+            "text": " and one lecture is made.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1090.0,
+            "end": 1091.0,
+            "text": " So in the same way,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1091.0,
+            "end": 1092.0,
+            "text": " tables were made.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1092.0,
+            "end": 1094.0,
+            "text": " So this is your call span.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1094.0,
+            "end": 1095.0,
+            "text": " Similarly,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1095.0,
+            "end": 1097.0,
+            "text": " we have another span here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1097.0,
+            "end": 1099.0,
+            "text": " You can research about it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1099.0,
+            "end": 1100.0,
+            "text": " Row span.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1100.0,
+            "end": 1102.0,
+            "text": " Now I will take you into a little detail",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1102.0,
+            "end": 1103.0,
+            "text": " on documentation,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1103.0,
+            "end": 1105.0,
+            "text": " because if you have not read the documentation,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1105.0,
+            "end": 1106.0,
+            "text": " then what did you learn?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1106.0,
+            "end": 1108.0,
+            "text": " So let's go inside the table",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1108.0,
+            "end": 1110.0,
+            "text": " and see the shortcuts of MDN.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1110.0,
+            "end": 1112.0,
+            "text": " MDN HTML.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1112.0,
+            "end": 1114.0,
+            "text": " So let's go here as well.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1114.0,
+            "end": 1116.0,
+            "text": " So you will see that the attributes here",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1116.0,
+            "end": 1117.0,
+            "text": " are not that much.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1117.0,
+            "end": 1119.0,
+            "text": " Attributes like background colors,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1119.0,
+            "end": 1121.0,
+            "text": " borders, cell padding,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1121.0,
+            "end": 1122.0,
+            "text": " all these are there.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1122.0,
+            "end": 1123.0,
+            "text": " As I told you,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1123.0,
+            "end": 1124.0,
+            "text": " cell, cell spacing.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1124.0,
+            "end": 1126.0,
+            "text": " We do not need to look at frames",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1126.0,
+            "end": 1128.0,
+            "text": " because these are not that many examples.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1128.0,
+            "end": 1130.0,
+            "text": " But here they have given some examples.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1130.0,
+            "end": 1132.0,
+            "text": " Go a little and read them.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1132.0,
+            "end": 1135.0,
+            "text": " So there are many examples like call group,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1135.0,
+            "end": 1136.0,
+            "text": " column,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1136.0,
+            "end": 1137.0,
+            "text": " so we can see them in this way.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1137.0,
+            "end": 1139.0,
+            "text": " Let's take a small example of this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1139.0,
+            "end": 1143.0,
+            "text": " Let's see what value the call group adds to us.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1143.0,
+            "end": 1146.0,
+            "text": " So call group is a very easy topic.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1146.0,
+            "end": 1148.0,
+            "text": " You can give a little detail about it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1148.0,
+            "end": 1150.0,
+            "text": " So let's read about it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1150.0,
+            "end": 1152.0,
+            "text": " The first thing you should know about it",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1152.0,
+            "end": 1154.0,
+            "text": " is that you do not use it much.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1154.0,
+            "end": 1157.0,
+            "text": " You mostly use things like this through CSS.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1157.0,
+            "end": 1160.0,
+            "text": " But still, let's take a little detail example.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1160.0,
+            "end": 1162.0,
+            "text": " So this is our first table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1162.0,
+            "end": 1165.0,
+            "text": " And I want to make this first table",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1165.0,
+            "end": 1167.0,
+            "text": " a country and country code.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1167.0,
+            "end": 1169.0,
+            "text": " I will make a group of these two columns.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1169.0,
+            "end": 1171.0,
+            "text": " So let's see how we do it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1171.0,
+            "end": 1174.0,
+            "text": " Although, it does not make much sense to do it this way.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1174.0,
+            "end": 1177.0,
+            "text": " You will also see that this could have been done through CSS.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1177.0,
+            "end": 1178.0,
+            "text": " But it is okay.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1178.0,
+            "end": 1180.0,
+            "text": " We will add one property here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1180.0,
+            "end": 1181.0,
+            "text": " So first of all,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1181.0,
+            "end": 1184.0,
+            "text": " first of all, make a call group of this tag.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1184.0,
+            "end": 1187.0,
+            "text": " After that, as soon as we go inside this tag,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1187.0,
+            "end": 1189.0,
+            "text": " we can select columns.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1189.0,
+            "end": 1191.0,
+            "text": " So what we have done is that give call property here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1191.0,
+            "end": 1193.0,
+            "text": " And again, this call here,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1193.0,
+            "end": 1195.0,
+            "text": " C-O-L column,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1195.0,
+            "end": 1196.0,
+            "text": " this is a self-closing tag.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1196.0,
+            "end": 1198.0,
+            "text": " So it will be better to write it this way.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1198.0,
+            "end": 1200.0,
+            "text": " Now you want to know how much you need to span.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1200.0,
+            "end": 1201.0,
+            "text": " You need two properties.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1201.0,
+            "end": 1203.0,
+            "text": " How many columns do you need?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1203.0,
+            "end": 1204.0,
+            "text": " For example, one needs two.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1204.0,
+            "end": 1205.0,
+            "text": " Our target is two now.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1205.0,
+            "end": 1206.0,
+            "text": " So we write two.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1206.0,
+            "end": 1208.0,
+            "text": " If there were three or four columns,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1208.0,
+            "end": 1210.0,
+            "text": " we would have made four columns.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1210.0,
+            "end": 1212.0,
+            "text": " After that, we need to know",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1212.0,
+            "end": 1214.0,
+            "text": " if you want to put a style in it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1214.0,
+            "end": 1216.0,
+            "text": " Because look, why do you want to put a style?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1216.0,
+            "end": 1217.0,
+            "text": " You don't need to put a style.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1217.0,
+            "end": 1218.0,
+            "text": " As soon as you go here,",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1218.0,
+            "end": 1220.0,
+            "text": " these two columns have become a group.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1220.0,
+            "end": 1222.0,
+            "text": " But how do I know if it has become a group",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1222.0,
+            "end": 1223.0,
+            "text": " or I can use it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1223.0,
+            "end": 1225.0,
+            "text": " That is why we can put a style property",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1225.0,
+            "end": 1228.0,
+            "text": " or any other property or any other click event",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1228.0,
+            "end": 1230.0,
+            "text": " that we want to put here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1230.0,
+            "end": 1232.0,
+            "text": " The easiest thing to do is the background colors.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1232.0,
+            "end": 1234.0,
+            "text": " So what do we do here?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1234.0,
+            "end": 1237.0,
+            "text": " A background dash color.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1237.0,
+            "end": 1239.0,
+            "text": " And we give it some color here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1239.0,
+            "end": 1241.0,
+            "text": " So we suggest that",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1241.0,
+            "end": 1244.0,
+            "text": " some color like this",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1244.0,
+            "end": 1246.0,
+            "text": " that can be easily used.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1247.0,
+            "end": 1249.0,
+            "text": " Although I don't use colors like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1249.0,
+            "end": 1251.0,
+            "text": " But okay, let's use it this time.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1251.0,
+            "end": 1253.0,
+            "text": " So we saw that these two columns",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1253.0,
+            "end": 1254.0,
+            "text": " were selected together.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1254.0,
+            "end": 1256.0,
+            "text": " That's why the property was applied to both.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1256.0,
+            "end": 1259.0,
+            "text": " So in this way, we can select more things.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1259.0,
+            "end": 1262.0,
+            "text": " But the way to unite columns like this",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1262.0,
+            "end": 1264.0,
+            "text": " is not so much implemented.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1264.0,
+            "end": 1267.0,
+            "text": " The browsers have also dropped the support of Dhiridiresk.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1267.0,
+            "end": 1269.0,
+            "text": " You will see that there will be more documentation here.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1269.0,
+            "end": 1271.0,
+            "text": " So we will tell you that",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1271.0,
+            "end": 1274.0,
+            "text": " there is no work to do to sort the tables like this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1274.0,
+            "end": 1276.0,
+            "text": " We have an additional JavaScript that we can do.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1276.0,
+            "end": 1278.0,
+            "text": " But we can't go to JavaScript right now.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1278.0,
+            "end": 1280.0,
+            "text": " So this is enough for our table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1280.0,
+            "end": 1282.0,
+            "text": " You don't need to go too much.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1282.0,
+            "end": 1284.0,
+            "text": " I will give you a small assignment.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1284.0,
+            "end": 1286.0,
+            "text": " You will see that there is also T-foot.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1286.0,
+            "end": 1288.0,
+            "text": " So text area and all this",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1288.0,
+            "end": 1289.0,
+            "text": " you don't need to read.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1289.0,
+            "end": 1290.0,
+            "text": " There are many properties in the table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1290.0,
+            "end": 1291.0,
+            "text": " Some have been discarded.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1291.0,
+            "end": 1293.0,
+            "text": " Those who have dustbin icons.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1293.0,
+            "end": 1295.0,
+            "text": " Means now they don't need to work.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1295.0,
+            "end": 1297.0,
+            "text": " You don't need to read everything.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1297.0,
+            "end": 1299.0,
+            "text": " You don't need to see everything.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1299.0,
+            "end": 1301.0,
+            "text": " You just need to see one T-foot.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1301.0,
+            "end": 1303.0,
+            "text": " T-foot is simply the footer of the table.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1303.0,
+            "end": 1305.0,
+            "text": " And you just need to study",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1305.0,
+            "end": 1307.0,
+            "text": " this example.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1307.0,
+            "end": 1308.0,
+            "text": " What is it?",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1308.0,
+            "end": 1309.0,
+            "text": " We have seen that",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1309.0,
+            "end": 1311.0,
+            "text": " no matter how much T-body is there.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1311.0,
+            "end": 1312.0,
+            "text": " You don't need to see all this.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1312.0,
+            "end": 1314.0,
+            "text": " Now the implementation of tables has become a little easier.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1314.0,
+            "end": 1317.0,
+            "text": " You just need to see what are the headers of the tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1317.0,
+            "end": 1318.0,
+            "text": " What are rows.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1318.0,
+            "end": 1319.0,
+            "text": " That's it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1319.0,
+            "end": 1321.0,
+            "text": " The majority of the elements that we have made",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1321.0,
+            "end": 1322.0,
+            "text": " are made in the same way.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1322.0,
+            "end": 1323.0,
+            "text": " You can see T-foot for knowledge.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1323.0,
+            "end": 1324.0,
+            "text": " But it is not necessary.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1324.0,
+            "end": 1325.0,
+            "text": " Okay.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1325.0,
+            "end": 1327.0,
+            "text": " So this is our detailed understanding of tables.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1327.0,
+            "end": 1329.0,
+            "text": " Understandable example.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1329.0,
+            "end": 1331.0,
+            "text": " You don't need to read more about it.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1331.0,
+            "end": 1332.0,
+            "text": " That's all you need.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        },
+        {
+            "start": 1332.0,
+            "end": 1333.0,
+            "text": " Let's go to the next topic.",
+            "audio_file": "Tables in HTML in HINDI.mp4.mp3",
+            "title": "Tables in HTML in HINDI.mp4",
+            "number": 5
+        }
+    ],
+    "text": " Welcome back to another episode of Chai Aur Kod. This week we will be talking about a series which is a series of HTML. I took a break for a few days because I had worked loads and worked pressure. So I thought I would tell you about the holidays. I posted a lot of videos but now we are starting the series. You can expect a lot of videos frequently and daily. Let's start the series of HTML. We have covered a lot of topics and today we will be talking about tables. We will write a little code about tables. I will tell you about some behind the scenes details and how the world has changed and is happening towards tables. Let's start with a simple file. It is called tables.html. We have learnt a lot of things. We can write fast code. We can type an exclamation and hit it. There are some other shortcuts here like you can write HTML and hit it. Or you can write HTML colon 5 and hit it. There are many ways. I like exclamation and tab. Let's talk about tables. First we will change the document to table. I used to find the way to write tables boring when we didn't have an emitter. We had to write everything manually in a text editor. Now we have an emitter in the tables. We will see some shortcuts that will help us create tables. Let's see the shortcut first. The way to see the shortcut is first we will go to the emitter. Simply google at service. Google.com And here we see emitter, table, shortcut. When you see table shortcuts in the emitter, especially when you find them in cheat sheet, I will search table. These are some of the shortcuts of the table. Let's zoom in. In the table you can write dot row as many times as you want. These are the shortcuts of CSS. We don't want these shortcuts. Let's go to the other shortcut. And here. There are some other shortcuts here. These are the shortcuts of table. I think table plus. This is a shortcut. You can write table plus. It is an alias to create rows and data in your table. This is the most important and easy shortcut. Many people use it. If you find it a little tough, I will also tell you the easy shortcut. First we will use table plus. And as soon as you hit the tab, you will notice that there is nothing in the VS code. This is the most surprising thing. There is nothing in the table. These are shortcuts when you manually install. Although there are many shortcuts like map plus. These are all shortcuts here. But the way to install and use them is a little different. Like I just told you, there are HTML colon 5. These are all shortcuts. Some shortcuts work, some don't. We can't rely on them and we can't depend on them. For example, in the table, you have only one shortcut. I will write colon plus and you will see that there is nothing. Look at this. We will give you these shortcuts. First you write table. You can add whatever you want to add in the table after typing with this arrow key. I will make an example table and show you. After that, things will be a little easier. First, we will start with table. Table comes in rows of tables. There will be more things. We will tell you that too. But first table rows will come. There are many rows in a table. With this, I will give you a small tip. Our brain is trained from the beginning by reading books. The tabular structure data is still very challenging to convert it into a mobile. We will talk about it later. But remember that our brain is trained to look left to right. And that is what the majority of screens do. The story is different in the mobile. We will talk about that too. But in the table, as you write T-R, look at the tab, a table tag was created and a table row tag was created. But this is not our goal. We want to go deeper in this. You have created table row. You need TH, that is table heading. Yes, it is a very easy shortcut. It is not that difficult. How many should I need? I need three. I will multiply it by three. If I gave you a direct shortcut, it would seem difficult to memorize it. But this shortcut will help us to make a list and learn to make a lot of navigation bars. It will look great. You see table heading into three. This is giving you a sample output. That your table will look like this. Table row will look like this. You will also see three headings. We can go further in this too. We can fill the sample data too. But I think it is not right for now. So let's hit tab and our table heading is here. Now I explained it to you. So it took a little more time. Otherwise, you can see how easily we can help it through the emitter. Take a table, give a table row, give me a table heading, multiply it by three or four, whatever you want. Your work is done. Now the best thing is, after writing, I will hit tab. I will automatically go into second table heading. So here we write simply country. After that we write country code. After that we write email. Save and see how it looks. So let's click right. Let's open with live server. So country code, country email. We didn't expect such a table. We thought it would be a default table. It doesn't work like this. There will be a little work of CSS here. Which we will do. But first let's fill the data. Now I will give you an easy shortcut. Whenever you make a table row like this, whenever it is done, collapse it. Use editors. Because editors are there to reduce the code and the bugs of writing. Now we need more table rows. And we need the same. So let's do it again. We need table row. In this, last time we took the T-H, which was the table heading. Now we need T-D, that is, table data. And again, if you take T-H, then nothing will happen. HTML will negate it again. But the problem is, when you have a search engine on Google, then it won't know which part to search like heading and which part to serve the user and which part to serve the data. You must have seen that by default, you search some data and Google directly lists it. Those who write good HTML, they have a good page. So we need table row, table data and again we take 3 data. So here we take 3 data. Multiply by 3. We took this. Now I will give you another shortcut with this. Because we have this much data. We will write country code here. Of course, this is the thing. We will write India first. Then IN, our country code. And then email. So India at the rate. Google.com. So we have written this. And we will go and see. This is how it looks. Something doesn't look good. It will look good now. But now an easy shortcut, which everyone should know. Select all of them. And press the Alt key. Or if you are on Mac, then the Option key. Press the Shift key with it. And down arrow. The moment you press it, you can make the copy of that code. The copies you want, you can make the copies. Similarly, we will learn to write fast code. As you are on the channel, keep subscribing. I will keep telling you more shortcuts. So you can write speedy code. Now what we will do? Simply go to the other country instead of India. USA. And write its full name. United States. America. And write its country code. USA. In caps. And we will use the small one here. USA. After that, we will use Japan. And write its country code here. JP. And we will make its email too. JP. And we need one more country. So we will use China. And... CN. CN. I don't remember. Whatever it is, you understood it. CN at google.com. Now as we save it, we have quickly made the table data. But this table doesn't look so good. Now I will tell you. This table looks like this. Now we can see that this table is divided into three parts. One part, two part and three part. When we used to make websites in the early days, we used to do the same. We used to give the table the width and height of the whole screen. After that, we used to add the navigation bar in the first row. We used to add the logo in the left one. We used to add the buttons in the right one. And we used to make websites in the same way. This approach was there when people were not so cautious about using browsers. If there was a single desktop, we would have to make the entire website in that. It would work easily. It doesn't work now. There are many screen variants. There are many screen sizes. There are mobile sizes too. So the table approach is not right now. If you want to give the structure of the whole website. We will learn the flex box, ordering and many other things where we can do this. That's enough for now. But we make it a little better and more beautiful. To make it better and more beautiful, we need to take a little touch of CSS. We can stop the video here. But we will go a little further about it. Definitely when we read the tables in CSS, we will go further in depth. But at least it is our job to make it beautiful. The CSS we will write is not a difficult CSS. We will simply go under the title. Of course, we will be under the title. First of all, write style and hit tab. So we have the style tag. Now our styling can be in this file instead of being in a completely different CSS file. We will read more approaches in the future. Tailwind and everything will be on the channel. That's it. So now we will target the table. In this way, you target an element. And in curly braces, you write all its styling. So first of all, we write width. We give it width 100%. And what will happen if we give it width 100% The table is completely scattered on the screen. Okay, our work is done. After that, we have many more borders here. I will write one more thing, which will not happen. But we will write it anyway. Which is border collapse. What do we do in this? We write collapse. When we read CSS, we will see more. But we are still seeing it. Nothing is happening. We want to do border collapse. I will come back to this and tell you more details. Just wait for a minute. Now we have data in the table. And we have heading in the table. I want to target both of them together. Let's see what happens. First and foremost, to give the table a look, we have to give it border property. Border property is a little difficult. It is not difficult, it is lengthy. We will go into more details in CSS. Now we just say, Give me a border of 1 pixel, which is solid. And we will have to give it color. So we will take black. We will take more later. So in this way, we can see a little tabular structure. That the table is like this. You can give more text line property in the table. That I want it all on the text center. You can do that too if you want. But that is all for now. Now I want to add one more property here. Which is padding. So we add padding here. Not auto, we will add padding manually. So we give padding. We give 10 pixel. It is an arbitrary number. You can take any number. So it is okay. We can see a little tabular structure. As much as we want. And the table is coming down. Now I will add one more property here. And you will see when we read CSS, We will go about other selectors like this. So we will read one special part here. So what we will do here? I want to select the table row. Okay. So I want to select the table row. And give it a background color. My favorite color is here. Which is hash 41414. 3 is also here. 313131. All these colors look better on me. This is a little dark gray. If you go on 313131, it is a little light gray. So 313131. Just like you will go in more detail. If you remember some color codes, You don't have to remember. Now I saw one thing. The color of the text of this table will be white. So it will be better. So we go here and white it. For white, it is FFF. It is enough to write 3. It should be 6. But okay. Okay. Now what I will do? I will not teach you a small thing. I will discuss a little more details about tables. What we will do? We will take our Enneth child. And you can write directly here that you want even or odd. And that even value will be highlighted. But we are seeing now that even value is highlighted. But the country, the colors, after writing the text, It has gone away from us. So what can we do with this color? Let's light this background color a little. So that we can see the text in black. And also get a little color gradient. There are many properties in CSS. Which we will learn later. But for now, it is so fine. So we saw, we made a very basic table. I will give you a small summary in between lecture. We had table heading. And then table came here. Now you are seeing table heading automatically becomes a little bold. Which is the effect of browser. It is not of my CSS. And all other values are there. Even if a browser or Google search engine will come to search, He knows what is heading and what is its data. But not only this. There are few more properties in the table. And as we saw that there are borders. You can see all the borders. Like I show you in another property. What happens if I don't collapse this border. I saved it and saw here. So we saw that there is a border of the table itself. That is why I had collapsed that border first. Otherwise it would have come in this look. And there is an individual cell of that too. An additional property has come here. Additional border has come here. That is why I had collapsed the border here. Collapse means don't show that border. We saved it. See, it is a little tabular look. So in the border, the part in the table is mostly enhanced through CSS. So we will see how it can be. I will show you some other properties here. Which many people use. What happens many times. In the table, you have this style with 100%. See, there is a lot of way to write style. You can write style by targeting it separately. You can give inline styling. Like this table, it looks fine. But what many people do is go inside this table. And specially many pre-built components are given like this. Width. The style is tagged here. And then the width is given directly here. 100% width. Okay, I want 100% width. The width of the page. Then the same effect came. Same look came. So don't worry. If you have a table somewhere that you want to copy paste. You have given styling there. There are many ways of styling. We will read them in detail. Okay. So this is your basics. Now I will tell you one more thing. It is not necessary that you have to write tables like this. There are many ways to write tables. And it is not necessary that the heading of the table or top row. The whole table heading comes there. Many times our table can be designed like this. Where we need the top to bottom heading. So it can be designed like this. So I will show you a small example of a code here. Okay. So I have made a new table for you. And yes, this magic video editing will continue so that you don't waste your time. You can understand what I want to explain to you quickly. So here I have made another new table. Yes, I will show you the code of this too. So here I have given the list of countries on the left side of the country. India, Japan. And similarly I have written a code and JP, whatever is its code. So here you can see there is no difference. I have made a simple table. You need rows in it. So I have given table heading in every column. That's it. Wherever you write the T H, it will become a table heading. Now you need top to bottom or left to right. The way you want it, it happens the same way. So there are many ways to make tables. In which you want. And there are cells of the table. Like we have seen one cell here. You can target the cells as much as you want. So we are seeing one cell here. It is very important to know the words of the cells. What is a cell? What is a table? What is a row? So the row is complete. India in India at the rate google.com. This is a whole row. The column we have is the country, India, USA, Japan. This is a whole column. And the unit inside it is our cell. When you target in CSS, you will know what you are targeting. On its basis you will know what is it, how detailed are these things. Now there is one more thing in it. I will tell you in a short way, how we discuss detailed adjustments. So another word we have is call span. And in the same way, it is your column span and your row span. I will show you a small example by coding. After that you will understand a lot. Now we will see here. What we will do is, we will add this property in the TH. Now tell me, that TH is an element, and from here to here, it is an element. So what will we say about this? Tell me in the comment section. We had discussed a lot about tag name, attribute, so what will I say about this call span? Tell me in the comment section. So as soon as you write call span, I will write here 2. You can write any value. You will see once you have done practical. As soon as I have saved, notice how much the country is getting called span. See, from the bottom table, you will know. The code is here, IN is here, and the entire space is taking the country alone. So the more you normally give the value, give the column to 2 columns, and give it to me alone. So you can write 3 as well. So what will happen now? The lower the value, the more value you get, the more you will get it alone. So you can give more value as well. It is not necessary that it is 3, you can give 5 as well. So that space will increase a little, but we will not know until we add more values. So these are the things that we need. You must have seen a time table in your childhood, where lunch breaks, sometimes the value of lunch is more, sometimes it is less. Sometimes two lectures are made and one lecture is made. So in the same way, tables were made. So this is your call span. Similarly, we have another span here. You can research about it. Row span. Now I will take you into a little detail on documentation, because if you have not read the documentation, then what did you learn? So let's go inside the table and see the shortcuts of MDN. MDN HTML. So let's go here as well. So you will see that the attributes here are not that much. Attributes like background colors, borders, cell padding, all these are there. As I told you, cell, cell spacing. We do not need to look at frames because these are not that many examples. But here they have given some examples. Go a little and read them. So there are many examples like call group, column, so we can see them in this way. Let's take a small example of this. Let's see what value the call group adds to us. So call group is a very easy topic. You can give a little detail about it. So let's read about it. The first thing you should know about it is that you do not use it much. You mostly use things like this through CSS. But still, let's take a little detail example. So this is our first table. And I want to make this first table a country and country code. I will make a group of these two columns. So let's see how we do it. Although, it does not make much sense to do it this way. You will also see that this could have been done through CSS. But it is okay. We will add one property here. So first of all, first of all, make a call group of this tag. After that, as soon as we go inside this tag, we can select columns. So what we have done is that give call property here. And again, this call here, C-O-L column, this is a self-closing tag. So it will be better to write it this way. Now you want to know how much you need to span. You need two properties. How many columns do you need? For example, one needs two. Our target is two now. So we write two. If there were three or four columns, we would have made four columns. After that, we need to know if you want to put a style in it. Because look, why do you want to put a style? You don't need to put a style. As soon as you go here, these two columns have become a group. But how do I know if it has become a group or I can use it. That is why we can put a style property or any other property or any other click event that we want to put here. The easiest thing to do is the background colors. So what do we do here? A background dash color. And we give it some color here. So we suggest that some color like this that can be easily used. Although I don't use colors like this. But okay, let's use it this time. So we saw that these two columns were selected together. That's why the property was applied to both. So in this way, we can select more things. But the way to unite columns like this is not so much implemented. The browsers have also dropped the support of Dhiridiresk. You will see that there will be more documentation here. So we will tell you that there is no work to do to sort the tables like this. We have an additional JavaScript that we can do. But we can't go to JavaScript right now. So this is enough for our table. You don't need to go too much. I will give you a small assignment. You will see that there is also T-foot. So text area and all this you don't need to read. There are many properties in the table. Some have been discarded. Those who have dustbin icons. Means now they don't need to work. You don't need to read everything. You don't need to see everything. You just need to see one T-foot. T-foot is simply the footer of the table. And you just need to study this example. What is it? We have seen that no matter how much T-body is there. You don't need to see all this. Now the implementation of tables has become a little easier. You just need to see what are the headers of the tables. What are rows. That's it. The majority of the elements that we have made are made in the same way. You can see T-foot for knowledge. But it is not necessary. Okay. So this is our detailed understanding of tables. Understandable example. You don't need to read more about it. That's all you need. Let's go to the next topic."
+}
